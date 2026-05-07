@@ -1,0 +1,464 @@
+[
+    {
+        "id": "54c2b497-5e86-4560-bbf4-eef15f75222f",
+        "name": "Genesis",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 1
+    },
+    {
+        "id": "9faaef59-6f62-4444-bf21-7ffe0c9d940b",
+        "name": "Exodus",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 2
+    },
+    {
+        "id": "3571dc7f-3893-4d57-b691-106ce9d74bda",
+        "name": "Leviticus",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 3
+    },
+    {
+        "id": "13120b00-1568-4307-98d4-99c593b86240",
+        "name": "Numbers",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 4
+    },
+    {
+        "id": "89cdc8d3-a0cf-468e-8934-cfa2c16419e4",
+        "name": "Deuteronomy",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 5
+    },
+    {
+        "id": "b1eaf3a5-fa12-481a-9106-5b4a6fe9953d",
+        "name": "Joshua",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 6
+    },
+    {
+        "id": "23afe443-0913-4b79-a175-330028d1a50c",
+        "name": "Judges",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 7
+    },
+    {
+        "id": "34c89e16-31b2-44ae-b091-00f2bfeb840b",
+        "name": "Ruth",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 8
+    },
+    {
+        "id": "4decee28-002e-4c38-a9ae-267f97ea94ab",
+        "name": "1 Samuel",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 9
+    },
+    {
+        "id": "dbf5ddc6-c89c-4537-9df8-f39c76a796b4",
+        "name": "2 Samuel",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 10
+    },
+    {
+        "id": "6766aaf5-c2a6-463d-9b38-2ddbb1ec37a3",
+        "name": "1 Kings",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 11
+    },
+    {
+        "id": "fe14c303-af71-4eda-bd0f-e63804b46c31",
+        "name": "2 Kings",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 12
+    },
+    {
+        "id": "eaeb9354-a97c-4d28-a6ca-0b6c0c8febe6",
+        "name": "1 Chronicles",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 13
+    },
+    {
+        "id": "a0643254-861d-4a76-a92d-11127e324b6f",
+        "name": "2 Chronicles",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 14
+    },
+    {
+        "id": "e9d44837-2769-4839-ac0b-78eb28134b47",
+        "name": "Ezra",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 15
+    },
+    {
+        "id": "9f355e2c-39bc-41c0-8b86-267611ec1374",
+        "name": "Nehemiah",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 16
+    },
+    {
+        "id": "e836edab-20aa-4374-b8f8-09770eabaf4e",
+        "name": "Esther",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 17
+    },
+    {
+        "id": "1570acdb-bbb8-464a-a9db-640ae287bb39",
+        "name": "Job",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 18
+    },
+    {
+        "id": "6457e669-f83b-41a8-a9fc-c10d6d71b6e3",
+        "name": "Psalms",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 19
+    },
+    {
+        "id": "87611d00-20df-4bd8-b939-7fbf5e44b5d9",
+        "name": "Proverbs",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 20
+    },
+    {
+        "id": "83b5af5c-9af3-42f9-b161-b6bf7cc6a647",
+        "name": "Ecclesiastes",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 21
+    },
+    {
+        "id": "87847c9e-6f4e-4de4-85dd-d603b7ac2e8d",
+        "name": "Canticles",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 22
+    },
+    {
+        "id": "9b9c45d1-e083-4c1c-8a59-0eff2388710c",
+        "name": "Isaiah",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 23
+    },
+    {
+        "id": "b5c1364f-d2b3-45da-961c-f4453dfe5545",
+        "name": "Jeremiah",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 24
+    },
+    {
+        "id": "a7000ee0-49eb-4031-ba75-795fd67c3274",
+        "name": "Lamentations",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 25
+    },
+    {
+        "id": "36e6c654-d8be-40cb-9aea-8a751e65655c",
+        "name": "Ezekiel",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 26
+    },
+    {
+        "id": "21fe9822-6c38-498a-965f-c5c2c25cceb6",
+        "name": "Daniel",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 27
+    },
+    {
+        "id": "c701072f-8fbf-4a5c-8d9a-316befc705bd",
+        "name": "Hosea",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 28
+    },
+    {
+        "id": "65c29c91-ad77-4554-840d-f18c03ea9009",
+        "name": "Joel",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 29
+    },
+    {
+        "id": "237d7d78-17af-44b6-a18f-d3e3b9e0e152",
+        "name": "Amos",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 30
+    },
+    {
+        "id": "cfaaa280-06c2-4bc5-9d47-f8068256011f",
+        "name": "Obadiah",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 31
+    },
+    {
+        "id": "ee96108f-4fd8-436c-b50c-30b80e5ddf3b",
+        "name": "Jonah",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 32
+    },
+    {
+        "id": "40242783-833a-4b07-a14b-ef063aabe2dc",
+        "name": "Micah",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 33
+    },
+    {
+        "id": "d35edb12-0c52-4d9c-880e-38758bebd4f6",
+        "name": "Nahum",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 34
+    },
+    {
+        "id": "32600902-452b-4aa9-b7f5-6407e2d84703",
+        "name": "Habakkuk",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 35
+    },
+    {
+        "id": "d1915c1d-04f3-46af-ae76-f736ba0683f1",
+        "name": "Zephaniah",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 36
+    },
+    {
+        "id": "0a010da3-f11f-4687-9de6-aff7fcc6b8e2",
+        "name": "Haggai",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 37
+    },
+    {
+        "id": "9668b8a8-9cc6-413d-8ba4-70ec5e4342a9",
+        "name": "Zechariah",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 38
+    },
+    {
+        "id": "1d3c6464-2ad4-456c-89cb-e4bc9fe3a153",
+        "name": "Malachi",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 39
+    },
+    {
+        "id": "e2c88d35-b844-416f-bf1f-2f2f5ab1e5c9",
+        "name": "Matthew",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 40
+    },
+    {
+        "id": "32bc7486-a27d-4d27-8331-f63b1fe7b056",
+        "name": "Mark",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 41
+    },
+    {
+        "id": "e9ee1f57-3111-4d56-8860-00e8474b9172",
+        "name": "Luke",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 42
+    },
+    {
+        "id": "1dd248f1-df30-4019-a18d-2a3a70793df0",
+        "name": "John",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 43
+    },
+    {
+        "id": "ff51869d-0320-4f6e-af88-13957f220d01",
+        "name": "Acts",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 44
+    },
+    {
+        "id": "3525015d-9abe-44bf-a005-b79f772be10f",
+        "name": "Romans",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 45
+    },
+    {
+        "id": "bd380e61-b6de-4310-b456-04694e1e877c",
+        "name": "1 Corinthians",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 46
+    },
+    {
+        "id": "37b5ed06-37a8-42da-989a-e41cd5a4605a",
+        "name": "2 Corinthians",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 47
+    },
+    {
+        "id": "7c45553a-dfb7-4d7c-8cd7-71f60bd836ae",
+        "name": "Galatians",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 48
+    },
+    {
+        "id": "3c8f6ccb-59d6-4ae0-aeab-badb1f9e02fb",
+        "name": "Ephesians",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 49
+    },
+    {
+        "id": "233070bd-92df-440f-95ab-39a2cdc643b6",
+        "name": "Philippians",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 50
+    },
+    {
+        "id": "6eac18b1-d803-49a4-9bd9-f0a0aa90b0fb",
+        "name": "Colossians",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 51
+    },
+    {
+        "id": "56b7e147-33cb-42dd-b633-f58460b51c76",
+        "name": "1 Thessalonians",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 52
+    },
+    {
+        "id": "5f3084aa-3888-4664-b485-3f2d2d53f9b2",
+        "name": "2 Thessalonians",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 53
+    },
+    {
+        "id": "3bce0e0c-e46d-4ece-bcb0-6ebd6530ad8d",
+        "name": "1 Timothy",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 54
+    },
+    {
+        "id": "181cf6dc-a2fd-48a1-8aff-fc59c7ab398e",
+        "name": "2 Timothy",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 55
+    },
+    {
+        "id": "77edfbf1-78fa-47e4-8677-70d37b9a9601",
+        "name": "Titus",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 56
+    },
+    {
+        "id": "2572bfdf-7d80-4fce-85d9-3fe33114bd21",
+        "name": "Philemon",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 57
+    },
+    {
+        "id": "a732d9a8-ae8a-4ca7-8bef-5ae3924ed3ef",
+        "name": "Hebrews",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 58
+    },
+    {
+        "id": "42e687c0-67c6-4984-ba76-ff03c652629f",
+        "name": "James",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 59
+    },
+    {
+        "id": "69b469a1-4667-483e-ac30-6e9ac313b377",
+        "name": "1 Peter",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 60
+    },
+    {
+        "id": "50edd41c-d9cc-4f47-8406-73aeed53ff79",
+        "name": "2 Peter",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 61
+    },
+    {
+        "id": "ab356fc6-561b-4891-970c-db9390ad37ff",
+        "name": "1 John",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 62
+    },
+    {
+        "id": "2c4c2ebb-72fe-4046-ac3f-bc62b51fc078",
+        "name": "2 John",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 63
+    },
+    {
+        "id": "94dcd158-f435-4be0-be81-4d109580aafb",
+        "name": "3 John",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 64
+    },
+    {
+        "id": "c322e14f-1da3-4459-883c-9fbe6f2fc6e2",
+        "name": "Jude",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 65
+    },
+    {
+        "id": "69bdac0e-e7c9-4a7a-b8e1-6a1e7fd5c789",
+        "name": "Revelation",
+        "color": null,
+        "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
+        "order": 66
+    }
+]

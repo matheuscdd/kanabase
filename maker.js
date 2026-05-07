@@ -1572,5 +1572,5 @@ function shuffleArray(arr) {
     return arr.toSorted(() => Math.random() - 0.5);
 }
 
-const res = a.map(x => ({id: crypto.randomUUID(), name: x.split('/')[1], categoryId: ref.find(y => y.name === x.split('/')[0]).id, categoryName: ref.find(y => y.name === x.split('/')[0]).name, podcastId: 'f8c87db0-fb42-463d-a5dd-f8f3921746c5', podcastName: 'Deep Dive - Bible', path: encodeURIComponent('en/deep-dive-bible/'+x)}))
+const res = a.map(x => ({id: crypto.randomUUID(), name: x.split('/')[1], order: Number(x.split('/')[1].split(' ')[1]), sectionId: ref.find(y => y.name === x.split('/')[0]).id, categoryName: ref.find(y => y.name === x.split('/')[0]).name, podcastId: 'f8c87db0-fb42-463d-a5dd-f8f3921746c5', podcastName: 'Deep Dive - Bible', path: encodeURIComponent('en/deep-dive-bible/'+x)}))
 console.log(shuffleArray(res))
