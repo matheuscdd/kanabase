@@ -1,0 +1,17 @@
+{
+  "name": "kana-json",
+  "version": "1.0.0",
+  "description": "This is the hiragana and katakana data for [Hanzi Writer](https://github.com/chanind/hanzi-writer). This data is based on the hiragana and katakana data from [animCJK](https://github.com/parsimonhi/animCJK).",
+  "main": "hanzi-writer.min.js",
+  "scripts": {
+    "compress:audio": "node compressAudio.js .",
+    "compress:json": "bash ./compressJson.sh ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg-static": "^5.3.0",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
