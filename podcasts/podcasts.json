@@ -3,6 +3,8 @@
         "id": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "name": "Deep Dive - Bible",
         "color": null,
-        "path": "deep-dive-bible"
+        "path": "deep-dive-bible",
+        "language": "en",
+        "ref": "deedc0de-dead-4eed-8bad-feedbeefcafe"
     }
 ]
