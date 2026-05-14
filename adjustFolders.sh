@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd 'podcasts/en/Deep Dive - Bible' || exit
+cd 'podcasts/en/deep-dive-bible' || exit
 mapfile -t books < <(ls)
 
 delimiter='.webm'
@@ -14,3 +14,5 @@ for book in "${books[@]}"; do
         mv "$book/$chapter" "$book/$name"
     done
 done
+
+
