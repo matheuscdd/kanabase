@@ -1,0 +1,956 @@
+If you break your arm, an x-ray gives you a very clean binary answer, broken or not broken.
+You see the jagged white line, the doctor points to it, and well, the path forward is perfectly clear.
+Well, you just put a cast on it.
+Exactly.
+But for centuries, people have tried to read the Hebrew Bible like it's an x-ray.
+Which is a massive mistake.
+It really is.
+They approach it looking for this clean binary historical ledger
+or like a completely flat, straightforward theological instruction manual.
+Yeah.
+And the ancient authors, I mean, they didn't write an instruction manual.
+They wrote a psychological labyrinth.
+A labyrinth.
+I love that.
+Right.
+And that requires an entirely different set of interpretive tools
+because when you approach this, you know, multi-layered literary masterpiece,
+expecting a flat list of rules.
+Or like a simple chronological diary.
+Exactly.
+You invariably flatten the profound depths of the human condition
+that those authors were meticulously mapping out.
+You just miss the architecture of the narrative entirely.
+And mapping the architecture of that labyrinth is,
+well, that's our exact mission today.
+Welcome to The Deep Dive.
+Thanks for having me back.
+Of course.
+Today, we are setting out to radically change
+how you, the listener, read and understand
+one of the oldest, most scrutinized,
+and frankly, most influential texts in human history.
+It's a big undertaking.
+Huge.
+And to do this, we have assembled
+a uniquely challenging stack of sources I'm really excited about this lineup me
+too we are looking at excerpts from a mid-20th century translation experiment
+which is known as the Bible in basic English fascinating project it really is
+and we are placing that text directly under the lens of Robert alters
+groundbreaking literary study the art of biblical narrative which is just a
+seminal work in this field absolutely and to add the necessary theological and
+historical weight we are integrating the scholarly logos seventh-day Adventist
+Bible commentary alongside the deeply
+psychological and historical writings of Ellen G. White.
+It is a phenomenal
+matrix of perspectives.
+I mean, we have the purely linguistic constraints of a modern
+translation on one hand.
+Right.
+And then the fierce literary analysis
+of ancient Hebrew syntax on the other.
+Plus the theological
+commentaries that attempt to bridge the gap between this ancient text and the
+modern soul.
+Yeah.
+By layering these sources, we're basically forced to treat the Bible
+not merely as a repository of dogma but as a master class in narrative artistry okay let's
+unpack this let's do it we're going to examine how ancient writers utilized highly specific
+conventions to convey incredibly complex spiritual truths and i want to start right in the linguistic
+sandbox the bible in basic english yes the bbe this source is just fascinating because of the
+sheer audacity of its premise i mean it attempts to translate the entire biblical library using a
+strictly enforced vocabulary of just 1000 words which sounds impossible right but the historical
+context of that project is crucial to understanding its utility it was developed by ck ogden of the
+orthological institute in england okay and he did this in collaboration with experts from cambridge
+university they were operating on this linguistic system they called basic english and what was the
+rule there well the core idea was that 850 standard english words could theoretically
+express the fundamental sense of any concept just 850 right but to accommodate the specific
+uh cultural and poetic demands of the biblical text they had to cheat a little they added 50
+specialized biblical words and 100 words tailored for reading english verse so that gets us to the
+flat 1000 that structural limitation is just staggering to me oh it's intense because for
+for context, a fluent English speaker utilizes an active vocabulary of anywhere from 20,000
+to 30,000 words.
+I mean, Shakespeare famously deployed over 30,000 unique words across his
+plays.
+So to compress the sprawling, cosmic, and let's be honest, violently human narratives
+of the Bible into a mere 1,000 words.
+It requires a ruthless editorial philosophy.
+Ruthless.
+Let's look at how that actually renders on the page.
+In the BBE source text
+for genesis 1 verses 1 through 3 it reads and i'll just quote it here at the first god made
+the heaven and the earth and the earth was waste and without form and it was dark on the face of
+the deep and the spirit of god was moving on the face of the waters and god said let there be light
+and there was light it is entirely unadorned very stark yeah the cambridge experts explicitly noted
+that this limited word list made it exceedingly difficult to maintain strict
+parallel structure with the original Hebrew and Greek texts I bet
+consequently they had to prioritize what they called the sense of the words over
+the stylistic nuance we were just trying to get the facts across exactly they
+were actively trying to avoid the sprawling flowery often distracting
+poetry of translations like say the King James Version right where the sheer
+music of that 17th century language can sometimes obscure the fundamental action
+of the text exactly the action is what matters in the bbe but looking at this i can't help but feel
+a massive tension between the bbe's drive for extreme modern simplicity and the entire thesis
+of robert alter's work oh it's a huge friction point because alter's central argument is that
+the original hebrew text is emphatically not simple not at all we might read it and think
+it sounds primitive or overly straightforward but alter insists that this perceived simplicity
+is an illusion it's an illusion masking highly sophisticated literary machinery right he argues
+the hebrew authors were pioneering early prose fiction techniques things like shifting perspectives
+carefully placed repetitions and invented dialogue and they use all of that to historicize their
+theology so if we look at that tension where does that leave us because if we view translation as a
+spectrum the bde sits on the extreme end of prioritizing functional communication yes the
+The experts behind it guarded the core factual meaning.
+Right.
+However, Alter's fundamental assertion is that in biblical narrative, the form is inseparable from the meaning.
+Oh, wow.
+Yeah, you cannot cleanly extract the what from the how.
+In biblical Hebrew, grammatical syntax, word order, and deliberate structural repetition perform the heavy lifting.
+The heavy lifting that, like, adjectives and adverbs do in a modern novel.
+Exactly.
+Adjectives, adverbs, extensive psychological exposition.
+The Hebrew text doesn't use those.
+It uses structure.
+So if I'm understanding this, I'd liken the BBE to rendering a sprawling, textured, emotionally complex oil painting into like an 8-bit video game graphic.
+That's an interesting way to put it.
+Right, because the functional architecture is there.
+You can identify the tree, the house, the person.
+But you lose the brush strokes, the blending of the colors, the nuance of the light hitting the leaves.
+Yeah.
+If Alter is right, stripping away that texture means you are actively deleting the
+psychological depth the original author encoded into the text.
+Well, I would actually push back
+on the 8-bit analogy slightly.
+Oh, really?
+Why?
+Just because it implies a degradation in quality.
+Ah, okay.
+Fair point.
+I think it is perhaps more accurate to compare the BBE
+to a wireframe model in 3D animation.
+Oh, I see.
+Yeah.
+It intentionally strips away the surface
+texture so you can examine the bare load-bearing architectural walls of the narrative yeah make a
+lot of sense and when you strip away the flowery language you realize just how sparse the original
+hebrew actually is which leads directly to alter's brilliant observation regarding the art of
+reticence the art of reticence that is such a cool phrase the idea that what the narrator refuses to
+tell you is just as important as what they explicitly state exactly but this requires a
+a massive shift for modern readers, doesn't it?
+Because we have been conditioned for thousands
+of years by the Homeric style of epic storytelling.
+Precisely.
+In the tradition of the Iliad or the
+Odyssey, the narrator is omniscient and honestly aggressively illuminating.
+Yes.
+The Homeric
+narrator operates like a massive spotlight, leaving no corner of the room in shadow.
+You
+are told exactly what Achilles is thinking, the precise genealogical history of the man he is
+about to kill even the intricate designs on a shield yes or the exact color of the wine dark sea
+there is zero ambiguity about motivation or internal state but the biblical narrative is
+the absolute antithesis of that spotlight it is profoundly reticent highly reticent it holds back
+information it selectively deploys silence to force the reader into an active role like the
+the narrator might completely obscure one character's internal motives
+while explicitly broadcasting another's.
+And we must understand, this is not due to primitive storytelling.
+Right, it's not a mistake.
+No, or an author simply forgetting to provide details.
+It is a highly calibrated technique designed to create psychological ambiguity.
+The biblical text demands that the reader become a detective.
+You really do have to weigh actions against spoken words
+to divine the true nature of the characters.
+Exactly.
+Okay, let's apply this to the specific example Alter highlights from 1 Samuel 18.
+This is the relationship between David and Michael.
+Such a great example.
+So the text makes a definitive, explicit statement that says,
+Michal, Saul's daughter, loved David.
+Which Alter notes is an incredibly rare occurrence in the biblical text.
+Really?
+Yeah, a woman's romantic feelings being explicitly declared by the narrator.
+Very rare.
+Oh, wow.
+Wow.
+But then, following that bold declaration, there is an absolute void regarding David's feelings.
+Total silence.
+We are given no indication whatsoever of how David feels about Marchand.
+And that silence is strategically deafening.
+To understand its impact, we have to look at the broader political context the narrator has built around David up to this point.
+Let's set that stage.
+Well, David is not just a shepherd boy anymore.
+He is a rising military hero.
+He is increasingly beloved by the populace, and King Saul is descending into a paranoid, murderous jealousy over him.
+Which is terrifying.
+Right.
+Furthermore, Alter points out that in the text leading up to this marriage, we only ever see David engaging in calculated public diplomatic speech.
+He's always playing the politician.
+Exactly.
+Which makes the ensuing silence regarding his internal life almost suffocating for the reader.
+I mean, here's where it gets really interesting.
+when David agrees to marry the king's daughter, the author's reticence forces you into a state
+of deep suspicion.
+Is David a genuinely affectionate young man marrying for love?
+Or is he a cold, shrewd political operator, fully aware that marrying the king's daughter
+provides him with the essential royal leverage he needs to eventually seize the throne?
+The genius is that the text refuses to answer the question for you.
+It just leaves you hanging.
+It leaves you wrestling in the dark.
+But
+But interestingly, we find a profound validation of this psychological complexity in the theological commentary of Ellen G. White.
+Oh, right.
+Her writings on David.
+Yeah.
+When writing about David's internal landscape, she doesn't portray him as a flat, flawless hero.
+She writes extensively about his varying mental experience.
+Meaning he wasn't just constantly faithful and happy?
+Far from it.
+Referencing her notes on Psalm 77, she highlights how David oscillated between extremes.
+dreams.
+There were moments of intense exaltation where he felt a clear, profound connection
+to God's will.
+And these were sharply contrasted by periods where he was enveloped in a cloud
+of thick darkness, feeling entirely abandoned.
+That theological perspective perfectly aligns with Alter's literary analysis.
+Because
+White explicitly notes that David had to learn through immense suffering not to be hasty
+in his judgment or to cast himself down in helpless despair.
+Right.
+That deep internal oscillation between faith and cold political calculation, between exalted light and crushing darkness, is exactly the reality the biblical author is attempting to convey.
+By utilizing the art of reticence.
+Yes.
+By refusing to simply tell us what David is thinking when he marries Michal, the author drags us into the messy, ambiguous, unresolvable reality of the human mind.
+The author creates a space where both realities, the faithful servant and the calculating politician, can exist simultaneously in the reader's mind.
+Because both likely existed simultaneously in David's mind.
+Exactly.
+It really reminds me of Ernest Hemingway's iceberg theory of writing.
+Oh, that's a perfect connection.
+Yeah, Hemingway famously argued that a writer should only show the top 10% of the iceberg above the water.
+You know, the bare facts, the basic dialogue, the physical actions.
+And leave the rest.
+Right.
+The other 90 percent, the sprawling emotional landscape, the actual meaning of the scene remains hidden beneath the surface.
+The omission itself is the engine of the story's power because it forces the reader to actively dive under the water to experience the submerged weight of the narrative.
+And the biblical authors were deploying the iceberg theory millennia before Hemingway was even born.
+It's just wild to think about.
+It really is.
+And if we want to see the absolute pinnacle of this biblical iceberg theory in action, we have to look at the narrative in 1 Samuel 24 at the cave of Ein Gedi.
+Let's build the context for that scene because it is easily one of the most cinematic moments in ancient literature.
+Oh, it's tense.
+So King Saul has completely succumbed to his paranoia.
+He has marshaled his army and is literally hunting David through the jagged wilderness of Ein Gedi to execute him.
+Yeah.
+And in a moment of sheer vulnerability, Saul separates from his men and enters a dark cave to relieve himself.
+Unbeknownst to Saul, David and his desperate militia are hiding in the deepest recesses of that exact same cave.
+The psychological tension in that cavern is palpable.
+I mean, David's men are whispering to him in the darkness, urging him to strike.
+Right.
+They see it as an opportunity.
+More than that, they frame it as divine providence.
+They're like, God has delivered your mortal enemy into your hands.
+this is the moment to seize the throne and end the agonizing life of a fugitive but david refuses
+to assassinate the anointed king instead he creeps through the darkness and silently slices off a
+small corner of saul's royal robe which is a bold move in itself right and then after saul leaves
+the cave david follows him out into the glaring sunlight standing at a safe distance he holds up
+the severed piece of fabric and unleashes a massive highly rhetorical impassioned speech
+he really lets loose he essentially says look at this cloth i had your life in my hands but
+i spared you why are you hunting me like a dead dog like a single flea he lays all his emotional
+cards on the table and here is where the art of reticence delivers its most devastating blow
+well following david's sweeping rhetorical defense how does the narrator capture saul's reaction the
+The narrator does not provide a lengthy exposition about Saul's sudden wave of guilt or his cognitive dissonance or his tragic realization that David possesses a moral center he lacks.
+The narrator gives us one single choked line of dialogue from Saul.
+Saul simply says, is this your voice, my son David?
+And then the text adds one physical detail.
+And Saul raised his voice and wept.
+Alter's analysis of that single line is profound.
+by stripping away all exposition the author packs an entire psychological collapse into a few words
+just a few words why does saul ask about david's voice is it because his eyes are so flooded with
+tears he cannot see clearly is he in a state of psychological shock wow alter even suggests it
+might be a subtle tragic echo of the blind patriarch isaac who centuries earlier asked
+to hear the voice of his son jacob oh that's chilling the sheer density of meaning compressed
+pressed into that one question surrounded by the silence of the narrator is just staggering.
+When you look at the text like that, it actually makes me appreciate
+the BDE's wireframe approach in a whole new way.
+How so?
+Well, if the true power of the narrative lies in what is left unsaid,
+then you desperately need every single spoken word, every precise physical action
+to act as a signpost pointing directly toward that silence.
+That is a great way to view it.
+The fewer words there are, the more weight each word must carry.
+Absolutely.
+Now, if breaking an audience's expectation through silence is one way to
+signal meaning, what happens when an author leans entirely into expectations?
+Because that brings us
+to another massive tool in the ancient storytelling toolkit.
+What Robert Alter categorizes as type
+scenes.
+Exactly.
+Type scenes.
+The concept that is absolutely essential for understanding ancient
+narrative, though it can feel somewhat alien to a modern reader who prizes absolute originality
+and plot.
+I actually think modern audiences understand this intuitively even if they don't
+have a term for it.
+I look at type scenes as the ancient equivalent of Hollywood tropes.
+Oh
+definitely.
+When you sit down in a movie theater today you bring a massive subconscious library
+of narrative expectations with you.
+If you're watching a slasher film and a teenager wanders
+off into the dark wood saying I'll be right back.
+You immediately register the trope.
+Yes you know
+No, with absolute certainty they are not coming back.
+Or consider the classic romantic comedy trope.
+Two strangers are walking in opposite directions in a crowded hallway.
+One drops a stack of papers.
+They both kneel down to pick them up.
+Their hands brush and they lock eyes.
+You don't need the narrator to tell you they are going to fall in love.
+The structural trope itself guarantees the outcome.
+Exactly.
+And ancient audiences possess their own highly developed library of tropes.
+Alter defines a type scene as a strict, anticipated narrative formula
+that audiences expected major life events to follow right if the story
+required a heroic birth and a prophetic calling or a betrothal the author was
+expected to hit very specific established narrative beats the most
+prominent and frequently deployed type scene in the Hebrew Bible is the
+betrothal at the well the well scene yes in the ancient Near East the well was
+the absolute center of community life it was the ancient watering hole the place
+place of gathering and commerce.
+So if a biblical hero needed to find a wife, the narrative almost
+always routed him to a well.
+Let's map out the exact structural beats of this ancient rom-com
+formula so we know what the audience was waiting for.
+Sure.
+First, the hero leaves his home and
+travels to a foreign land.
+Second, he encounters a young woman or a group of young women at a well.
+Third, there's an action involving the drawing of water.
+Either he draws it for them or they for
+him exactly fourth the young woman rushes home to tell her family about the arrival of this stranger
+fifth the stranger is invited in and a meal is shared and finally a betrothal is successfully
+concluded we see this exact formula execute flawlessly time and time again i mean abraham's
+servant travels to a foreign land meets rebecca at a well water is drawn she runs for her brother
+laban a meal is shared and isaac gets a wife it's clockwork jacob flees to a foreign land meets
+meets Rachel at a well, waters the flock, she runs to a father, and a betrothal is made.
+Moses flees to Midian, meets Zipporah and her sisters at a well, draws water for them,
+they tell their father rule, he is invited to eat, and they are married.
+But looking at this from a skeptical modern perspective, it forces us to ask a question,
+which is, is this actually brilliant literary artistry or is it just lazy writing?
+I mean,
+Is it possible these authors were simply recycling old oral traditions because they like the imagination to invent a new way for two people to meet?
+Right.
+If every single hero gets married using the exact same six step process, it risks becoming hopelessly predictable.
+Right.
+But it is entirely predictable.
+And Alter argues that this predictability is not a flaw.
+It is the author's secret weapon.
+How so?
+The genius of the biblical writers does not lie in how faithfully they follow the formula.
+The genius is revealed in how they intentionally fracture, distort, or break the formula to communicate critical information about the character involved.
+That's fascinating.
+Alter relies on a theory proposed by the art historian E.H. Gombrich, who stated,
+Where we can anticipate, we need not listen.
+Where we can anticipate, we need not listen.
+That is a brilliant psychological insight.
+If the story is perfectly tracking the formula in our heads, our brains go on autopilot.
+Exactly.
+We stop paying close attention because we know exactly what happens next.
+Precisely.
+Therefore, when an author deliberately introduces a deviation from the
+established trope, it acts like a blaring alarm in the mind of the ancient listener.
+The broken expectation demands immediate, heightened attention.
+Let's look at how this operates in the introduction of Saul in 1 Samuel 9.
+Okay.
+Long before Saul is the tragic, paranoid king weeping in the cave at Ein Gedi.
+He is simply a tall, handsome young man sent on an errand.
+His father's donkeys have gone missing, and Saul is sent into a foreign region to find them.
+He is unsuccessful and decides to go up to a nearby town to ask a local seer for guidance.
+And as he is walking up the ascent to the city, he encounters a group of young girls coming out to draw water.
+Stop right there and put yourself in the mind of the ancient listener.
+The hero is in a foreign land.
+He is approaching a water source.
+He encounters young women drawing water.
+Every alarm bell in the ancient listener's head is ringing.
+Oh, definitely.
+This is the betrothal at the well.
+The audience is sitting back, ready for the romantic music to swell.
+They expect Saul to step in, draw the water, watch the girls run home, and sit down to a betrothal feast.
+He's about to meet his future queen.
+That is the precise expectation the author has carefully built.
+But what actually unfolds, Saul completely ignores the romantic potential of the situation.
+situation he just he just asks the girls if the local seer is in town and the girls rather than
+being struck by his presence and running home to their family respond with a barrage of hurried
+overlapping almost comically verbose directions they just babble at him they really do they're
+like yes he is ahead of you hurry now he just came to the city today there is a sacrifice on
+the high place if you go now you will find him before he goes up to eat it is a complete disruption
+of the serene romantic rhythm of the well trope it's the narrative equivalent of a needle
+scratching off a record the romantic tension is completely boarded butterly
+aborted Saul leaves the girls at the well completely bypassing the expected
+betrothal and goes to find the seer the seer turns out to be the Prophet Samuel
+and Samuel does not offer Saul a bride no he offers him a kingdom Samuel
+anoints Saul as the first king of Israel so if the type scene was essentially a
+promise of romance that the author purposefully broke what is the
+the underlying message about Saul's character?
+By teasing the betrothal trope and then violently
+snatching it away, the author is broadcasting a profound truth about Saul's destiny.
+Which is?
+Saul is a man who will be denied the normal domestic comforts of a typical life.
+His destiny
+is not romance or family peace.
+His destiny is the incredibly heavy, isolating, and ultimately
+crushing mantle of kingship.
+The aborted type seen at the well serves as a subtle but powerful
+powerful foreshadowing of his entire disastrous reign.
+He is thrust into a narrative he doesn't
+fully understand, tasked with a role he is fundamentally unsuited for, and the happily
+ever after is permanently withheld from him.
+It is a staggering literary maneuver.
+It would be
+like starting a movie with all the lighting, music, and pacing of a lighthearted romantic comedy
+only to abruptly pivot the genre in the second act into a psychological thriller.
+Right.
+The
+The audience is left deeply disoriented, but they implicitly understand that this character is doomed.
+And that disorientation is exactly what the author intended.
+They use the audience's own cultural expectations against them to deliver a far more devastating psychological portrait of Israel's first king.
+If breaking an audience's expectation through a trope is one way to signal meaning, what happens when an author does the exact opposite?
+Oh, right.
+What happens when they ruthlessly repeat the exact same word or action until it becomes impossible to ignore?
+more.
+Because this brings us to a major point of friction for modern readers.
+The sheer amount of
+repetition in the biblical text.
+It's a huge hurdle for a lot of people.
+We are trained to view
+repetition as poor editing.
+If I write a paragraph and use the same word four times, an editor will
+cross three of them out and hand me a thesaurus.
+It feels redundant.
+But that modern editorial
+instinct is precisely what we have to unlearn when engaging with ancient Hebrew literature.
+For the biblical authors, repetition was not a sign of a limited vocabulary.
+It was a highly technical, surgical tool.
+A tool with a very specific name, right?
+Yes.
+The philosophers Martin Buber and Franz Rosenzweig spent years translating the Hebrew Bible into German.
+And in the process, they identified this technique and coined the term Leitwurzstil.
+Which translates to leading word style.
+Meaning a specific word is chosen to lead the reader's subconscious toward the core theme of the passage.
+And to understand why light word still is so uniquely powerful in biblical literature,
+we have to look at the mechanics of the Hebrew language itself.
+Right.
+Because Hebrew is constructed on a system of triliteral roots.
+Let's break that down mechanically for the listeners so we can see how this machinery
+works.
+Okay.
+Consider the three Hebrew consonants.
+Shin, mem, and ayin, S-M-A.
+That specific triliteral root forms the conceptual basis
+for the idea of listening or hearing good now by changing the vowels around
+those three anchor consonants you can create a wide array of different words
+with different grammatical functions you can create the verb Shama which means he
+listened you can create the future tense Yishma he will listen you can create the
+imperative command Shema listen you can even create the known Mishma the active
+hearing so an author can leave a story using nouns verbs and adjectives that
+that all sound slightly different, but share that identical SMA consonant's fine.
+Yes, it creates an inescapable sonic rhythm.
+A rhythmic, subconscious drumbeat of meaning.
+The consonants anchor the theme, while the shifting vowels allow the narrative to flow naturally.
+Exactly, and the English language, relying heavily on diverse vocabulary and synonyms,
+really struggles to replicate this effect.
+I can imagine.
+When a modern translation attempts to capture it,
+it often just looks like the same English word repeated clumsily.
+Right, but in Hebrew, it is a sophisticated symphony of variations on a theme.
+Let's look at a concrete example of this drumbeat in action.
+Where do we see light words still deployed effectively?
+We can return to the tragedy of King Saul.
+In 1 Samuel 15, we find the turning point of Saul's reign,
+a massive kingdom-altering confrontation between King Saul and the prophet Samuel.
+Okay, set the scene.
+God, speaking through Samuel, gives Saul a horrifyingly explicit command.
+command, go to war against the Amalekites and utterly destroy everything.
+Do not spare the
+people, the sheep, or the cattle.
+Total annihilation.
+Very clear command.
+But Saul disobeys the parameters
+of the command.
+He wins the battle, but he spares the Amalekite king, and he allows his army to keep
+the absolute best of the sheep and cattle as plunder.
+So Samuel arrives at the Israelite camp
+to confront the king, and he immediately hears the bleeding of the sheep Saul was supposed to destroy.
+Yes.
+And from the moment Samuel opens his mouth, the biblical author deploys a relentless late word still built entirely around those triliteral roots associated with listening, voice, and words.
+The drumbeat begins.
+Exactly.
+The Hebrew root shama, which means to listen, kol, meaning voice, and dabar, meaning word, are hammered into the text over and over again.
+Tracking that drumbeat through the dialogue is incredible.
+I mean, Samuel begins the interrogation by demanding to know why Saul failed to listen to the voice of the Lord.
+Saul immediately gets defensive.
+He tries to shift the blame, claiming that he actually did obey.
+But the soldiers took the plunder because they wanted to sacrifice it to God.
+Saul essentially argues that he listened to the voice of the people.
+Then Samuel delivers the fatal theological blow to Saul's kingship.
+He says,
+And Saul is finally broken by this.
+He confesses his sin and look at the exact words the author puts in his mouth.
+I have sinned.
+I have transgressed the word of the Lord because I feared the people and listened to their voice.
+The repetition in that exchange is not filler.
+No, not at all.
+It is an inescapable thematic trap.
+By ruthlessly repeating those specific roots,
+the author is forcing the reader to physically experience the core theological tension of the
+scene.
+Will the King of Israel weigh the voice of his people as heavier than the voice of his God?
+Exactly.
+The light word still transforms a historical military failure into a profound
+exploration of obedience and the dangerous allure of popular approval.
+Which perfectly illustrates how the form of the text is the meaning of the text.
+The theology isn't just stated, it is woven into the very consonants the author chose to use.
+It's brilliant.
+It really is.
+Now, Alter points out that repetition isn't only used for heavy, tragic themes like Saul's downfall.
+In some instances, repetition is weaponized to create satire.
+Yes, what he calls the comedy of the mechanical.
+And it is a deeply profound form of comedy, particularly when we look at the narrative of Balaam and Balak found in the Book of Numbers.
+To understand the satire here, we have to understand the ancient Near Eastern mindset regarding the divine.
+Okay, lay it out for us.
+In many pagan cultures, theology was fundamentally mechanical.
+The gods were viewed as powerful but manipulable forces.
+If you performed the correct ritual, sacrificed the correct number of animals, and recited the correct incantation,
+you could effectively force the gods to pull the levers of the universe in your favor.
+So it was a transactional system of divine mechanics.
+Exactly.
+And King Balak is the ultimate practitioner of this mechanical theology.
+Balak is the pagan king of Moab, and he is watching this massive, terrifying horde of Israelites marching toward his borders.
+He is desperate.
+Very desperate.
+So he hires a renowned foreign prophet, a mercenary seer named Balaam, and pays him an exorbitant fee to stand on a mountain and place a spiritual curse on the Israelite camp.
+And the author details Balak's mechanical preparations with painstaking precision.
+decision.
+Balak escorts Balaam to a high vantage point overlooking the Israelites.
+He orders the
+construction of exactly seven altars.
+Very specific.
+Right.
+He meticulously sacrifices exactly seven
+oxen and seven rams.
+It is a highly elaborate, intensely controlled effort to manipulate the
+divine realm into cursing his enemies.
+But the biblical God refuses to be manipulated by ancient
+vending machine mechanics.
+Not at all.
+When Balaam opens his mouth to deliver the purchase curse,
+the spirit of God overpowers him.
+Instead of a curse, Balaam's mouth pours out a soaring,
+beautiful, poetic blessing over the people of Israel.
+King Balak is understandably completely
+enraged.
+He paid for a curse and received a blessing.
+But what is his solution?
+He doesn't
+abandon his mechanical worldview.
+Oh, he just thinks he did it wrong.
+Exactly.
+He simply assumes
+he calibrated the machine incorrectly.
+He thinks perhaps this specific mountaintop doesn't have
+the right spiritual reception so he drags balaam to a second completely different high place and
+the author forces us to sit through the exact same ritual all over again seven new altars are built
+seven oxen are slaughtered seven rams are burned the levers are pulled and once again balaam opens
+his mouth and the unsnobbable blessing of god pours out but the absolute height of the satire
+the real punchline of the narrative is that balak refuses to learn he drags balaam to a third
+third location a third time and for a third time the text meticulously repeats the mechanical
+process seven ulfers seven oxen seven rams and for a third time the blessing overrides the curse
+wow alter notes that this deliberate exhausting repetition of the ritual is an early form of
+literary mockery it exposes the sheer absurdity of the pagan mechanical view of theology the
+repetition highlights the comedic futility of a human king desperately pushing buttons and pulling
+pulling levers, completely oblivious to the fact that he is attempting to manipulate the
+sovereign creator of the universe.
+Precisely.
+The mechanical repetition of their futile actions on the ground is set in stark, comedic
+contrast to the soaring, unconstrained power of God's blessing from above.
+If we extrapolate this concept, it actually cuts incredibly close to the bone of the modern
+human condition.
+Oh, absolutely.
+We may not be building stone altars or sacrificing oxen, but we are absolutely obsessed
+with pulling levers to control our universe.
+We build our own modern seven alters, whether it is an obsession with our 401k, our fitness routines, our status, or our meticulously curated social media presence.
+We really do.
+We constantly engage in repetitive mechanics, believing that if we just get the inputs right, we can insulate ourselves from suffering or guarantee our own success.
+That is a deeply resonant application, and it is a connection that Ellen G. White makes explicitly in her theological writings.
+What does she say about it?
+it.
+When commenting on the human condition, she frequently targets the inherent pride and
+vainglory of humanity.
+She notes our relentless tendency to exalt self and magnify our own wisdom
+and planning.
+Right.
+She writes that because of this ingrained pride, it is actually necessary
+for God to consistently disappoint human hopes and frustrate human plans so that people might
+finally realize their own frailty and learn to trust in him alone.
+The narrative of Balak is
+erogate plans are repeatedly systematically frustrated and the awful
+forces us to experience that frustration alongside Balak through the grinding
+repetition of the text.
+It proves that human mechanics cannot under any
+circumstance override divine purpose.
+The structure of the story delivers the
+theology just as effectively as the dialogue.
+That is amazing.
+Now we have
+spent a lot of time analyzing the subtle tools of the trade, the omissions of
+reticence the broken expectations of type scenes the rhythmic drum beats of repetition but i want
+to pivot now to what happens when an editor takes two massive seemingly incompatible pieces of
+narrative and violently smashes them together ah composite artistry yes what alter terms composite
+artistry and there's no better place to explore this than the very beginning of the entire library
+the book of genesis the dual creation accounts of genesis chapter one and genesis chapter two
+Right.
+For generations of modern readers, and certainly for the critical scholars of the 19th
+and 20th centuries, this transition from chapter one to chapter two has been a source of immense
+confusion and debate.
+Because it is deeply jarring.
+Let's look at the BBE source text to clearly delineate just how vastly different these two
+accounts are.
+If you sit down and read Genesis 1, you are presented with an incredibly cosmic,
+transcendent view of reality.
+Yes.
+The Hebrew text uses the name Elohim
+hymn for God, a title emphasizing absolute distant power.
+God creates a highly structured
+hierarchical universe over six orderly days.
+And he does it entirely through the power of spoken
+word.
+Let there be light.
+And there was light.
+It is clean.
+It is chronological.
+And when it comes
+to the creation of humanity, the BBE text states, and God made man in his image.
+Male and female,
+he made them.
+It reads as a simultaneous instantaneous creation of humanity as the
+the crowning achievement of the cosmos.
+It is a grand vertical perspective looking down from the
+heavens.
+It is majestic and distant, but the moment you turn the page to Genesis chapter 2,
+the camera angle shifts so violently it feels like whiplash.
+Exactly.
+Suddenly we are no longer
+watching galaxies spin into existence from the void.
+The language changes.
+The Hebrew text
+introduces a new name, Yahweh Elohim, rendered as the Lord God, denoting a deeply personal
+personal covenantal relationship.
+And the methodology of creation shifts dramatically.
+The BBE states, the Lord God made man from the dust of the earth, breathing into him the breath
+of life.
+This guy isn't speaking from a distance.
+He's on his knees in the dirt, intimately shaping
+mud.
+Furthermore, the chronology seems completely disrupted.
+Right.
+He creates the man first,
+places him in a highly localized garden, tasks him with naming the animals, and only after
+recognizing the man's profound isolation does he perform a localized surgery taking a bone from
+the man's side to create the woman genesis 1 is cosmic and vertical genesis 2 is earthy deeply
+horizontal and intensely focused on moral tension physical boundaries and the intimate realities of
+human relationships so confronted with these glaring discrepancies the historical critical
+scholars of the documentary hypothesis era concluded that these must be two entirely
+different contradictory source documents written by different theological camps in different
+centuries right and that some later rather clumsy editor just hastily sticks them together into one
+scroll yeah which if true leaves the modern reader feeling like the foundation of the text is
+fractured or fundamentally flawed yeah so how do we reconcile these two accounts if we are committed
+to reading the bible as a work of intentional sophisticated literary artistry this is where
+Robert Alter's concept of composite artistry provides a revolutionary paradigm shift.
+Alter vehemently rejects the idea of a clumsy editor.
+He thinks it was on purpose.
+He argues that the final redactor, the ancient mind that placed these two scrolls side by side,
+was a master artist making a deliberate, highly sophisticated theological statement.
+Okay, I'm tracking.
+They juxtapose these seemingly contradictory accounts because they understood that neither
+neither account on its own, was capable of capturing the full paradoxical truth of the
+human relationship with the divine.
+Alter uses a brilliant visual analogy to explain this,
+doesn't he?
+He does.
+He compares the redactor's work to a post-Cubist painting.
+Like Picasso.
+Imagine standing in front of a portrait painted by Pablo Picasso.
+In the same frame,
+on the same canvas, you are looking at the sharp profile of a face while simultaneously
+looking directly into the frontal view of that exact same face.
+It is a profound analogy.
+In the physical three-dimensional world,
+the human eye can never perceive both the profile and the frontal
+view simultaneously.
+They are physically contradictory perspectives.
+But the cubist painter intentionally breaks the rules of linear
+perspective.
+They force both views onto the same flat canvas
+to provide a more encompassing, holistic representation of the subject
+than a simple photograph ever could.
+And Alter argues the biblical redactor was painting a cubist portrait of God in humanity.
+Precisely.
+Genesis 1 is the frontal view.
+It establishes the vertical reality that we inhabit an ordered universe
+governed by a sovereign, transcendent, all-powerful creator.
+But Genesis 2 is the necessary profile view.
+It establishes the horizontal reality that this same sovereign creator
+gets his hands dirty in the dust with us.
+He is intimately involved in our moral failures, our desperate loneliness, and our physical existence.
+The redactor is communicating that you cannot truly understand the biblical framework by selecting only one perspective.
+Because if you only have Genesis 1, you have a God so distant, he is essentially unknowable, a prime mover who spins the clock and walks away.
+And if you only have Genesis 2, you have a deeply intimate deity, but perhaps one who lacks the cosmic sovereignty to uphold the universe.
+Right.
+By forcing these accounts into composite artistry, the text demands that the reader hold both the transcendent majesty and the intimate mud in their minds simultaneously.
+Building on that concept of composite tension, Ellen G. White's commentary offers some stunning insights into how the natural world itself reflects this dual reality.
+What does she focus on?
+She writes extensively about the natural world not merely as a backdrop, but as God's active storehouse, a classroom designed to teach humanity profound lessons of humility.
+She asserts that the very operations of nature are God's servants.
+Wow, so nature is actively teaching us.
+Yes.
+When you apply her theological lens to the dual creation accounts, it amplifies the artistry.
+Genesis 1 demonstrates God's absolute transcendent command over nature, he speaks, and the cosmos obeys its master.
+Yet Genesis 2 demonstrates his profound physical involvement with nature.
+He personally plants the garden.
+He physically breathes life into the dust.
+The composite text beautifully encapsulates both his dominion over the storehouse and his intimate care in stocking it.
+It proves that what initially appears to modernize as a crude editorial stitch job is, in fact, a deeply profound theological mosaic.
+We've spent this entire deep dive deconstructing the historical prose narratives of the Hebrew Bible analyzing kings, prophets, and the creation of the cosmos.
+knows.
+But as we transition into our final
+area of exploration, I want to
+radically shift gears.
+Let's do it.
+I want to leave
+the restrained prose behind and
+wade into the raw, unfiltered
+poetry of the psalms.
+We discussed earlier how the historical narratives
+utilize the art of reticence
+to deliberately mask
+the internal psychological states
+of the characters.
+The
+narratives are silent.
+But the psalms?
+The psalms do not know the meaning of reticence.
+They blow the doors entirely off
+human emotion.
+They are the absolute
+antithesis of reticent prose if the historical narratives provide the skeletal structure of
+ancient israel's history the songs provide the subjective bleeding beating heart they are the
+emotional soundtrack to the history i love that phrase emotional soundtrack the logo seventh day
+adventist bible commentary synthesizes the overarching theme of this massive poetic
+collection beautifully it states that the core of the psalms can be distilled to this
+The human being lives in distress and God helps him.
+So simple, but so deep.
+The commentary emphasizes that it is a universal book of prayer.
+It is the unvarnished human cry.
+And the vocabulary the Psalms use to articulate that cry is incredibly rich.
+The Logos commentary highlights some specific linguistic choices
+that illustrate just how dynamic the poetry is.
+For instance, they focus on the Hebrew root zarak.
+Yes, zarak.
+This is a verb that translates primarily to shine, rise, or burst forth.
+Burst forth.
+It is frequently used in connection with the rising of the sun,
+but in the context of the Psalms, it takes on a deeply theological weight.
+The commentary notes its usage in texts that describe the experience of the upright or the righteous.
+The poetic image is that unto the upright there ariseth, or zarach, light in the darkness.
+So it isn't a slow, gradual dawn.
+No.
+The root implies a sudden, powerful, almost violent eruption.
+It captures the psychological reality of the human cry.
+The psalmist is often writing from a place of absolute suffocating darkness,
+surrounded by enemies, crushed by guilt, or facing imminent death.
+And the intervention of God is not described as a subtle shift in circumstances,
+but as zarak, a blinding, sudden intrusion of divine light that completely shatters the darkness.
+There is another word the Logos Commentary unpacks from Psalm 68 that I found absolutely captivating, Mabassaroth.
+Ah, Mabassaroth.
+This is a plural feminine participle derived from the root BSR, which generally relates to flesh or the bringing of news.
+Specifically, Mabassaroth refers to female messengers or women who proclaim victory.
+This requires some ancient near Eastern cultural context to fully appreciate, right?
+Oh, yeah.
+Because we are far removed from the realities of ancient warfare.
+Immensely removed.
+In the ancient world, warfare was brutally intimate,
+fought hand-to-hand over long campaigns.
+When an army marched out to defend the nation,
+the men were gone for months.
+And the families were just waiting.
+Exactly.
+The entire village, the women, the children, and the elderly
+were left waiting in agonizing suspense.
+The survival of their entire community hung in the balance.
+When a battle concluded, runners would be sent back with the news.
+As the dust appeared on the horizon,
+and the tension in the village would have been unbearable.
+Is it our army returning or is it the enemy coming to enslave us?
+And when the watchmen finally identified the banners of their own victorious army, what happened?
+It was culturally dictated that the women of the village would rush out to meet the returning soldiers.
+They would grab timbrels and tambourines, form choruses, and sing songs proclaiming the victory.
+Oh, wow.
+We see this vividly with Miriam leading the women in song after the crossing of the Red Sea
+or the women coming out to sing for David and Saul after the defeat of Goliath.
+The Mabassaroth were the physical embodiment of salvation and joy for a traumatized community.
+So when the psalmist in Psalm 68 uses the word Mabassaroth
+to describe the proclamation of God's word or God's victory,
+they're not just using a generic term for a messenger.
+Not at all.
+They are deliberately hijacking one of the most emotionally charged,
+adrenaline-fueled cultural images available to them.
+They are equating the experience of divine salvation with the overwhelming weeping joy
+of seeing the women running out to tell you that your sons and husbands are alive and
+the enemy is defeated.
+Exactly.
+The Psalms take the gritty historical realities of ancient life and transfigure them into
+soaring metaphors for the spiritual journey.
+Where the prose narrative of David's life leaves us constantly guessing about his true
+internal state, was he a faithful servant or a calculating politician?
+politician.
+The psalms attributed to David strip away all diplomacy.
+They give us a terrifyingly
+intimate front row seat to his paralyzing fears, his soaring ecstatic joys, and his utterly
+crushing suicidal guilt.
+If the narrative is Hemingway's iceberg, the psalms are the deep
+sea dive exploring the massive jagged ice submerged below the surface.
+To navigate that
+submerged emotional landscape, Ellen G. White provides a deeply moving commentary on Psalm 92
+that I think brings us all together perfectly.
+Her palm tree analogy.
+Yes, Psalm 92 states that the righteous will flourish like a palm tree.
+White takes that ancient poetic imagery and unpacks it for the modern reader.
+She asks us to visualize a weary, exhausted traveler trekking through a burning desert.
+They are dying of thirst, surrounded on all sides by what she calls a dreary, sandy waste.
+A very bleak picture.
+But suddenly, against all geographic logic, they see a palm tree.
+It is vibrant, green, flourishing, and standing proudly upright in the scorching barren sand.
+It is a striking visual paradox.
+How does the tree survive an environment specifically designed to kill it?
+She points out the botanical reality.
+The palm tree survives the burning desert heat because it sends its roots incredibly deep beneath the surface to tap into hidden, subterranean springs of water.
+The tree's vitality is absolutely not dependent on its external environment.
+Because the external environment is actively hostile.
+Exactly.
+The tree flourishes solely because it is sustained by a hidden, deep source.
+White uses this as a profound metaphor for the human condition.
+We are all forced to walk through the dreary, sandy waste of a difficult, suffering-filled
+life.
+But the spiritual promise of the Psalms is that a human being can stand upright in the
+desert heat, not by changing the weather, but by drawing strength from deep, hidden
+spiritual reserves.
+That metaphor cuts to the very core of the tension found throughout the entire Psalter.
+The Logos Commentary highlights this exact tension when analyzing Psalm 102.
+What's the context there?
+The psalmist in that text is drowning in existential despair.
+He feels his physical life slipping away, agonizingly describing his days as a declining shadow.
+He is overwhelmed by the brevity, the frailty, and the seemingly pointless suffering of human existence.
+It is a raw expression of the human cry that I think every single person listening can deeply relate to at some point in their journey.
+The shadow is declining.
+Time is running out.
+The desert is too high.
+But then, right in the absolute center of this suffocating despair, the poetry violently pivots.
+The psalmist suddenly finds profound comfort.
+And crucially, the comfort does not arrive because his external circumstances change.
+The desert doesn't suddenly become a rainforest.
+for us.
+No, the comfort arrives entirely from contemplating the eternal, unchanging nature of
+the creator.
+The psalmist declares, but you, O Lord, shall endure forever.
+The agonizing human
+cry of distress is met and ultimately held by the anchor of divine permanence.
+The Zarak light
+breaks through the declining shadow.
+When we step back and survey everything we've covered today,
+it forces a massive question.
+We have analyzed the severe 1,000-word linguistic constraints
+strengths of the BBE translation.
+We've explored the psychological depths of the art of reticence
+and the broken expectations of ancient type scenes.
+We've covered a lot of ground.
+We really
+have.
+We have tracked the relentless mocking drumbeat of Leitwert's stirred repetition,
+reconciled the post-Cubist composite artistry of Genesis, and waded into the raw emotional
+outpourings of the Psalms.
+The question for you, the listener, is this.
+How do you apply these
+these ancient, highly technical reading strategies
+to your own engagement with these texts
+and to your life today?
+Well, the ultimate application
+is that you must make the conscious choice
+to become an active, deeply attentive reader.
+The biblical writers were not primitive scribes.
+They were fiercely brilliant literary artists.
+Whether you are reading the stark, stripped-down,
+wireframe vocabulary of the basic English translation
+or you are plunging into the labyrinthine complexities
+complexities of Hebrew syntax mapped out by Robert Alter, the text makes a demand of you.
+It vehemently refuses to do all the interpretive work for you.
+It wants you to participate.
+By utilizing selective silences, by purposely shattering expected tropes, by weaving inescapable
+word rhythms, and by editing together contradictory perspectives, the authors are holding up a
+mirror to the profoundly messy, contradictory, and deeply ambiguous reality of the human
+condition.
+They are forcing us to engage with the biblical text in the exact same manner we are forced to
+engage with life itself.
+Exactly.
+By looking closely, by constantly questioning our initial
+assumptions, and by relentlessly searching for the deeper sustaining patterns hidden beneath
+the chaotic surface.
+It is not an x-ray you can simply glance at and file away.
+It is a vast,
+complicated landscape you must actively traverse.
+And that brings us to the end of our deep dive
+today.
+But before we part ways, I want to leave you, the listener, with a final provocative
+thought to carry with you.
+I love this part.
+We spent a significant amount of time today
+discussing Robert Alter's art of reticence, the brilliant technique where the biblical authors
+utilized strategic silence and calculated omission to convey the deepest psychological
+and spiritual truths about figures like David and Saul.
+I want you to think about the art of
+reticence as it applies to your own life.
+It's a powerful tool.
+We currently live in a cultural
+moment that is the absolute antithesis of reticence.
+We are constantly inundated by an
+unrelenting tsunami of information.
+Between the culture of social media oversharing,
+the relentless churn of the 24-hour news cycle, the endless stream of opinions, and the constant
+digital noise, everyone is talking, broadcasting, and expressing themselves at maximum volume all
+the time.
+The spotlight is always on.
+Always.
+But within all of that deafening noise, what are the
+the things that aren't being said.
+When you navigate your own life tomorrow, when you sit
+in a meeting with your boss, when you talk with your partner over dinner, when you text your
+friends, I want you to analyze those interactions just as if you were reading an ancient Hebrew
+narrative.
+Become a detective.
+Yes, look past the explicit dialogue.
+Ask yourself, where are the
+gaps?
+What are the deliberate omissions?
+What is the subject everyone is carefully stepping around?
+Because perhaps the most profound, life-altering truths about what the people around you are
+are actually feeling, suffering, or experiencing aren't found in the relentless noise of what they
+say.
+Perhaps the most important truths are hiding quietly in the silence.
+The 90% of the iceberg
+hidden silently beneath the waves.
+Precisely.
+So the next time you think you have a person
+completely figured out, or the next time you think you have a clean, perfectly binary x-ray
+of a complex situation, remember the murky waters of the narrative.
+Look specifically for the
+silence.
+You might be shocked by what it is desperately trying to tell you.

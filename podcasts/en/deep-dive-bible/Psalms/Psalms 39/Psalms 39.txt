@@ -1,0 +1,626 @@
+For centuries, you know, some of the absolute smartest scholars in the academic world have looked at the Hebrew Bible and basically concluded that whoever edited it was, frankly, just a bit clumsy.
+Yeah, that's really been the consensus for a long time.
+Right.
+They point to these obvious copy-paste errors or really jarring repetitions and, like, totally contradictory storylines sitting right there on the exact same page.
+It's almost like they think the ancients didn't know how to edit their own work.
+Exactly.
+But what if those apparent mistakes aren't mistakes at all?
+What if, and this is
+what we're getting into today, what if they're actually evidence of a literary genius that
+rivals or maybe even surpasses modern fiction?
+It completely reframes how you interact with
+the text.
+I mean, we bring all our modern expectations of how a story should work
+to this ancient document.
+Well, we want a three-act structure and clear character motivation.
+Exactly.
+And when it doesn't conform to that, we just assume the ancient writers were primitive.
+or careless which is just such an arrogant way to read i mean if you have ever tried to read these
+texts front to back you've probably felt that friction oh absolutely everyone feels it you
+expect this smooth narrative flow and instead you get you know murky character motivations
+weird interludes and double narratives that just repeat themselves it can be incredibly
+frustrating if you don't have the right lens so today we're going to completely shift that
+paradigm.
+We are unlocking the hidden literary machinery of the Hebrew Bible.
+We're going to
+explore how its ancient writers used highly sophisticated narrative techniques to convey
+profound theological and psychological truths.
+We have a really fascinating stack of sources
+to guide this deep dive today.
+Yes, we do.
+We're anchoring our discussion in Robert Alter's
+groundbreaking work of literary analysis, The Art of Biblical Narrative.
+Such a good book.
+It really is.
+And to look at the raw mechanics of the text, we're utilizing the Bible in basic
+English translation or the BBE.
+We're going to specifically focus on Genesis, Job, Deuteronomy,
+and the Psalms.
+And the BBE is perfect for this, by the way, because it strips away a lot of that
+flowery, archaic language.
+It gets rid of all the these and those.
+Right.
+And it just leaves us with
+the bare bones of the narrative structure so we can actually see the mechanics.
+And to understand
+the theological weight of these literary choices, we're bringing in deep insights from the Logo
+Adventist Bible commentary and the extensive writings of Ellen G. White.
+So we're essentially
+taking history, literature, and theology and weaving them all together.
+Okay, let's unpack
+this because I am just thrilled to look at a text that feels so familiar to so many people
+through a completely new structural lens.
+It's going to be a fun ride.
+Let's start with Robert
+Alters' major critique.
+He essentially calls out the last hundred years of biblical scholarship
+for completely missing the point.
+He really does pull no punches.
+He uses the term
+excavative to describe the dominant academic approach over the last century or so.
+Excavative, like like digging up dirt.
+Pretty much.
+For over a century, scholars have treated
+the text like an archaeological dig site.
+They take the final completed narrative and immediately
+just try to break it apart wait break it apart how like trying to figure out who
+wrote which paragraph exactly that it's tied to something called the documentary
+hypothesis scholars noticed that different parts of Genesis for example
+use different names for God oh right like sometimes it's Yahweh sometimes
+it's Elohim precisely or they have slightly different vocabularies so they
+started looking for the original source documents behind the text right trying
+to find the rough drafts yeah they theorized that there was a j source which is the yallist
+an e source for the elohist and a p source the priestly writer i remember learning about this
+it gets so complicated it does they would literally scan the text for acadian loan words
+or traces of ancient sumerian kinship practices just to prove which hypothetical author wrote
+which specific sentence it sounds like they turned the sweeping epic literature into a forensic
+linguistic puzzle that's a great way to put it they're looking through the text
+to find the history behind it rather than actually looking at the text itself
+I mean it feels a bit like standing inside a magnificent ancient Cathedral
+oh I like where this is going but instead of admiring the architecture or
+the way the light hits the stained glass or how the vaulted ceilings draw your
+eyes upward you're just standing in the nave arguing with someone about which
+which quarry the stones came from centuries ago.
+That's a brilliant analogy.
+The excavative scholars, they can tell you the exact chemical composition of the mortar,
+but they've completely missed the soaring beauty of the cathedral itself.
+Exactly.
+By breaking the text down into its supposed original fragments,
+they ignore the incredible literary artistry of the final redacted text.
+Alter argues that we need to stop excavating and start reading the Bible as prose fiction.
+Okay, wait, I need to stop you there.
+because using the phrase prose fiction when talking about a sacred historical text
+is definitely going to trigger some alarm bells for people.
+Right.
+I completely understand that.
+Are we saying these events are just made up?
+Not at all.
+And that's a crucial distinction we have to make here.
+When Alter uses the term prose fiction, he's strictly referring to the techniques used by the writers.
+Okay, so the literary tools.
+Yes.
+He means that the authors utilized the deliberate imaginative artistry
+that we usually associate with fiction to tell their history like using pacing and character
+development exactly they used setting dialogue character development pacing and motifs in the
+ancient world history wasn't just a dry list of facts like a modern textbook right they didn't
+have encyclopedias no they were masterful artists shaping historical memory into a profound narrative
+form to reveal a larger truth okay so if we stop arguing about the quarry and actually look at the
+cathedral what do we see how does this artistry manifest on the page in a way that you know
+modern readers just miss well the most striking example is what alter calls composite artistry
+or montage montage like in a movie kind of yeah because the final editors of the hebrew bible
+were working with different inherited traditions those different quarry stones you mentioned
+they sometimes put two ostensibly contradictory accounts side by side and a traditional
+National excavative scholar would look at that and say, aha, proof of a clumsy editor who just pasted two different scrolls together and didn't bother to smooth out the edges.
+Right.
+They see it as a mistake, but also argues this was a highly deliberate artistic choice.
+Let's look at the very beginning of the Bible, the creation of humanity in Genesis.
+Oh, this is a perfect example.
+In Genesis 1, we get this sweeping cosmic view.
+The text says, and God made man in his image.
+In the image of God, he made him.
+Male and female, he made them.
+It's very poetic, very symmetrical.
+Yes.
+Man and woman are created simultaneously, both equally bearing the divine image.
+It's a grand, high-altitude, almost clinical view of creation.
+God speaks, and it perfectly happens.
+But then you turn the page to Genesis 2, and the narrative tone completely shifts.
+It really does.
+It's jarring.
+It goes from a cosmic boardroom to something earthy, intimate, and almost gritty.
+We read,
+And the Lord God made man from the dust of the earth, breathing into him the breath of life.
+And then later, the woman is created from the man's rib.
+Which creates an immediate textual friction.
+Right.
+Because in chapter one, they're created together as equals by the spoken word.
+In chapter two, the man is made first from dirt, and the woman is made later from his bone.
+How is that not just a glaring editorial mistake?
+Think about a Cutis painting.
+oh wow okay that is interesting like Picasso putting a profile and a frontal
+view on the exact same face exactly to the naked eye it looks distorted I mean
+you obviously cannot see someone's profile in their full face at the exact
+same time in the real physical world but the painter is doing it to give you a
+more encompassing representation of the complex reality that makes so much sense
+the biblical writers embraced this stubborn contradiction because their
+worldview was inherently untidy they wanted to show two profound yet
+yet seemingly conflicting truths about humanity on the exact same canvas.
+So Genesis 1 shows the ideal, right?
+Humanity as the pinnacle of creation, equal, reflecting the divine image.
+But Genesis 2 shows the reality on the ground.
+Humanity as fragile, made of literal dust, entangled in complex, subservient, and painful relationships.
+You nailed it.
+it.
+The friction perfectly captures the intersection of human imperfection and divine
+perfection.
+If you try to smooth that out, you know, if you try to make it read like a modern
+encyclopedia where every timeline aligns perfectly, you completely lose the theology.
+So to the listener, if you approach the text thinking it has to perfectly align without any
+friction, you're going to end up frustrated.
+You're trying to force puzzle pieces together
+that were never meant to fit seamlessly.
+You miss a little point.
+But if you read it as composite artistry, you realize the friction is actually the point.
+Right.
+The friction is where the meaning lives.
+And that friction brings us to a massive shift in how the Bible portrays human beings themselves.
+Well, if you read a modern novel, you're used to getting inside a character's head.
+You know, their favorite color, their nervous tittics, their deeply held childhood traumas.
+Right.
+You get pages and pages of internal monologue.
+You know everything they are thinking.
+And you get absolutely none of that in the Hebrew Bible.
+The narrator is like a brick wall.
+Alter calls this the art of reticence.
+It's the profound art of holding back information.
+Why hold back, though?
+I mean, is it just a primitive style of storytelling where they hadn't figured out character development yet?
+No, not at all.
+To understand why it's so brilliant, you have to contrast it with the literature of the surrounding cultures at the time.
+Take Homer's Greek ethics.
+Okay, like the Iliad or the Odyssey?
+Right.
+In the Iliad, when a character puts on their armor, Homer will give you pages of lavish description about the engravings on the shield.
+oh yeah he'll trace the lineage of the guy who made the metal exactly he will give you the entire
+psychological backstory of a character right in the middle of the battle scene the narrator tells
+you exactly who is good who is bad and what everyone is feeling but the biblical narrator
+rarely tells you what a character looks like unless it directly drives the plot right like
+the fact that saul was tall or david was handsome or esau is hairy right and they almost never tell
+you what a character is feeling internally let's look at a concrete example from our sources
+genesis chapter 4 the story of cain and abel the first murder in human history yes a modern
+psychological thriller would dedicate a hundred pages just to cain's boiling resentment his
+perceived slights his inner turmoil leading up to the act but look at how spare the biblical text is
+It is breathtakingly minimal.
+I mean, it simply says Cain brought an offering of the fruits of the earth,
+and Abel brought the young lambs.
+The Lord was pleased with Abel's offering, but not Cain's.
+And then what's the only psychological detail we get?
+It says, and Cain was angry and his face became sad.
+His face became sad.
+That's it.
+No internal monologue, no exposition on his childhood jealousy.
+Just a physical manifestation of an internal state.
+Exactly.
+Just the sad face.
+But then God actually intervenes and speaks directly to Cain.
+The BBE translates it as this profound warning.
+God says, if you do well, will you not have honor?
+And if you do wrong, sin is waiting at the door, desiring to have you, but do not let it be your master.
+Look at the personification there.
+Sin isn't just a bad choice or a mistake.
+It's a predator crouching at the threshold.
+Like an animal waiting to pounce.
+Yes, and God is affirming Cain's agency here.
+He's saying, you have the power to master this.
+And how does Cain respond to the creator of the universe giving him this direct, terrifying warning?
+He says absolutely nothing to God.
+The narrative just skips right to the next verse.
+Yeah.
+And Cain said to his brother, let us go into the field.
+And when they were in the field, Cain made an attack on his brother Abel and put him to death.
+Oh, it gives me chills every time I read it.
+The silence is deafening.
+It really is.
+We have zero internal dialogue.
+We see the sad face.
+We hear the divine warning.
+We hear a chillingly mundane invitation.
+let us go into the field and then cold-blooded murder but i still struggle with why the narrator
+is so quiet like why not tell us what cain was thinking when he picked up the rock because that
+purposeful silence forces the reader to do the heavy lifting the narrator's reticence actually
+mirrors the monotheistic revolution itself what do you mean by that well in the pagan worldview
+surrounding ancient israel the gods were completely predictable and human destinies were mostly fixed
+by fate humans were just playthings of the gods right there was no real agency but the hebrew
+bible introduces a radical terrifying new concept human beings are fundamentally unpredictable they
+possess god-like depths and sounding capacities for both immense good and horrifying evil because
+they have free will right their choices aren't predetermined so the text treats them as complex
+opaque beings even to themselves exactly the gaps in the text force us to sit with the ambiguity of
+human free will we have to ask ourselves why did cain do it the narrator won't spoon feed us the
+answer because human motivation is rarely a neat easily explainable thing in real life either i
+really love how the adventist theological commentary layers into this literary concept
+ellen g white writes extensively about this in her analysis of biblical characters particularly david
+david is the perfect case study for this she notes that the texts aren't just collections
+of happy religious songs or, you know, sanitized histories.
+They document a complete series of wildly varying mental experiences.
+David is perhaps the most fully realized human character in ancient literature.
+And yet we still only know him mostly through his external actions and his poetry.
+And his poetry is so raw.
+EGW points out that David swings violently from the most sublime, exalted,
+you know, praising God as his rock to being utterly shrouded in darkness, guilt and despair.
+bear.
+It's emotional whiplash.
+It is.
+Look at Psalm 51.
+He writes it after his terrible sins
+of adultery with Bathsheba and the murder of Uriah.
+He's crying out for a clean heart.
+He
+says his sin is ever before him.
+And then look at Psalm 77, where he's asking these incredibly
+despairing questions.
+Will the Lord cast off forever?
+Will he be favorable no more?
+The Logos
+commentary emphasizes this exact point too.
+The Psalms reflect almost every possible human emotion
+extracted from a life that experienced intense pain joy frustration and
+satisfaction the biblical text does not shy away from the darkest valleys of the
+human mind yeah what EGW points out is so crucial to understanding the theology
+here the Bible's relentless recording of these human flaws isn't there just to
+condemn the characters right it's not just saying look how terrible David was
+no it's showing that God takes every human infirmity into account with
+incredible patience as she writes jesus knows every one of our failings but he uses patience
+otherwise we would have perished a long time ago that is the ultimate theological payoff of the art
+of reticence by showing us the raw actions the failures the moments of despair without constantly
+editorializing or softening the blow with psychological excuses the text presents humanity
+in all its terrifying vulnerability before god it's incredibly profound so to the listener the
+The next time you read these stories and feel like they are too sparse or dry,
+realize that this characterization isn't primitive at all.
+It is incredibly modern in its psychological realism.
+It demands that you engage, that you judge, that you empathize,
+and that you recognize the unpredictable depths of the human heart.
+It creates a completely interactive reading experience.
+Okay, so we've unpacked what the Bible purposefully leaves out.
+now we have to address the elephant in the room what it says over and over and over again oh yes
+the repetition if you've ever tried to read the hebrew bible front to back the most jarring thing
+is the relentless repetition sometimes you read a chapter and then the next chapter seems to
+recount the exact same event with almost the exact same words it can definitely test a modern reader's
+patience it honestly feels like someone fell asleep at the wheel while editing what's fascinating here
+is that what looks like a copy-paste error to our modern eyes
+is actually one of the most sophisticated tools in the biblical writer's toolkit.
+Really?
+How so?
+Robert Alter explains this through the concept of biblical repetition
+and what he calls type scenes.
+Wait, type scenes sounds like a fancy academic word for a cliche.
+Are you saying the Bible is relying on tired tropes?
+It is using tropes, but with immense purpose.
+We have to remember that ancient audiences did not have novels or movies.
+Right.
+They couldn't just binge a series on Netflix.
+Exactly.
+They consumed stories orally, sitting around a fire or in a community gathering.
+They had a grid of conventions, a set of expected narrative situations.
+A type scene is a recurring narrative situation that happens to different heroes.
+The ancient listener would recognize the setup immediately.
+So it's kind of like the meet cute in a modern romantic comedy.
+Oh, that's the perfect modern equivalent.
+You know exactly how it goes.
+They bump into each other, drop their coffee, reach for the same napkins, make awkward eye contact.
+You know exactly what is going to happen next.
+Yes.
+Alter actually uses the betrothal at a well as the classic biblical type scene.
+The well is the coffee shop.
+Exactly.
+When a biblical hero needs to find a wife, the story almost always follows a specific pattern.
+The hero, or his surrogate, journeys to a foreign land.
+He comes to a well.
+He meets a girl.
+Water is drawn from the well.
+And then what?
+what the girl rushes home to tell her family about the stranger and finally a meal is shared
+and the betrothal is concluded let me test that abraham's servant goes to a well and meets rebecca
+check jacob flees his brother goes to a well and meets rachel check moses flees from pharaoh goes
+to a well in midian and meet zapora check it is totally a formula it's absolutely a formula but
+if it's just a formula doesn't that make it well bad writing no because the genius isn't in repeating
+the formula it's in the slight variation of the repetition because the audience
+expects the trope to play out a certain way if a step is skipped or altered or
+inverted the ancient audience immediately knew something was unique
+about that specific character oh that makes sense if the rom-com couple drops
+their coffee but instead of laughing they start screaming at each other the
+trope is subverted and you immediately learn something about their
+personalities exactly so how does the Bible mess with the well formula think
+Think about Jacob.
+When he goes to the well, he doesn't wait for Rachel to draw the water, which is the standard step in the trope.
+What does he do?
+He exhibits this massive feat of physical strength and rolls a giant stone off the well all by himself.
+Oh, wow.
+It highlights his agency, his physical power, and his immediate overwhelming drive to secure Rachel.
+And contrast that with Moses.
+He sits at the well, and he doesn't just meet a girl.
+he has to physically fight off a group of rival shepherds to protect the women in their flock.
+Which is a huge subversion.
+It establishes him immediately, not just as a suitor, but as a deliverer, a fighter for justice.
+It perfectly foreshadows his entire overarching role in the book of Exodus.
+You see, the repetition sets the baseline expectation,
+and the variation delivers the character development.
+That's incredibly clever.
+And this leads us to an even more granular form of repetition,
+Let me guess, German for something highly technical.
+You guessed it.
+It translates to leading word style.
+It refers to the repetition of a specific word or phrase, sometimes verbatim, to drive home a thematic or moral point.
+Let's look back at Genesis 1.
+The creation narrative again.
+As God creates the world day by day, the text repeats a phrase.
+And God saw that it was good.
+Right.
+It says it after the light, after the land, after the plants, the sun and moon, the fish.
+birds, the animals, God saw that it was good.
+It becomes a rhythmic, almost hypnotic drumbeat of
+divine approval.
+But then at the very end, after creating humanity on the sixth day,
+the repetition shifts just slightly, verse 31, and God saw everything which he had made,
+and it was very good.
+Exactly.
+The repetition culminates in this powerful climax.
+The slight
+variation, just adding the word very, elevates the creation of humanity to the absolute pinnacle of
+the cosmos so because the narrative is so spare because they aren't using paragraphs of adjectives
+and adverbs to tell you how to feel these repetitions are the primary way the writer
+provides commentary it's basically the ancient equivalent of bolding and highlighting text right
+that's exactly what it is yeah but it isn't always positive is it far from it let's look at a much
+darker example in the sources deuteronomy chapter 9. oh this is a great one moses is giving his
+his final long speech to the Israelites before they enter the promised land.
+And he wants to make absolutely sure they do not get arrogant about their success.
+So he uses light wood still like a hammer.
+He really doesn't let up.
+He repeats the phrase stiff-necked people over and over.
+He says in verse 6,
+Be certain then that the Lord your God is not giving you this good land
+as a reward for your righteousness.
+For you are a stiff-necked people.
+And he repeats the concept of evil doing too.
+Right.
+In verse four, he says, say not in your heart, because of my righteousness, the Lord has
+given me this land, when it is because of their evil doing that the Lord is driving
+these nations out before you.
+He is aggressively stripping away their pride.
+He's pounding the message into their heads.
+This isn't about how great you are.
+It's about God's overarching promise and the wickedness of the Canaanites.
+The repetition forces the listener to confront their own unworthiness.
+It's less like a historical record and more like a musical motif.
+It makes me think of the ominous two-note shark theme in the movie Jaws.
+Dun-dun.
+Exactly.
+Every time Lozis says stiff-necked or evil-doing, it's that two-note warning reminding the Israelites of their own dangerous, rebellious nature.
+That is a highly effective way to understand it.
+The text uses repetition to construct its moral architecture.
+Okay, so we've spent a lot of time analyzing how the text deals with human character, the reticence, the bolding and highlighting of our flaws, the psychological realism.
+But there is a dramatic shift in the biblical text that we need to explore now.
+A very dramatic shift.
+We've been focusing on humans.
+But what happens when God speaks directly out of the natural world?
+How does the Bible use nature to humble this complex, stubborn, stiff-necked humanity we've been dissecting?
+This brings us to some of the most breathtaking poetry in human history.
+We're looking at the book of Job, specifically chapters 38 through 40.
+Just to set the stage for you listening, Job has lost absolutely everything.
+His children are dead.
+His wealth is gone.
+His health is ruined.
+He's literally scraping his sores with broken pottery.
+Yes, sitting in a pile of ashes.
+And he's been arguing bitterly with his friends for over 30 chapters.
+He is demanding an audience with God.
+He wants God to explain the justice of this immense suffering.
+And finally, God shows up.
+Out of a terrifying whirlwind.
+And the fascinating thing is, God does not give Job a theological essay.
+He doesn't pull back the curtain and explain the cosmic wager with Satan from chapter 1.
+No.
+He doesn't offer a philosophical treatise on the problem of pain.
+Instead, he points to the wildness of nature.
+He does it with this rapid-fire series of impossible questions.
+The text provided from the BBE is just stunning.
+I ask Job, have you knowledge of the rock goats?
+Or do you see the rose giving birth to their young?
+He asks if Job knows the time when they give birth.
+He points out the absurdity and wildness of the animal kingdom,
+things completely outside of human utility.
+He points to the ostrich.
+The ostrich.
+Yes.
+The text says the ostrich puts her eggs on the earth,
+warming them in the dust,
+without a thought that they may be crushed by the foot.
+It says she is cruel to her young ones as if they were not hers.
+And why is that?
+The text says for God has taken wisdom from her mind
+and given her no measure of knowledge.
+Okay, I have to push back on this
+because it feels like such a weird response
+to human suffering.
+Job is agonizing over the death of his children
+and God is basically saying,
+look at this bizarre, foolish bird.
+I made her that way.
+Do you understand why?
+Why does God use a dumb bird to answer a grieving man?
+Because it decenters humanity from the universe.
+Job assumes that his understanding of justice
+is the center of the cosmos.
+God uses the ostrich, the rock goats,
+and then shits to this majestic,
+terrifying description of the war horse
+to show Job a reality that is vast, chaotic, and completely outside human control.
+Let me read the text on the war horse, because the poetry is incredible.
+God asks Job,
+Do you give strength to the horse?
+Is it by your hand that his neck is clothed with power?
+The horse is shaking with passion.
+He is biting the earth.
+He is not able to keep quiet at the sound of the horn.
+He smells the fight from far off.
+He hears the thunder of the captains.
+He makes sport of fear.
+And then the hawk taking flight, the eagle making his house on the rock, watching for food from afar, where his young drink blood.
+It's so visceral.
+It's bloody.
+It's wild.
+It is utterly beyond human domestication.
+We have some profound commentary on this from Ellen G. White.
+She notes that these questions about the rock goats, the ostrich, the horse, the stars, they aren't asked because we are expected to answer them.
+Right.
+They're rhetorical.
+They're asked to show us that human wisdom is fundamentally limited.
+She has a really powerful phrase, forces of nature are God's ministers.
+The wind, the rain,
+the sun, the wild animals, they all do his will.
+Man exalts himself, magnifying his own strength
+and learning.
+But we can't even comprehend the basic instincts of an ostrich, let alone the
+moral architecture of the universe.
+The Logos commentary integrates this beautifully by
+connecting job's poetry to the psalms specifically psalms 8 19 and 29. the commentary points out that
+the ancient hebrews loved nature but not as an end in itself right they weren't pantheists worshiping
+the trees or the sun exactly they viewed nature strictly as a bridge to the creator look at psalm
+19 the heavens are sounding the glory of god the arch of the sky makes clear the work of his hands
+there are no words no language yet their voice goes out through all the earth and psalm 29
+describing the sheer terrifying power of a thunderstorm.
+The voice of the Lord is full of power.
+By the voice of the Lord are the cedar trees broken.
+Even the cedars of Lebanon are broken.
+The voice makes the flames of fire.
+It shakes the wasteland.
+It is overwhelming.
+Ellen White emphasizes a fascinating point here.
+She says that natural science is God's storehouse.
+She writes that obedience to natural laws
+is obedience to divine laws.
+Nature is a living lesson book
+about the power and the order of God.
+here's where it gets really interesting looking at this perfect obedient nature
+actually creates a massive theological problem for us now so think about the
+contrast humans are agonizing over their motives and failing constantly like
+David or Cain but the natural world the horse the hawk the stars simply
+perfectly obeys its design I say God can design a horse be perfectly fearless and
+obedient and the stars to move in their courses flawlessly why do he design
+humans to be so messy and rebellious?
+How does a sovereign God accomplish anything with a species
+that constantly fights him?
+That tension brings us to the thematic climax of our deep dive today.
+We've analyzed the literary techniques, composite artistry, reticence, repetition, and we've seen
+how nature is used as a theological foil.
+Now we have to look at the ultimate tension that all of
+this literary machinery is built to support.
+We're putting it all together now.
+If you take
+Alter's literary theories and you bind them together with the Adventist theological commentaries,
+You arrive at the ultimate dialectical struggle of the Hebrew Bible.
+On one side, you have the divine plan, God's providence, his overarching will for history.
+And on the other side, you have the disorderly, refractory nature of human freedom.
+The messy, stiff-necked people we've been talking about.
+The tension is, how does a sovereign God accomplish a perfect plan using incredibly flawed, free-willed human beings?
+We see this crackling throughout the text, especially in Exodus.
+Let's look at Exodus 9, the story of Moses and Pharaoh.
+This is the wild passage.
+God tells Pharaoh through Moses something incredible, verses 15 and 16.
+For if I had put the full weight of my hand on you and your people,
+you would have been cut off from the earth.
+But for this very reason, I have kept you from destruction to make clear to you my power,
+and so that my name may be honored through all the earth.
+It is a stunning assertion of divine sovereignty.
+God is saying, I could have wiped you out instantly.
+your rebellion is nothing to me, but I am using your stubbornness, your free will,
+to serve a larger global purpose.
+I have to admit that feels almost manipulative.
+God is using Pharaoh's stubbornness as a tool.
+It feels manipulative if you view God and Pharaoh
+on the same plane.
+But the text is establishing that human agency, even wicked agency, cannot
+derail divine providence.
+We see the exact same thing in Deuteronomy 9 with a repetitive light
+word still we talked about right god tells israel you aren't getting this land because you're good
+you are terrible you are stiff-necked you're getting this land because i made a promise to
+abraham isaac and jacob and because the current inhabitants are wicked god is weaving his
+overarching promise through the chaos of israel's constant failures and this dialectic this tension
+between being crushed by our own failures and relying on god's overarching salvation is mapped
+out emotionally in the Psalms.
+We mentioned earlier the Lodos commentary, noting that the
+Psalms map every human emotion.
+We see this universal human cry of feeling abandoned.
+Look at Psalm 10.
+It asks, why do you keep far away, O Lord?
+Why are you not to be seen in times
+of trouble?
+Or Psalm 13, how long is my soul to be in doubt with sorrow in my heart all the day?
+It is raw agony.
+But they almost always pivot.
+They pivot from the darkness of human experience
+to trusting in God's ultimate salvation.
+Psalm 14 talks about how the Lord looks down
+and sees no one doing good, but pivots to say,
+may the salvation of Israel come out of Zion.
+This reminds me of Ellen White's beautiful concept
+of the twin sisters.
+She discusses this in relation to Psalm 89,
+which the commentary calls a psalm of the covenant,
+mourning the apparent failure of God's promises to David.
+Yes, she writes that justice has a twin sister
+that should ever stand by her side,
+which is mercy and love.
+But how do those actually interact in the text?
+It feels abstract.
+Well, justice demands that human rebellion and evildoing have consequences.
+The stiff-necked people must be disciplined.
+When David sins, the sword never departs from his house.
+That is justice.
+But mercy ensures that God's overarching promise,
+his providential plan to save humanity,
+is never ultimately thwarted by those failures.
+The covenant holds, even when the humans break their end of it.
+When you step back and look at the whole picture,
+you arrive at a profound conclusion about the very nature of the hebrew bible as a piece of
+literature if we connect this to the bigger picture the literary form of the bible its
+ambiguities its montage of contradictory sources its reticent characterizations its strategic
+repetitions is not a mistake it is not clumsy editing it is the only form capable of holding
+this massive theological tension if the bible were written like a smooth clean modern corporate memo
+It wouldn't be true to the human experience.
+It respects human free will enough to show us at our absolute worst.
+It shows Cain's murder, David's adultery, the Israelites' cowardice.
+It leads gaps in the narrative because human hearts are full of gaps and contradictions.
+But through the repetitions, through the wild voice of nature in Job, through the constant
+drumbeat of the prophets, it maintains that a divine thread is weaving through the chaos.
+The composite artistry allows for the messy reality of the ground level, while the poetry
+Poetry points to the sovereign reality of the cosmic level.
+It is breathtaking when you look at the cathedral instead of just the individual stones.
+It demands that we become active, empathetic readers.
+Let's summarize the journey we've been on today.
+We started by completely challenging the way we've been taught to read.
+We stopped looking at the Hebrew Bible as just a broken artifact to be excavated for
+historical trivia, and we started seeing it as a brilliant, intentional literary tapestry.
+We unpacked the art of reticence, discovering how the purposeful silence of the narrator regarding human motives actually forces us to engage deeply with the unpredictability of human free will.
+We looked at the code of conventions, how strategic repetitions and type scenes act as musical motifs to deliver subtle character development and moral commentary.
+We saw how the vivid, untamable poetry of nature serves to de-center our human pride.
+And we saw how all of these tools work together to capture the beautiful reality of living in the tension between our own profound flaws and a higher divine purpose.
+It fundamentally changes how you interact with the text.
+It absolutely does.
+But I want to leave you with a final provocative thought, something to chew on that goes beyond the pages of the text and into your actual daily life.
+Let's hear it.
+We spent a lot of time discussing how the biblical narrator rarely tells us what a character is feeling.
+They just show the action and they force us to sit with the ambiguity.
+So if this ancient sacred text requires you to actively wrestle with ambiguity
+and stops you from assuming you know exactly what is in someone's heart,
+how might that change the way you read the actions of the people in your own life today?
+Oh, wow.
+That is a deeply challenging application.
+When your co-worker sends a curt email or your spouse is uncharacteristically quiet
+or a friend makes a baffling decision are you rushing to fill in their motives with your own
+assumptions are you writing their internal monologue for them we do that all the time
+or are you willing to practice a little reticence of your own are you willing to sit with the
+ambiguity of the human heart recognizing that people possess depths you cannot fully see
+and extending the same patience that the text suggests god extends to us
+thank you so much for joining us and diving deep into the art of the narrative today
+day.
+Keep reading, keep questioning, and keep looking for the beauty in the muddy waters.
