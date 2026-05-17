@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "rule": "Presente simples e contínuo em usos avançados"
+    },
+    {
+        "id": 2,
+        "rule": "Verbos de estado com mudança de significado"
+    },
+    {
+        "id": 3,
+        "rule": "Present continuous para hábitos irritantes com always, forever e constantly"
+    },
+    {
+        "id": 4,
+        "rule": "Presente simples e contínuo em plot summaries e anecdotes"
+    },
+    {
+        "id": 5,
+        "rule": "Narrative tenses para contar histórias"
+    },
+    {
+        "id": 6,
+        "rule": "Past perfect continuous em narrativas e explicações"
+    },
+    {
+        "id": 7,
+        "rule": "It is e it has been com since"
+    },
+    {
+        "id": 8,
+        "rule": "Future perfect continuous para duração até um ponto no futuro"
+    },
+    {
+        "id": 9,
+        "rule": "Inversão com advérbios negativos para ênfase"
+    },
+    {
+        "id": 10,
+        "rule": "Inversão após only com expressões adverbiais"
+    },
+    {
+        "id": 11,
+        "rule": "Inversão com no sooner, hardly e scarcely"
+    },
+    {
+        "id": 12,
+        "rule": "Inversão em narrativa com advérbios de lugar e movimento"
+    },
+    {
+        "id": 13,
+        "rule": "Fronting de objetos e complementos para destaque"
+    },
+    {
+        "id": 14,
+        "rule": "Left-dislocation e right-dislocation no discurso"
+    },
+    {
+        "id": 15,
+        "rule": "Cláusulas concessivas com adjetivo, nome ou advérbio mais as ou though"
+    },
+    {
+        "id": 16,
+        "rule": "Much as e however mais adjetivo ou advérbio para concessão"
+    },
+    {
+        "id": 17,
+        "rule": "Subjuntivo em that-clauses após recomendação, exigência e necessidade"
+    },
+    {
+        "id": 18,
+        "rule": "Estruturas impessoais com it mais passive ou reporting verb mais that-clause"
+    },
+    {
+        "id": 19,
+        "rule": "Subject passives com infinitive e perfect infinitive"
+    },
+    {
+        "id": 20,
+        "rule": "Perfect participle clauses com having done e having been done"
+    },
+    {
+        "id": 21,
+        "rule": "Absolute clauses com noun mais participle"
+    },
+    {
+        "id": 22,
+        "rule": "Ellipsis em adverbial clauses com if, when, while e though"
+    },
+    {
+        "id": 23,
+        "rule": "Substituição e elipse com so, neither, nor, do so e not"
+    },
+    {
+        "id": 24,
+        "rule": "Nominalização para linguagem formal e acadêmica"
+    },
+    {
+        "id": 25,
+        "rule": "Nominalizações com of e outras prepositions"
+    },
+    {
+        "id": 26,
+        "rule": "Noun phrases complexas com múltiplos modificadores"
+    },
+    {
+        "id": 27,
+        "rule": "Apposition para acrescentar e redefinir informação"
+    },
+    {
+        "id": 28,
+        "rule": "Relative clauses com quantifiers e numbers"
+    },
+    {
+        "id": 29,
+        "rule": "Relative clauses que retomam a oração inteira com which"
+    },
+    {
+        "id": 30,
+        "rule": "Relative clauses com preposições complexas"
+    },
+    {
+        "id": 31,
+        "rule": "Reporting verbs com that-clause, to-infinitive e ing"
+    },
+    {
+        "id": 32,
+        "rule": "Reporting verbs em registro formal para acusar, admitir, negar e sugerir"
+    },
+    {
+        "id": 33,
+        "rule": "Hedging com may well, might well e could well"
+    },
+    {
+        "id": 34,
+        "rule": "Hedging com tend to, seem to, appear to e be likely to"
+    },
+    {
+        "id": 35,
+        "rule": "Modals para dedução com formas continuous e perfect continuous"
+    },
+    {
+        "id": 36,
+        "rule": "Distanciamento e polidez com would, could e past forms"
+    },
+    {
+        "id": 37,
+        "rule": "Articles com abstract nouns e generalization"
+    },
+    {
+        "id": 38,
+        "rule": "Prepositions após nouns e adjectives em padrões formais"
+    },
+    {
+        "id": 39,
+        "rule": "Verbs of perception com objeto mais bare infinitive ou ing"
+    },
+    {
+        "id": 40,
+        "rule": "Causative verbs make, have, get e let em padrões avançados"
+    },
+    {
+        "id": 41,
+        "rule": "Seem, appear, happen e turn out com infinitive"
+    },
+    {
+        "id": 42,
+        "rule": "Tough constructions com easy, hard e difficult mais infinitive"
+    },
+    {
+        "id": 43,
+        "rule": "Negação mitigada com not uncommon, not impossible e no mean"
+    },
+    {
+        "id": 44,
+        "rule": "Correlative conjunctions com concordância complexa"
+    },
+    {
+        "id": 45,
+        "rule": "Concordância verbal em estruturas complexas"
+    },
+    {
+        "id": 46,
+        "rule": "The reason why, the thing is e what happens is para foco e explicação"
+    },
+    {
+        "id": 47,
+        "rule": "Concessão e contraste com albeit, notwithstanding e whereas"
+    },
+    {
+        "id": 48,
+        "rule": "Reduced clauses para expressar motivo, resultado e condição"
+    }
+]

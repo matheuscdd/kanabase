@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "rule": "Fronting emotivo para intensificação"
+    },
+    {
+        "id": 2,
+        "rule": "Fronting contrastivo para correção e oposição"
+    },
+    {
+        "id": 3,
+        "rule": "Inversão estilística em registro formal"
+    },
+    {
+        "id": 4,
+        "rule": "Inversão com padrões limitadores complexos"
+    },
+    {
+        "id": 5,
+        "rule": "Estruturas tópico-comentário em discurso formal"
+    },
+    {
+        "id": 6,
+        "rule": "Pseudo-cleft sentences para reorganizar foco informativo"
+    },
+    {
+        "id": 7,
+        "rule": "Cleft sentences avançadas para contraste e avaliação"
+    },
+    {
+        "id": 8,
+        "rule": "Extraposition com it para organizar informação pesada"
+    },
+    {
+        "id": 9,
+        "rule": "Hedging para cautela e distanciamento"
+    },
+    {
+        "id": 10,
+        "rule": "Understatement e mitigação pragmática"
+    },
+    {
+        "id": 11,
+        "rule": "Nominalização produtiva para condensar argumentos"
+    },
+    {
+        "id": 12,
+        "rule": "Cadeias de nominalização em inglês formal"
+    },
+    {
+        "id": 13,
+        "rule": "Noun phrases pesadas com múltiplos modificadores"
+    },
+    {
+        "id": 14,
+        "rule": "Heavy NP shift para equilíbrio informativo"
+    },
+    {
+        "id": 15,
+        "rule": "Apposition e inserções parentéticas sofisticadas"
+    },
+    {
+        "id": 16,
+        "rule": "Evidencialidade com estruturas impessoais de relato"
+    },
+    {
+        "id": 17,
+        "rule": "Distanciamento com seems, appears, is said to e is believed to"
+    },
+    {
+        "id": 18,
+        "rule": "Reporting patterns para atribuir alegações, suposições e evidências"
+    },
+    {
+        "id": 19,
+        "rule": "Progressives iterativos e habituais em registro elevado"
+    },
+    {
+        "id": 20,
+        "rule": "Distinções finas entre perfect simple e perfect continuous"
+    },
+    {
+        "id": 21,
+        "rule": "Resultativo e duração no perfect aspect"
+    },
+    {
+        "id": 22,
+        "rule": "Semi-modais para expectativa, tendência e probabilidade"
+    },
+    {
+        "id": 23,
+        "rule": "Contrafactuais complexos no período condicional"
+    },
+    {
+        "id": 24,
+        "rule": "Inversão condicional sem if em padrões avançados"
+    },
+    {
+        "id": 25,
+        "rule": "Pseudo-conditionals e condicionalidade implícita"
+    },
+    {
+        "id": 26,
+        "rule": "Concessivas invertidas com as e though em ordem marcada"
+    },
+    {
+        "id": 27,
+        "rule": "Concessão avançada com however, whatever, whoever e no matter"
+    },
+    {
+        "id": 28,
+        "rule": "Participle clauses altamente integradas"
+    },
+    {
+        "id": 29,
+        "rule": "Absolute clauses para condensação sintática"
+    },
+    {
+        "id": 30,
+        "rule": "Reduced clauses nominais e adverbiais avançadas"
+    },
+    {
+        "id": 31,
+        "rule": "Elipse sintática avançada em coordenação e contraste"
+    },
+    {
+        "id": 32,
+        "rule": "Substituição anafórica e coesão compacta"
+    },
+    {
+        "id": 33,
+        "rule": "Relative clauses não restritivas aninhadas"
+    },
+    {
+        "id": 34,
+        "rule": "Pied-piping em wh- e relative clauses formais"
+    },
+    {
+        "id": 35,
+        "rule": "Relative clauses com antecedente implícito"
+    },
+    {
+        "id": 36,
+        "rule": "Free relative clauses com whoever, whatever e whichever"
+    },
+    {
+        "id": 37,
+        "rule": "Referência anafórica e catafórica em estruturas complexas"
+    },
+    {
+        "id": 38,
+        "rule": "Paralelismo sintático para ênfase e equilíbrio"
+    },
+    {
+        "id": 39,
+        "rule": "Negação sofisticada com litotes e minimização"
+    },
+    {
+        "id": 40,
+        "rule": "Controle de foco com ativa, passiva e nominalização"
+    }
+]

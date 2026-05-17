@@ -1,0 +1,562 @@
+[
+    {
+        "id": 1,
+        "rule": "Limitação a apenas isso com 〜にすぎない"
+    },
+    {
+        "id": 2,
+        "rule": "Essência e definição com 〜にほかならない"
+    },
+    {
+        "id": 3,
+        "rule": "Certeza subjetiva com 〜に決まっている"
+    },
+    {
+        "id": 4,
+        "rule": "Obrigação moral com 〜ないわけにはいかない"
+    },
+    {
+        "id": 5,
+        "rule": "Obrigação inevitável com 〜ざるを得ない"
+    },
+    {
+        "id": 6,
+        "rule": "Condição indispensável com 〜ないことには〜ない"
+    },
+    {
+        "id": 7,
+        "rule": "Não conseguir deixar de com 〜ないではいられない"
+    },
+    {
+        "id": 8,
+        "rule": "Não conseguir evitar com 〜ずにはいられない"
+    },
+    {
+        "id": 9,
+        "rule": "Emoção intensa com 〜てたまらない"
+    },
+    {
+        "id": 10,
+        "rule": "Emoção inevitável com 〜てならない"
+    },
+    {
+        "id": 11,
+        "rule": "Sensação forte com 〜てしかたがない e 〜てしょうがない"
+    },
+    {
+        "id": 12,
+        "rule": "Impossibilidade lógica com 〜わけがない"
+    },
+    {
+        "id": 13,
+        "rule": "Nem sempre com 〜とは限らない"
+    },
+    {
+        "id": 14,
+        "rule": "Possibilidade parcial com 〜ないとは限らない"
+    },
+    {
+        "id": 15,
+        "rule": "Verdade geral ou nostalgia com 〜ものだ"
+    },
+    {
+        "id": 16,
+        "rule": "Recordação de hábito passado com 〜たものだ"
+    },
+    {
+        "id": 17,
+        "rule": "Não se deve com 〜ものではない"
+    },
+    {
+        "id": 18,
+        "rule": "Julgamento geral com 〜というものだ"
+    },
+    {
+        "id": 19,
+        "rule": "Causa explicativa com 〜ものだから"
+    },
+    {
+        "id": 20,
+        "rule": "Previsão pelo caráter da pessoa com 〜ことだから"
+    },
+    {
+        "id": 21,
+        "rule": "Motivo adicional com 〜ことだし"
+    },
+    {
+        "id": 22,
+        "rule": "Fator contribuinte com 〜こともあって"
+    },
+    {
+        "id": 23,
+        "rule": "Certeza formal com 〜に相違ない"
+    },
+    {
+        "id": 24,
+        "rule": "Julgamento por ponto de vista com 〜からすると e 〜からすれば"
+    },
+    {
+        "id": 25,
+        "rule": "Julgamento por critério com 〜からいって"
+    },
+    {
+        "id": 26,
+        "rule": "Perspectiva pessoal com 〜にしたら e 〜にすれば"
+    },
+    {
+        "id": 27,
+        "rule": "Contraste inesperado com 〜にしては"
+    },
+    {
+        "id": 28,
+        "rule": "Mesmo considerando com 〜にしても e 〜としても"
+    },
+    {
+        "id": 29,
+        "rule": "Reconhecimento parcial com 〜とはいえ"
+    },
+    {
+        "id": 30,
+        "rule": "Concessão corretiva com 〜とはいっても"
+    },
+    {
+        "id": 31,
+        "rule": "Hipótese assumida como base com 〜としたら e 〜とすれば"
+    },
+    {
+        "id": 32,
+        "rule": "Hipótese derivada com 〜とすると"
+    },
+    {
+        "id": 33,
+        "rule": "Negação volitiva com 〜まい"
+    },
+    {
+        "id": 34,
+        "rule": "Intenção negativa com 〜まいとする"
+    },
+    {
+        "id": 35,
+        "rule": "Comparação corretiva com 〜というより"
+    },
+    {
+        "id": 36,
+        "rule": "Reformulação coloquial com 〜というか"
+    },
+    {
+        "id": 37,
+        "rule": "Limitação interpretativa com 〜といっても"
+    },
+    {
+        "id": 38,
+        "rule": "Exemplificação resumida com 〜といった"
+    },
+    {
+        "id": 39,
+        "rule": "Ênfase avaliativa com 〜といったら"
+    },
+    {
+        "id": 40,
+        "rule": "Resumo modesto com 〜といったところだ"
+    },
+    {
+        "id": 41,
+        "rule": "Limitação de caso com 〜に限って"
+    },
+    {
+        "id": 42,
+        "rule": "Validade restrita com 〜に限り"
+    },
+    {
+        "id": 43,
+        "rule": "Inclusão ampla com 〜に限らず"
+    },
+    {
+        "id": 44,
+        "rule": "Enquanto a condição durar com 〜限り"
+    },
+    {
+        "id": 45,
+        "rule": "Dentro do que sei com 〜限りでは"
+    },
+    {
+        "id": 46,
+        "rule": "Nem sempre no limite da informação com 〜限りではない"
+    },
+    {
+        "id": 47,
+        "rule": "Longe de ser com 〜どころか"
+    },
+    {
+        "id": 48,
+        "rule": "Não é situação para com 〜どころではない"
+    },
+    {
+        "id": 49,
+        "rule": "Situação agravada com 〜どころではなく"
+    },
+    {
+        "id": 50,
+        "rule": "Resultado negativo por causa exclusiva com 〜ばかりに"
+    },
+    {
+        "id": 51,
+        "rule": "Justamente por ser com 〜だけに"
+    },
+    {
+        "id": 52,
+        "rule": "Como era de se esperar de com 〜だけあって"
+    },
+    {
+        "id": 53,
+        "rule": "Valeu a pena com 〜だけのことはある"
+    },
+    {
+        "id": 54,
+        "rule": "Até fazer algo extremo com 〜までして"
+    },
+    {
+        "id": 55,
+        "rule": "Nem é necessário com 〜までもない"
+    },
+    {
+        "id": 56,
+        "rule": "Sem exceção de com 〜を問わず"
+    },
+    {
+        "id": 57,
+        "rule": "Sem se importar com 〜もかまわず"
+    },
+    {
+        "id": 58,
+        "rule": "Independentemente de com 〜にかかわらず"
+    },
+    {
+        "id": 59,
+        "rule": "Apesar de com 〜にもかかわらず"
+    },
+    {
+        "id": 60,
+        "rule": "Sem incluir com 〜ぬきで e 〜ぬきに"
+    },
+    {
+        "id": 61,
+        "rule": "Sem considerar em discussão com 〜を抜きにして"
+    },
+    {
+        "id": 62,
+        "rule": "Em resposta a com 〜にこたえて"
+    },
+    {
+        "id": 63,
+        "rule": "Em desacordo com 〜に反して"
+    },
+    {
+        "id": 64,
+        "rule": "Outro lado da questão com 〜反面"
+    },
+    {
+        "id": 65,
+        "rule": "Tendência contínua com 〜一方だ"
+    },
+    {
+        "id": 66,
+        "rule": "Contraste de dois lados com 〜一方で"
+    },
+    {
+        "id": 67,
+        "rule": "Melhor do que qualquer alternativa com 〜にこしたことはない"
+    },
+    {
+        "id": 68,
+        "rule": "Se é para... melhor... com 〜くらいなら"
+    },
+    {
+        "id": 69,
+        "rule": "Não só... mas também em registro formal com 〜のみならず"
+    },
+    {
+        "id": 70,
+        "rule": "Qualidade exclusiva de com 〜ならでは"
+    },
+    {
+        "id": 71,
+        "rule": "Resultado final após processo com 〜た末に"
+    },
+    {
+        "id": 72,
+        "rule": "Desfecho após processo negativo com 〜たあげく"
+    },
+    {
+        "id": 73,
+        "rule": "Ação inacabada com 〜かける"
+    },
+    {
+        "id": 74,
+        "rule": "Estado intermediário com 〜かけだ e 〜かけの"
+    },
+    {
+        "id": 75,
+        "rule": "Fazer algo até o fim com 〜きる"
+    },
+    {
+        "id": 76,
+        "rule": "Fazer completamente apesar de tudo com 〜ぬく"
+    },
+    {
+        "id": 77,
+        "rule": "Enquanto faz outra ação em registro escrito com 〜つつ"
+    },
+    {
+        "id": 78,
+        "rule": "Apesar de fazer algo com 〜つつも"
+    },
+    {
+        "id": 79,
+        "rule": "Dificuldade em fazer com 〜かねる"
+    },
+    {
+        "id": 80,
+        "rule": "Risco de acontecer com 〜かねない"
+    },
+    {
+        "id": 81,
+        "rule": "Acabar não conseguindo fazer com 〜そびれる"
+    },
+    {
+        "id": 82,
+        "rule": "Risco ou possibilidade negativa com 〜おそれがある"
+    },
+    {
+        "id": 83,
+        "rule": "Sem fazer algo em registro formal com 〜ことなく"
+    },
+    {
+        "id": 84,
+        "rule": "Momento de mudança com 〜をきっかけに"
+    },
+    {
+        "id": 85,
+        "rule": "Início de enumeração com 〜をはじめ"
+    },
+    {
+        "id": 86,
+        "rule": "Enumeração representativa com 〜をはじめとする"
+    },
+    {
+        "id": 87,
+        "rule": "Centro ou foco com 〜を中心に"
+    },
+    {
+        "id": 88,
+        "rule": "Centro estrutural com 〜を中心として"
+    },
+    {
+        "id": 89,
+        "rule": "Meio amplo ou canal com 〜を通じて"
+    },
+    {
+        "id": 90,
+        "rule": "Ao longo de com 〜にわたって"
+    },
+    {
+        "id": 91,
+        "rule": "Antes de um evento formal com 〜に先立って"
+    },
+    {
+        "id": 92,
+        "rule": "Em ocasião formal com 〜にあたって"
+    },
+    {
+        "id": 93,
+        "rule": "Em ocasião formal com 〜に際して"
+    },
+    {
+        "id": 94,
+        "rule": "Junto com mudanças com 〜とともに"
+    },
+    {
+        "id": 95,
+        "rule": "Simultaneidade imediata com 〜と同時に"
+    },
+    {
+        "id": 96,
+        "rule": "Logo que com 〜とたん(に)"
+    },
+    {
+        "id": 97,
+        "rule": "Mudança repentina com 〜かと思うと e 〜かと思えば"
+    },
+    {
+        "id": 98,
+        "rule": "Dependendo do desfecho com 〜次第だ"
+    },
+    {
+        "id": 99,
+        "rule": "Resultado condicionado com 〜次第で"
+    },
+    {
+        "id": 100,
+        "rule": "Dependendo do caso com 〜次第では"
+    },
+    {
+        "id": 101,
+        "rule": "Do ponto de vista de com 〜上で"
+    },
+    {
+        "id": 102,
+        "rule": "Modificação nominal com 〜上での"
+    },
+    {
+        "id": 103,
+        "rule": "Já que a situação é esta com 〜上は"
+    },
+    {
+        "id": 104,
+        "rule": "Já que... com 〜以上 e 〜以上は"
+    },
+    {
+        "id": 105,
+        "rule": "Se conseguir com 〜ものなら"
+    },
+    {
+        "id": 106,
+        "rule": "Negação enfática com 〜ものか"
+    },
+    {
+        "id": 107,
+        "rule": "Desejo difícil com 〜ないものか"
+    },
+    {
+        "id": 108,
+        "rule": "Impressão ou valor forte com 〜ものがある"
+    },
+    {
+        "id": 109,
+        "rule": "Não totalmente impossível com 〜ないこともない e 〜なくもない"
+    },
+    {
+        "id": 110,
+        "rule": "Ênfase causal com 〜からこそ"
+    },
+    {
+        "id": 111,
+        "rule": "Excesso que leva a resultado com 〜のあまり"
+    },
+    {
+        "id": 112,
+        "rule": "Desde que aconteceu uma vez com 〜きり"
+    },
+    {
+        "id": 113,
+        "rule": "Conjunto uniforme com 〜ずくめ"
+    },
+    {
+        "id": 114,
+        "rule": "Coberto ou cheio de com 〜まみれ"
+    },
+    {
+        "id": 115,
+        "rule": "À sua maneira com 〜なりに e 〜なりの"
+    },
+    {
+        "id": 116,
+        "rule": "Quando chega a certo ponto com 〜ともなると e 〜ともなれば"
+    },
+    {
+        "id": 117,
+        "rule": "Segundo a fonte formal com 〜によれば"
+    },
+    {
+        "id": 118,
+        "rule": "Baseado em com 〜に基づいて"
+    },
+    {
+        "id": 119,
+        "rule": "De acordo com linha ou padrão com 〜に沿って"
+    },
+    {
+        "id": 120,
+        "rule": "Junto da mudança com 〜に伴って"
+    },
+    {
+        "id": 121,
+        "rule": "Sob controle ou contexto de com 〜のもとで"
+    },
+    {
+        "id": 122,
+        "rule": "A partir de base ou princípio com 〜のもとに"
+    },
+    {
+        "id": 123,
+        "rule": "Usando como base com 〜をもとに e 〜をもとにして"
+    },
+    {
+        "id": 124,
+        "rule": "Voltado para com 〜向け"
+    },
+    {
+        "id": 125,
+        "rule": "Apropriado para com 〜向き e 〜向きだ"
+    },
+    {
+        "id": 126,
+        "rule": "Destinado a com 〜向けに"
+    },
+    {
+        "id": 127,
+        "rule": "Em condição especial com 〜にあって"
+    },
+    {
+        "id": 128,
+        "rule": "Modificação nominal com 〜に対する"
+    },
+    {
+        "id": 129,
+        "rule": "Tema formal com 〜に関して e 〜に関する"
+    },
+    {
+        "id": 130,
+        "rule": "Movimento ou discussão em torno de com 〜をめぐって"
+    },
+    {
+        "id": 131,
+        "rule": "Dependendo do caso com 〜によっては"
+    },
+    {
+        "id": 132,
+        "rule": "Possibilidade de acontecer com 〜うる e 〜える"
+    },
+    {
+        "id": 133,
+        "rule": "Impossibilidade de acontecer com 〜えない"
+    },
+    {
+        "id": 134,
+        "rule": "Permissão humilde com 〜させていただく"
+    },
+    {
+        "id": 135,
+        "rule": "Desejo ou pedido polido com 〜ていただきたい"
+    },
+    {
+        "id": 136,
+        "rule": "Respeito em ação progressiva com 〜ていらっしゃる"
+    },
+    {
+        "id": 137,
+        "rule": "Honorífico com 〜られる"
+    },
+    {
+        "id": 138,
+        "rule": "Humildade com お/ご〜いただく"
+    },
+    {
+        "id": 139,
+        "rule": "Humildade reforçada com お/ご〜いたす"
+    },
+    {
+        "id": 140,
+        "rule": "Pedido formal com お/ご〜願う"
+    }
+]

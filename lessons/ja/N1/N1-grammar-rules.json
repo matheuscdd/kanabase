@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "rule": "Uso imediato após outra ação com 〜が早いか"
+    },
+    {
+        "id": 2,
+        "rule": "Mudança imediata com 〜や否や"
+    },
+    {
+        "id": 3,
+        "rule": "Ação seguida imediatamente por outra com 〜なり"
+    },
+    {
+        "id": 4,
+        "rule": "Repetição logo após acontecer com 〜そばから"
+    },
+    {
+        "id": 5,
+        "rule": "Antes que passe um instante com 〜か〜ないかのうちに"
+    },
+    {
+        "id": 6,
+        "rule": "Uma vez que acontece, não há volta com 〜が最後"
+    },
+    {
+        "id": 7,
+        "rule": "Consequência irreversível com 〜たら最後"
+    },
+    {
+        "id": 8,
+        "rule": "Mudança contínua desde certo ponto com 〜てからというもの"
+    },
+    {
+        "id": 9,
+        "rule": "Situação inconveniente captada com 〜ところを"
+    },
+    {
+        "id": 10,
+        "rule": "Surpresa contrária à expectativa com 〜かと思いきや"
+    },
+    {
+        "id": 11,
+        "rule": "Assim que terminar com Vます + 次第"
+    },
+    {
+        "id": 12,
+        "rule": "Fazer algo aproveitando a ocasião com 〜がてら"
+    },
+    {
+        "id": 13,
+        "rule": "Fazer algo em visita dupla com 〜かたがた"
+    },
+    {
+        "id": 14,
+        "rule": "Exercer duas atividades em paralelo com 〜かたわら"
+    },
+    {
+        "id": 15,
+        "rule": "Início simbólico de uma série com 〜を皮切りに"
+    },
+    {
+        "id": 16,
+        "rule": "Ponto de partida de uma série com 〜を振り出しに"
+    },
+    {
+        "id": 17,
+        "rule": "Mudança desencadeada por com 〜を契機に"
+    },
+    {
+        "id": 18,
+        "rule": "Passar por etapas com 〜を経て"
+    },
+    {
+        "id": 19,
+        "rule": "Considerando informações anteriores com 〜を踏まえて"
+    },
+    {
+        "id": 20,
+        "rule": "Às vésperas de com 〜を控えて"
+    },
+    {
+        "id": 21,
+        "rule": "Independentemente de fazer ou não com 〜ようが〜まいが"
+    },
+    {
+        "id": 22,
+        "rule": "Independentemente da vontade com 〜ようと〜まいと"
+    },
+    {
+        "id": 23,
+        "rule": "Não conseguir fazer mesmo tentando com 〜ようにも〜ない"
+    },
+    {
+        "id": 24,
+        "rule": "Finalidade formal com 〜べく"
+    },
+    {
+        "id": 25,
+        "rule": "Impossibilidade completa com 〜べくもない"
+    },
+    {
+        "id": 26,
+        "rule": "Resultado que parecia inevitável com 〜べくして"
+    },
+    {
+        "id": 27,
+        "rule": "Proibição rígida com 〜べからず"
+    },
+    {
+        "id": 28,
+        "rule": "Algo impróprio de com 〜まじき"
+    },
+    {
+        "id": 29,
+        "rule": "Mesmo que aconteça, o resultado não muda com 〜たところで"
+    },
+    {
+        "id": 30,
+        "rule": "Mesmo que seja com 〜にせよ"
+    },
+    {
+        "id": 31,
+        "rule": "Mesmo que seja em variante coloquial com 〜にしろ"
+    },
+    {
+        "id": 32,
+        "rule": "Mesmo assim com 〜にもせよ"
+    },
+    {
+        "id": 33,
+        "rule": "Seja o que for com 〜であれ"
+    },
+    {
+        "id": 34,
+        "rule": "Ainda que venha a ser com 〜であろうと"
+    },
+    {
+        "id": 35,
+        "rule": "Ainda que se trate de com 〜といえども"
+    },
+    {
+        "id": 36,
+        "rule": "Se não for este caso excepcional com 〜ならいざしらず"
+    },
+    {
+        "id": 37,
+        "rule": "Se ainda fosse... mas... com 〜ならまだしも"
+    },
+    {
+        "id": 38,
+        "rule": "Lamento ou censura pelo que não ocorreu com 〜ものを"
+    },
+    {
+        "id": 39,
+        "rule": "Se continuar assim com 〜ようでは"
+    },
+    {
+        "id": 40,
+        "rule": "Mesmo sem fazer com 〜ずとも"
+    },
+    {
+        "id": 41,
+        "rule": "Não dá para deixar passar com 〜ないではすまない"
+    },
+    {
+        "id": 42,
+        "rule": "Não pode ser deixado sem responsabilização com 〜ないではすまされない"
+    },
+    {
+        "id": 43,
+        "rule": "Não dá para não fazer com 〜ずにはすまない"
+    },
+    {
+        "id": 44,
+        "rule": "Acabar inevitavelmente levando a com 〜ずにはおかない"
+    },
+    {
+        "id": 45,
+        "rule": "Fazer inevitavelmente acontecer com 〜ないではおかない"
+    },
+    {
+        "id": 46,
+        "rule": "Admiração ou desejo forte com 〜てやまない"
+    },
+    {
+        "id": 47,
+        "rule": "Ser insuportável por circunstância com 〜てはかなわない"
+    },
+    {
+        "id": 48,
+        "rule": "Agir sem qualquer constrangimento com 〜てはばからない"
+    },
+    {
+        "id": 49,
+        "rule": "Grau extremo com 〜極まりない"
+    },
+    {
+        "id": 50,
+        "rule": "Forma predicativa de extremo com 〜極まる"
+    },
+    {
+        "id": 51,
+        "rule": "Emoção intensa com 〜の至り"
+    },
+    {
+        "id": 52,
+        "rule": "Estado máximo com 〜の極み"
+    },
+    {
+        "id": 53,
+        "rule": "Exagero inaceitável com 〜にもほどがある"
+    },
+    {
+        "id": 54,
+        "rule": "Intensidade sem limite com 〜限りだ"
+    },
+    {
+        "id": 55,
+        "rule": "Aproximação extrema com 〜限りなく〜に近い"
+    },
+    {
+        "id": 56,
+        "rule": "Gesto enfático como se dissesse com 〜とばかりに"
+    },
+    {
+        "id": 57,
+        "rule": "Quase a ponto de com 〜んばかりだ"
+    },
+    {
+        "id": 58,
+        "rule": "A ponto de causar com 〜んばかりに"
+    },
+    {
+        "id": 59,
+        "rule": "Com aparência de quase com 〜んばかりの"
+    },
+    {
+        "id": 60,
+        "rule": "Com a intenção de com 〜んがため(に)"
+    },
+    {
+        "id": 61,
+        "rule": "Como finalidade nominal com 〜んがための"
+    },
+    {
+        "id": 62,
+        "rule": "Inclusão até de algo mínimo com 〜すら"
+    },
+    {
+        "id": 63,
+        "rule": "Nem sequer com 〜だに"
+    },
+    {
+        "id": 64,
+        "rule": "Nem mesmo um único com 〜たりとも"
+    },
+    {
+        "id": 65,
+        "rule": "Menosprezo formal com 〜ごとき"
+    },
+    {
+        "id": 66,
+        "rule": "Comparação escrita com 〜ごとく"
+    },
+    {
+        "id": 67,
+        "rule": "Quantidade extraordinária a partir de com 〜からある"
+    },
+    {
+        "id": 68,
+        "rule": "Valor elevado a partir de com 〜からする"
+    },
+    {
+        "id": 69,
+        "rule": "Grande número de com 〜からの"
+    },
+    {
+        "id": 70,
+        "rule": "Julgar pela primeira impressão com 〜からして"
+    },
+    {
+        "id": 71,
+        "rule": "Digno de apreciação com 〜にたえる"
+    },
+    {
+        "id": 72,
+        "rule": "Insuportável de ver ou ouvir com 〜にたえない"
+    },
+    {
+        "id": 73,
+        "rule": "Digno de com 〜に足る"
+    },
+    {
+        "id": 74,
+        "rule": "Merecedor suficiente com 〜に足りる"
+    },
+    {
+        "id": 75,
+        "rule": "Fácil de imaginar com 〜に難くない"
+    },
+    {
+        "id": 76,
+        "rule": "Melhor do que qualquer alternativa com 〜にしくはない"
+    },
+    {
+        "id": 77,
+        "rule": "Ainda mais do que com 〜にもまして"
+    },
+    {
+        "id": 78,
+        "rule": "Em contraste com com 〜にひきかえ"
+    },
+    {
+        "id": 79,
+        "rule": "Julgando à luz de com 〜に照らして"
+    },
+    {
+        "id": 80,
+        "rule": "De acordo com a situação real com 〜に即して"
+    },
+    {
+        "id": 81,
+        "rule": "Sem intenção específica com 〜ともなく"
+    },
+    {
+        "id": 82,
+        "rule": "Sem perceber, ao fazer algo com 〜ともなしに"
+    },
+    {
+        "id": 83,
+        "rule": "Usar algo como pretexto com 〜にかこつけて"
+    },
+    {
+        "id": 84,
+        "rule": "Negligenciar algo por se ocupar com com 〜にかまけて"
+    },
+    {
+        "id": 85,
+        "rule": "Justamente porque a situação é esta com 〜とあって"
+    },
+    {
+        "id": 86,
+        "rule": "Se é o caso de com 〜とあれば"
+    },
+    {
+        "id": 87,
+        "rule": "Se for nessa circunstância com 〜とあっては"
+    },
+    {
+        "id": 88,
+        "rule": "Quando se fala de com 〜ときたら"
+    },
+    {
+        "id": 89,
+        "rule": "E ainda por cima com 〜ときている"
+    },
+    {
+        "id": 90,
+        "rule": "Somando efeitos com 〜と相まって"
+    },
+    {
+        "id": 91,
+        "rule": "Além disso, sem ignorar o anterior com 〜もさることながら"
+    },
+    {
+        "id": 92,
+        "rule": "Deixando um tema de lado com 〜はさておき"
+    },
+    {
+        "id": 93,
+        "rule": "Sem entrar nesse ponto por enquanto com 〜はともかく"
+    },
+    {
+        "id": 94,
+        "rule": "Sem falar de com 〜はもとより"
+    },
+    {
+        "id": 95,
+        "rule": "Muito menos com 〜はおろか"
+    },
+    {
+        "id": 96,
+        "rule": "Claro que... e ainda mais com 〜はもちろん"
+    },
+    {
+        "id": 97,
+        "rule": "Chegando ao ponto de com 〜に至って"
+    },
+    {
+        "id": 98,
+        "rule": "Quanto a este ponto extremo com 〜に至っては"
+    },
+    {
+        "id": 99,
+        "rule": "Até o último detalhe com 〜に至るまで"
+    },
+    {
+        "id": 100,
+        "rule": "Aproveitar-se de algo com 〜をいいことに"
+    },
+    {
+        "id": 101,
+        "rule": "Ignorar o contexto ao redor com 〜をよそに"
+    },
+    {
+        "id": 102,
+        "rule": "Enfrentar dificuldades sem se abalar com 〜をものともせず"
+    },
+    {
+        "id": 103,
+        "rule": "Insistir apesar de obstáculos com 〜をおして"
+    },
+    {
+        "id": 104,
+        "rule": "Ser forçado a com 〜を余儀なくされる"
+    },
+    {
+        "id": 105,
+        "rule": "Forçar alguém ou algo a com 〜を余儀なくする"
+    },
+    {
+        "id": 106,
+        "rule": "Não conseguir conter um sentimento com 〜を禁じ得ない"
+    },
+    {
+        "id": 107,
+        "rule": "Causa ou razão em registro elevado com 〜ゆえに"
+    },
+    {
+        "id": 108,
+        "rule": "Modificação nominal em registro elevado com 〜ゆえの"
+    },
+    {
+        "id": 109,
+        "rule": "Isso não se resolve apenas com 〜ではすまない"
+    },
+    {
+        "id": 110,
+        "rule": "Resultado deplorável com 〜始末だ"
+    },
+    {
+        "id": 111,
+        "rule": "Não vale a pena fazer com 〜にはあたらない"
+    },
+    {
+        "id": 112,
+        "rule": "Mesmo que não se chegue a tanto com 〜ないまでも"
+    },
+    {
+        "id": 113,
+        "rule": "Basta fazer isso e pronto com 〜までのことだ"
+    },
+    {
+        "id": 114,
+        "rule": "Não é caso de dizer isso com 〜ではあるまいし"
+    },
+    {
+        "id": 115,
+        "rule": "Não poder começar sem com 〜なくして(は)〜ない"
+    },
+    {
+        "id": 116,
+        "rule": "Não poder acontecer sem com 〜なしに(は)〜ない"
+    },
+    {
+        "id": 117,
+        "rule": "Acabar sem conseguir fazer com 〜ずじまい"
+    },
+    {
+        "id": 118,
+        "rule": "Expressão modesta contínua com 〜ております"
+    },
+    {
+        "id": 119,
+        "rule": "Movimento ou mudança humilde com 〜てまいります"
+    },
+    {
+        "id": 120,
+        "rule": "Relato de processo até agora com 〜てまいりました"
+    },
+    {
+        "id": 121,
+        "rule": "Humildade elevada com 〜申し上げる"
+    },
+    {
+        "id": 122,
+        "rule": "Estado de conhecimento humilde com 〜存じております e 〜存じ上げております"
+    },
+    {
+        "id": 123,
+        "rule": "Verbos humildes de recepção e visita com 〜拝見する, 〜お目にかかる e 〜伺う"
+    },
+    {
+        "id": 124,
+        "rule": "Registro de atendimento formal com 〜承る e 〜いたしかねる"
+    },
+    {
+        "id": 125,
+        "rule": "Pedido empresarial polido com 〜ていただけますと幸いです e 〜ていただければと存じます"
+    }
+]

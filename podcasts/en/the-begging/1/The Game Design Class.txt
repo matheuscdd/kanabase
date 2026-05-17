@@ -1,0 +1,27 @@
+Speaker 1: [enthusiastic] Hello! Are you in the game design class?
+
+Speaker 2: [happy] Yes, I am. I am Violet. Are you Bob?
+
+Speaker 1: [agreement] Yes, I am. Nice to meet you, Violet.
+
+Speaker 2: [thoughtful] Nice to meet you too. Are you a programmer?
+
+Speaker 1: [animation] Yes, I am. I am a JavaScript developer. Aren't you a developer too?
+
+Speaker 2: [happy] No, I am not. I am a 3D artist.
+
+Speaker 1: [amazement] Wow, that is great! Is your art for video games?
+
+Speaker 2: [agreement] Yes, it is. Is the teacher in the classroom?
+
+Speaker 1: [understanding] No, she is not here yet. We are early.
+
+Speaker 2: [thoughtful] Aren't the computers on?
+
+Speaker 1: [energetic] No, they are not on. But we are ready for the class!
+
+Speaker 2: [enthusiastic] Yes, we are. It is a very exciting day.
+
+Speaker 1: [warmth] Thank you for listening to our conversation today, everyone.
+
+Speaker 2: [happy] Keep practicing your English, and see you next time! Bye!

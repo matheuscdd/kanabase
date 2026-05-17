@@ -1,0 +1,418 @@
+[
+    {
+        "id": 1,
+        "rule": "Uso da forma casual em conversas informais"
+    },
+    {
+        "id": 2,
+        "rule": "Presente e passado informais de substantivos e adjetivos な"
+    },
+    {
+        "id": 3,
+        "rule": "Citação com と言います"
+    },
+    {
+        "id": 4,
+        "rule": "Relato do que alguém disse com と言っていました"
+    },
+    {
+        "id": 5,
+        "rule": "Opinião e pensamento com と思います"
+    },
+    {
+        "id": 6,
+        "rule": "Perguntas indiretas com かどうか"
+    },
+    {
+        "id": 7,
+        "rule": "Explicação e contexto com んです"
+    },
+    {
+        "id": 8,
+        "rule": "Introdução de assunto com んですが"
+    },
+    {
+        "id": 9,
+        "rule": "Modificação de substantivos com verbos em forma casual"
+    },
+    {
+        "id": 10,
+        "rule": "Modificação de substantivos com adjetivos e substantivos em forma casual"
+    },
+    {
+        "id": 11,
+        "rule": "Orações relativas no passado para descrever substantivos"
+    },
+    {
+        "id": 12,
+        "rule": "Nominalização com こと"
+    },
+    {
+        "id": 13,
+        "rule": "Nominalização com の"
+    },
+    {
+        "id": 14,
+        "rule": "Experiência com 〜たことがある"
+    },
+    {
+        "id": 15,
+        "rule": "Sequência parcial de ações com 〜たり〜たりする"
+    },
+    {
+        "id": 16,
+        "rule": "Razões múltiplas com 〜し〜し"
+    },
+    {
+        "id": 17,
+        "rule": "Intenção com 〜つもりです"
+    },
+    {
+        "id": 18,
+        "rule": "Planos e agenda com 〜予定です"
+    },
+    {
+        "id": 19,
+        "rule": "Decisão pessoal com 〜ことにする"
+    },
+    {
+        "id": 20,
+        "rule": "Decisão estabelecida com 〜ことになる"
+    },
+    {
+        "id": 21,
+        "rule": "Hábito decidido com 〜ことにしている"
+    },
+    {
+        "id": 22,
+        "rule": "Regra ou rotina decidida com 〜ことになっている"
+    },
+    {
+        "id": 23,
+        "rule": "Mudança de hábito ou capacidade com 〜ようになる"
+    },
+    {
+        "id": 24,
+        "rule": "Esforço deliberado com 〜ようにする"
+    },
+    {
+        "id": 25,
+        "rule": "Conselho com 〜ほうがいい"
+    },
+    {
+        "id": 26,
+        "rule": "Forma volitiva de verbos do grupo 2"
+    },
+    {
+        "id": 27,
+        "rule": "Forma volitiva de verbos do grupo 1"
+    },
+    {
+        "id": 28,
+        "rule": "Forma volitiva de する e 来る"
+    },
+    {
+        "id": 29,
+        "rule": "Intenção imediata com a forma volitiva + と思う"
+    },
+    {
+        "id": 30,
+        "rule": "Convites com a forma volitiva"
+    },
+    {
+        "id": 31,
+        "rule": "Probabilidade com 〜でしょう"
+    },
+    {
+        "id": 32,
+        "rule": "Possibilidade com 〜かもしれない"
+    },
+    {
+        "id": 33,
+        "rule": "Aparência com 〜そうです"
+    },
+    {
+        "id": 34,
+        "rule": "Informação ouvida com 〜そうです"
+    },
+    {
+        "id": 35,
+        "rule": "Desejo por objetos com ほしいです"
+    },
+    {
+        "id": 36,
+        "rule": "Desejo atribuído a outras pessoas com ほしがる e 〜たがる"
+    },
+    {
+        "id": 37,
+        "rule": "Excesso com 〜すぎる"
+    },
+    {
+        "id": 38,
+        "rule": "Facilidade com 〜やすい"
+    },
+    {
+        "id": 39,
+        "rule": "Dificuldade com 〜にくい"
+    },
+    {
+        "id": 40,
+        "rule": "Modo de fazer algo com 〜方"
+    },
+    {
+        "id": 41,
+        "rule": "Mudança de estado com い-adjetivo + くなる"
+    },
+    {
+        "id": 42,
+        "rule": "Mudança de estado com な-adjetivo e substantivo + になる"
+    },
+    {
+        "id": 43,
+        "rule": "Fazer algo mudar com い-adjetivo + くする"
+    },
+    {
+        "id": 44,
+        "rule": "Fazer algo mudar com な-adjetivo e substantivo + にする"
+    },
+    {
+        "id": 45,
+        "rule": "Escolha final com substantivo + にする"
+    },
+    {
+        "id": 46,
+        "rule": "Verbos transitivos e intransitivos em pares básicos"
+    },
+    {
+        "id": 47,
+        "rule": "Tentar fazer com 〜てみる"
+    },
+    {
+        "id": 48,
+        "rule": "Preparação com 〜ておく"
+    },
+    {
+        "id": 49,
+        "rule": "Conclusão ou arrependimento com 〜てしまう"
+    },
+    {
+        "id": 50,
+        "rule": "Estado resultante com 〜てある"
+    },
+    {
+        "id": 51,
+        "rule": "Ações simultâneas com 〜ながら"
+    },
+    {
+        "id": 52,
+        "rule": "Continuação de ação com Vます + 続ける"
+    },
+    {
+        "id": 53,
+        "rule": "Início de ação com Vます + 始める"
+    },
+    {
+        "id": 54,
+        "rule": "Término de ação com Vます + 終わる"
+    },
+    {
+        "id": 55,
+        "rule": "Mudança percebida até agora com 〜てくる"
+    },
+    {
+        "id": 56,
+        "rule": "Mudança daqui em diante com 〜ていく"
+    },
+    {
+        "id": 57,
+        "rule": "Acabar de fazer com 〜たばかり"
+    },
+    {
+        "id": 58,
+        "rule": "Sem fazer algo com 〜ないで"
+    },
+    {
+        "id": 59,
+        "rule": "Causa e motivo com 〜なくて"
+    },
+    {
+        "id": 60,
+        "rule": "Favor feito para alguém com 〜てあげる"
+    },
+    {
+        "id": 61,
+        "rule": "Favor recebido com 〜てくれる"
+    },
+    {
+        "id": 62,
+        "rule": "Favor recebido com 〜てもらう"
+    },
+    {
+        "id": 63,
+        "rule": "Pedidos educados com 〜てくれませんか e 〜てもらえませんか"
+    },
+    {
+        "id": 64,
+        "rule": "Forma potencial de verbos do grupo 2"
+    },
+    {
+        "id": 65,
+        "rule": "Forma potencial de verbos do grupo 1"
+    },
+    {
+        "id": 66,
+        "rule": "Forma potencial de する e 来る"
+    },
+    {
+        "id": 67,
+        "rule": "Habilidade e possibilidade com a forma potencial"
+    },
+    {
+        "id": 68,
+        "rule": "Percepção espontânea com 見える e 聞こえる"
+    },
+    {
+        "id": 69,
+        "rule": "Forma passiva de verbos do grupo 2"
+    },
+    {
+        "id": 70,
+        "rule": "Forma passiva de verbos do grupo 1"
+    },
+    {
+        "id": 71,
+        "rule": "Forma passiva de する e 来る"
+    },
+    {
+        "id": 72,
+        "rule": "Uso básico da voz passiva"
+    },
+    {
+        "id": 73,
+        "rule": "Passiva de inconveniência"
+    },
+    {
+        "id": 74,
+        "rule": "Forma causativa de verbos do grupo 2"
+    },
+    {
+        "id": 75,
+        "rule": "Forma causativa de verbos do grupo 1"
+    },
+    {
+        "id": 76,
+        "rule": "Forma causativa de する e 来る"
+    },
+    {
+        "id": 77,
+        "rule": "Causativa para permitir uma ação"
+    },
+    {
+        "id": 78,
+        "rule": "Causativa para obrigar uma ação"
+    },
+    {
+        "id": 79,
+        "rule": "Imperativo informal"
+    },
+    {
+        "id": 80,
+        "rule": "Proibição informal com な"
+    },
+    {
+        "id": 81,
+        "rule": "Obrigação com 〜なければいけません e 〜なくてはいけません"
+    },
+    {
+        "id": 82,
+        "rule": "Não é necessário com 〜なくてもかまいません"
+    },
+    {
+        "id": 83,
+        "rule": "Condição natural com 〜と"
+    },
+    {
+        "id": 84,
+        "rule": "Condição com 〜たら"
+    },
+    {
+        "id": 85,
+        "rule": "Condição contextual com 〜なら"
+    },
+    {
+        "id": 86,
+        "rule": "Condição hipotética com 〜ば"
+    },
+    {
+        "id": 87,
+        "rule": "Concessão com 〜ても"
+    },
+    {
+        "id": 88,
+        "rule": "Concessão negativa com 〜なくても"
+    },
+    {
+        "id": 89,
+        "rule": "Razão suave com 〜ので"
+    },
+    {
+        "id": 90,
+        "rule": "Contraste ou frustração com 〜のに"
+    },
+    {
+        "id": 91,
+        "rule": "Finalidade com 〜ために"
+    },
+    {
+        "id": 92,
+        "rule": "Finalidade com 〜ように"
+    },
+    {
+        "id": 93,
+        "rule": "Prazo com 〜までに"
+    },
+    {
+        "id": 94,
+        "rule": "Duração com 〜間"
+    },
+    {
+        "id": 95,
+        "rule": "Momento dentro de um intervalo com 〜間に"
+    },
+    {
+        "id": 96,
+        "rule": "Distribuição com 〜ずつ"
+    },
+    {
+        "id": 97,
+        "rule": "Limitação com 〜しか〜ない"
+    },
+    {
+        "id": 98,
+        "rule": "Restrição simples com 〜だけ"
+    },
+    {
+        "id": 99,
+        "rule": "Escolha exemplificativa com 〜でも"
+    },
+    {
+        "id": 100,
+        "rule": "Grau aproximado com 〜くらい e 〜ぐらい"
+    },
+    {
+        "id": 101,
+        "rule": "Comparações com 〜と同じくらい e 〜ほど〜ない"
+    },
+    {
+        "id": 102,
+        "rule": "Superlativo e escolha dentro de um grupo com 〜の中で e いちばん"
+    },
+    {
+        "id": 103,
+        "rule": "Momento da ação com escolha de tempo verbal em 〜とき"
+    },
+    {
+        "id": 104,
+        "rule": "Instrução indireta com 〜ように言う"
+    }
+]

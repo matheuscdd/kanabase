@@ -1,0 +1,378 @@
+[
+    {
+        "id": 1,
+        "rule": "Forma causativa-passiva de verbos do grupo 2"
+    },
+    {
+        "id": 2,
+        "rule": "Forma causativa-passiva de verbos do grupo 1"
+    },
+    {
+        "id": 3,
+        "rule": "Forma causativa-passiva de する e 来る"
+    },
+    {
+        "id": 4,
+        "rule": "Uso prático da causativa-passiva para ações impostas"
+    },
+    {
+        "id": 5,
+        "rule": "Inferência baseada em indícios com 〜ようだ"
+    },
+    {
+        "id": 6,
+        "rule": "Informação típica ou reputação com 〜らしい"
+    },
+    {
+        "id": 7,
+        "rule": "Semelhança coloquial com 〜みたいだ"
+    },
+    {
+        "id": 8,
+        "rule": "Convicção forte com 〜に違いない"
+    },
+    {
+        "id": 9,
+        "rule": "Expectativa lógica com 〜はずだ"
+    },
+    {
+        "id": 10,
+        "rule": "Negação de expectativa com 〜はずがない"
+    },
+    {
+        "id": 11,
+        "rule": "Conclusão natural com 〜わけだ"
+    },
+    {
+        "id": 12,
+        "rule": "Negação parcial com 〜わけではない"
+    },
+    {
+        "id": 13,
+        "rule": "Não quer dizer que com 〜というわけではない"
+    },
+    {
+        "id": 14,
+        "rule": "Resumo reportado com 〜ということだ"
+    },
+    {
+        "id": 15,
+        "rule": "Definição e enquadramento com 〜という"
+    },
+    {
+        "id": 16,
+        "rule": "Citação informal com 〜って"
+    },
+    {
+        "id": 17,
+        "rule": "Pedido de transmissão com 〜ように伝える"
+    },
+    {
+        "id": 18,
+        "rule": "Instrução recebida com 〜ように言われる"
+    },
+    {
+        "id": 19,
+        "rule": "Enquanto ainda há chance com 〜うちに"
+    },
+    {
+        "id": 20,
+        "rule": "Antes que algo aconteça com 〜ないうちに"
+    },
+    {
+        "id": 21,
+        "rule": "Momento exato da ação com 〜ところだ"
+    },
+    {
+        "id": 22,
+        "rule": "Momento em andamento com 〜ているところだ"
+    },
+    {
+        "id": 23,
+        "rule": "Ação recém-concluída com 〜たところだ"
+    },
+    {
+        "id": 24,
+        "rule": "Situação prestes a acontecer com 〜ところだった"
+    },
+    {
+        "id": 25,
+        "rule": "Logo depois de com 〜たあとで"
+    },
+    {
+        "id": 26,
+        "rule": "Desde que com 〜て以来"
+    },
+    {
+        "id": 27,
+        "rule": "Sempre que com 〜たびに"
+    },
+    {
+        "id": 28,
+        "rule": "Em intervalos regulares com 〜おきに"
+    },
+    {
+        "id": 29,
+        "rule": "A cada item ou período com 〜ごとに"
+    },
+    {
+        "id": 30,
+        "rule": "No meio de com 〜最中に"
+    },
+    {
+        "id": 31,
+        "rule": "Estado contínuo com 〜たまま"
+    },
+    {
+        "id": 32,
+        "rule": "Deixar algo sem fazer com 〜ないまま"
+    },
+    {
+        "id": 33,
+        "rule": "Sem fazer algo com 〜ずに"
+    },
+    {
+        "id": 34,
+        "rule": "Sem precisar fazer com 〜ずに済む"
+    },
+    {
+        "id": 35,
+        "rule": "Tentativa iminente com 〜ようとする"
+    },
+    {
+        "id": 36,
+        "rule": "Acontecer por pouco com 〜そうになる"
+    },
+    {
+        "id": 37,
+        "rule": "Hábito excessivo com 〜てばかりいる"
+    },
+    {
+        "id": 38,
+        "rule": "Tendência crescente com 〜ばかりだ"
+    },
+    {
+        "id": 39,
+        "rule": "Mudança paralela com 〜につれて"
+    },
+    {
+        "id": 40,
+        "rule": "Mudança conforme com 〜にしたがって"
+    },
+    {
+        "id": 41,
+        "rule": "Causa positiva com 〜おかげで"
+    },
+    {
+        "id": 42,
+        "rule": "Causa negativa com 〜せいで"
+    },
+    {
+        "id": 43,
+        "rule": "Causa presumida com 〜せいか"
+    },
+    {
+        "id": 44,
+        "rule": "Causa formal com 〜ため"
+    },
+    {
+        "id": 45,
+        "rule": "Concessão com 〜ものの"
+    },
+    {
+        "id": 46,
+        "rule": "Contraste de comportamento com 〜くせに"
+    },
+    {
+        "id": 47,
+        "rule": "Em vez de com 〜かわりに"
+    },
+    {
+        "id": 48,
+        "rule": "Além de com 〜に加えて"
+    },
+    {
+        "id": 49,
+        "rule": "Não só... mas também com 〜だけでなく"
+    },
+    {
+        "id": 50,
+        "rule": "Não só... mas até com 〜ばかりか"
+    },
+    {
+        "id": 51,
+        "rule": "Concessão hipotética com 〜たとしても"
+    },
+    {
+        "id": 52,
+        "rule": "Não adianta com 〜てもしかたがない e 〜てもしょうがない"
+    },
+    {
+        "id": 53,
+        "rule": "Quanto mais... mais... com 〜ば〜ほど"
+    },
+    {
+        "id": 54,
+        "rule": "Contraste com expectativa com 〜わりに"
+    },
+    {
+        "id": 55,
+        "rule": "Inclusão extrema com 〜さえ"
+    },
+    {
+        "id": 56,
+        "rule": "Nem mesmo com 〜さえ〜ない"
+    },
+    {
+        "id": 57,
+        "rule": "Ênfase exclusiva com 〜こそ"
+    },
+    {
+        "id": 58,
+        "rule": "Não há alternativa com 〜しかない"
+    },
+    {
+        "id": 59,
+        "rule": "Não há outra opção com 〜ほかない"
+    },
+    {
+        "id": 60,
+        "rule": "Limitação aproximada com 〜ばかり"
+    },
+    {
+        "id": 61,
+        "rule": "Comparação por diferença com 〜に比べて"
+    },
+    {
+        "id": 62,
+        "rule": "Ponto de vista com 〜にとって"
+    },
+    {
+        "id": 63,
+        "rule": "Grau extremo com 〜ほど"
+    },
+    {
+        "id": 64,
+        "rule": "Tendência frequente com 〜がち"
+    },
+    {
+        "id": 65,
+        "rule": "Tendência leve com 〜気味"
+    },
+    {
+        "id": 66,
+        "rule": "Caráter aproximado com 〜っぽい"
+    },
+    {
+        "id": 67,
+        "rule": "Cheio de com 〜だらけ"
+    },
+    {
+        "id": 68,
+        "rule": "Tema de discussão com 〜について"
+    },
+    {
+        "id": 69,
+        "rule": "Informação segundo uma fonte com 〜によると"
+    },
+    {
+        "id": 70,
+        "rule": "Agente, meio ou causa com 〜によって"
+    },
+    {
+        "id": 71,
+        "rule": "Relação de oposição com 〜に対して"
+    },
+    {
+        "id": 72,
+        "rule": "Posição e papel com 〜として"
+    },
+    {
+        "id": 73,
+        "rule": "Critério ou resposta variável com 〜に応じて"
+    },
+    {
+        "id": 74,
+        "rule": "Meio ou período atravessado com 〜を通して"
+    },
+    {
+        "id": 75,
+        "rule": "Etapa anterior com 〜た上で"
+    },
+    {
+        "id": 76,
+        "rule": "Informação adicional com 〜うえに"
+    },
+    {
+        "id": 77,
+        "rule": "Ocasião específica com 〜際に"
+    },
+    {
+        "id": 78,
+        "rule": "Conselho enfático com 〜べきだ"
+    },
+    {
+        "id": 79,
+        "rule": "Conselho negativo com 〜べきではない"
+    },
+    {
+        "id": 80,
+        "rule": "Não é necessário com 〜ことはない"
+    },
+    {
+        "id": 81,
+        "rule": "Impossibilidade moral ou social com 〜わけにはいかない"
+    },
+    {
+        "id": 82,
+        "rule": "Conselho geral com 〜ことだ"
+    },
+    {
+        "id": 83,
+        "rule": "Seria bom se com 〜といい"
+    },
+    {
+        "id": 84,
+        "rule": "Espero que não com 〜なければいい"
+    },
+    {
+        "id": 85,
+        "rule": "Respeito com いらっしゃる"
+    },
+    {
+        "id": 86,
+        "rule": "Respeito com なさる"
+    },
+    {
+        "id": 87,
+        "rule": "Linguagem respeitosa com お〜になる"
+    },
+    {
+        "id": 88,
+        "rule": "Humildade com 参る, 申す e いたす"
+    },
+    {
+        "id": 89,
+        "rule": "Linguagem humilde com お〜する"
+    },
+    {
+        "id": 90,
+        "rule": "Dar e receber em linguagem respeitosa com くださる e いただく"
+    },
+    {
+        "id": 91,
+        "rule": "Pedido respeitoso com お〜ください"
+    },
+    {
+        "id": 92,
+        "rule": "Pedido mais polido com 〜てくださいますか"
+    },
+    {
+        "id": 93,
+        "rule": "Pedido humilde com 〜ていただけませんか"
+    },
+    {
+        "id": 94,
+        "rule": "Polidez elevada com ございます"
+    }
+]

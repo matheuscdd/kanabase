@@ -1,0 +1,338 @@
+[
+    {
+        "id": 1,
+        "rule": "Fundamentos do hiragana"
+    },
+    {
+        "id": 2,
+        "rule": "Dakuten e handakuten no hiragana"
+    },
+    {
+        "id": 3,
+        "rule": "Combinações com yōon no hiragana"
+    },
+    {
+        "id": 4,
+        "rule": "Sokuon っ para consoantes dobradas"
+    },
+    {
+        "id": 5,
+        "rule": "Chōon e alongamento de vogais"
+    },
+    {
+        "id": 6,
+        "rule": "Fundamentos do katakana"
+    },
+    {
+        "id": 7,
+        "rule": "Prolongamento vocálico no katakana"
+    },
+    {
+        "id": 8,
+        "rule": "Leitura e escrita de números japoneses básicos"
+    },
+    {
+        "id": 9,
+        "rule": "Datas, dias do mês e horas em japonês"
+    },
+    {
+        "id": 10,
+        "rule": "Ordem básica da frase em japonês"
+    },
+    {
+        "id": 11,
+        "rule": "Partícula は para marcar o tópico"
+    },
+    {
+        "id": 12,
+        "rule": "Cópula です em frases afirmativas"
+    },
+    {
+        "id": 13,
+        "rule": "Cópula です em frases negativas"
+    },
+    {
+        "id": 14,
+        "rule": "Passado afirmativo da cópula com でした"
+    },
+    {
+        "id": 15,
+        "rule": "Passado negativo da cópula com ではありませんでした"
+    },
+    {
+        "id": 16,
+        "rule": "Perguntas com ですか"
+    },
+    {
+        "id": 17,
+        "rule": "Partícula も para inclusão"
+    },
+    {
+        "id": 18,
+        "rule": "Partícula の para posse e relação"
+    },
+    {
+        "id": 19,
+        "rule": "Demonstrativos これ, それ e あれ"
+    },
+    {
+        "id": 20,
+        "rule": "Demonstrativos この, その e あの"
+    },
+    {
+        "id": 21,
+        "rule": "Demonstrativos de lugar ここ, そこ e あそこ"
+    },
+    {
+        "id": 22,
+        "rule": "Interrogativos básicos だれ, なに, どこ e いつ"
+    },
+    {
+        "id": 23,
+        "rule": "Interrogativos de escolha com どれ e どの"
+    },
+    {
+        "id": 24,
+        "rule": "Interrogativos de quantidade com いくつ, いくら e なんさい"
+    },
+    {
+        "id": 25,
+        "rule": "Partícula を para objeto direto"
+    },
+    {
+        "id": 26,
+        "rule": "Partícula に para tempo específico"
+    },
+    {
+        "id": 27,
+        "rule": "Partículas に e へ para destino e direção"
+    },
+    {
+        "id": 28,
+        "rule": "Partícula で para lugar da ação"
+    },
+    {
+        "id": 29,
+        "rule": "Partícula で para meio e instrumento"
+    },
+    {
+        "id": 30,
+        "rule": "Partícula と para companhia e enumeração completa"
+    },
+    {
+        "id": 31,
+        "rule": "Partícula や para enumeração incompleta"
+    },
+    {
+        "id": 32,
+        "rule": "Partículas から e まで para origem e limite"
+    },
+    {
+        "id": 33,
+        "rule": "Partícula が para sujeito e identificação"
+    },
+    {
+        "id": 34,
+        "rule": "Diferença básica entre は e が"
+    },
+    {
+        "id": 35,
+        "rule": "Gostos, habilidades e compreensão com 好き, きらい, 上手, 下手 e 分かります"
+    },
+    {
+        "id": 36,
+        "rule": "Partículas finais ね e よ"
+    },
+    {
+        "id": 37,
+        "rule": "Expressões de posição com 上, 下, 前, 後ろ, 中 e 隣"
+    },
+    {
+        "id": 38,
+        "rule": "Adjetivos い em frases afirmativas"
+    },
+    {
+        "id": 39,
+        "rule": "Adjetivos い em frases negativas"
+    },
+    {
+        "id": 40,
+        "rule": "Adjetivos い no passado afirmativo e negativo"
+    },
+    {
+        "id": 41,
+        "rule": "Adjetivos な em frases afirmativas com です"
+    },
+    {
+        "id": 42,
+        "rule": "Adjetivos な em frases negativas e no passado"
+    },
+    {
+        "id": 43,
+        "rule": "Adjetivos antes de substantivos"
+    },
+    {
+        "id": 44,
+        "rule": "Conexão de adjetivos e substantivos com て"
+    },
+    {
+        "id": 45,
+        "rule": "Existência com あります e います"
+    },
+    {
+        "id": 46,
+        "rule": "Localização de pessoas e objetos com 〜に あります e います"
+    },
+    {
+        "id": 47,
+        "rule": "Posse expressa com あります e います"
+    },
+    {
+        "id": 48,
+        "rule": "Forma ます em frases afirmativas"
+    },
+    {
+        "id": 49,
+        "rule": "Forma ません em frases negativas"
+    },
+    {
+        "id": 50,
+        "rule": "Forma ました no passado afirmativo"
+    },
+    {
+        "id": 51,
+        "rule": "Forma ませんでした no passado negativo"
+    },
+    {
+        "id": 52,
+        "rule": "Perguntas com verbos na forma ます"
+    },
+    {
+        "id": 53,
+        "rule": "Classificação básica de verbos dos grupos 1, 2 e irregulares"
+    },
+    {
+        "id": 54,
+        "rule": "Cópula informal だ e suas formas básicas"
+    },
+    {
+        "id": 55,
+        "rule": "Forma dicionário de verbos em uso introdutório"
+    },
+    {
+        "id": 56,
+        "rule": "Forma ない de verbos em uso introdutório"
+    },
+    {
+        "id": 57,
+        "rule": "Forma た de verbos em uso introdutório"
+    },
+    {
+        "id": 58,
+        "rule": "Forma なかった de verbos em uso introdutório"
+    },
+    {
+        "id": 59,
+        "rule": "Forma て de verbos"
+    },
+    {
+        "id": 60,
+        "rule": "Pedidos com 〜てください"
+    },
+    {
+        "id": 61,
+        "rule": "Pedidos negativos com 〜ないでください"
+    },
+    {
+        "id": 62,
+        "rule": "Ações em sequência com a forma て"
+    },
+    {
+        "id": 63,
+        "rule": "Sequência temporal com 〜てから"
+    },
+    {
+        "id": 64,
+        "rule": "Estado ou ação em andamento com 〜ています"
+    },
+    {
+        "id": 65,
+        "rule": "Ainda não com まだ〜ていません"
+    },
+    {
+        "id": 66,
+        "rule": "Permissão com 〜てもいいです"
+    },
+    {
+        "id": 67,
+        "rule": "Proibição com 〜てはいけません"
+    },
+    {
+        "id": 68,
+        "rule": "Convites com 〜ませんか"
+    },
+    {
+        "id": 69,
+        "rule": "Sugestões com 〜ましょう e 〜ましょうか"
+    },
+    {
+        "id": 70,
+        "rule": "Desejo com 〜たいです"
+    },
+    {
+        "id": 71,
+        "rule": "Habilidade com できます e 〜ことができます"
+    },
+    {
+        "id": 72,
+        "rule": "Obrigação com 〜なければなりません"
+    },
+    {
+        "id": 73,
+        "rule": "Ausência de obrigação com 〜なくてもいいです"
+    },
+    {
+        "id": 74,
+        "rule": "Ir a um lugar para fazer algo com 〜に行く, 〜に来る e 〜に帰る"
+    },
+    {
+        "id": 75,
+        "rule": "Antes e depois com 〜前に e 〜後で"
+    },
+    {
+        "id": 76,
+        "rule": "Quando com 〜とき"
+    },
+    {
+        "id": 77,
+        "rule": "Contadores básicos com つ, 人, 枚, 本 e 台"
+    },
+    {
+        "id": 78,
+        "rule": "Comparação entre dois itens com より"
+    },
+    {
+        "id": 79,
+        "rule": "Preferência com ほうが"
+    },
+    {
+        "id": 80,
+        "rule": "Superlativo básico com いちばん"
+    },
+    {
+        "id": 81,
+        "rule": "Razão com から"
+    },
+    {
+        "id": 82,
+        "rule": "Contraste simples com が"
+    },
+    {
+        "id": 83,
+        "rule": "Conectores básicos そして, それから e でも"
+    },
+    {
+        "id": 84,
+        "rule": "Plural aproximado de pessoas com たち"
+    }
+]

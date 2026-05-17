@@ -1,0 +1,190 @@
+[
+    {
+        "id": 1,
+        "rule": "Future continuous para ações em progresso no futuro"
+    },
+    {
+        "id": 2,
+        "rule": "Future perfect para ações concluídas antes de um momento futuro"
+    },
+    {
+        "id": 3,
+        "rule": "Future in the past com would e was going to"
+    },
+    {
+        "id": 4,
+        "rule": "Third conditional para hipóteses irreais sobre o passado"
+    },
+    {
+        "id": 5,
+        "rule": "Mixed conditionals para ligar passado e presente"
+    },
+    {
+        "id": 6,
+        "rule": "I wish com passado simples para desejos sobre o presente"
+    },
+    {
+        "id": 7,
+        "rule": "I wish com past perfect para arrependimentos sobre o passado"
+    },
+    {
+        "id": 8,
+        "rule": "If only para reforçar desejos e arrependimentos"
+    },
+    {
+        "id": 9,
+        "rule": "Would rather para preferências no presente e no futuro"
+    },
+    {
+        "id": 10,
+        "rule": "Would rather have mais particípio para preferências sobre o passado"
+    },
+    {
+        "id": 11,
+        "rule": "Had better para conselhos fortes e avisos"
+    },
+    {
+        "id": 12,
+        "rule": "Would para hábitos repetidos no passado"
+    },
+    {
+        "id": 13,
+        "rule": "Must have, might have, may have e could have para dedução sobre o passado"
+    },
+    {
+        "id": 14,
+        "rule": "Can't have e couldn't have para dedução negativa sobre o passado"
+    },
+    {
+        "id": 15,
+        "rule": "Could have para possibilidades não realizadas"
+    },
+    {
+        "id": 16,
+        "rule": "Needn't have done e didn't need to"
+    },
+    {
+        "id": 17,
+        "rule": "Ought to have para crítica e avaliação do passado"
+    },
+    {
+        "id": 18,
+        "rule": "Voz passiva no present perfect"
+    },
+    {
+        "id": 19,
+        "rule": "Voz passiva com modal verbs"
+    },
+    {
+        "id": 20,
+        "rule": "Voz passiva com reporting verbs"
+    },
+    {
+        "id": 21,
+        "rule": "Causative have e get something done"
+    },
+    {
+        "id": 22,
+        "rule": "Voz passiva com infinitivo e gerúndio"
+    },
+    {
+        "id": 23,
+        "rule": "Non-defining relative clauses"
+    },
+    {
+        "id": 24,
+        "rule": "Relative clauses com preposição mais which e whom"
+    },
+    {
+        "id": 25,
+        "rule": "Reduced relative clauses com particípios"
+    },
+    {
+        "id": 26,
+        "rule": "Participle clauses com ing para tempo, motivo e resultado"
+    },
+    {
+        "id": 27,
+        "rule": "Participle clauses com past participle"
+    },
+    {
+        "id": 28,
+        "rule": "Gerúndio e infinitivo com mudança de significado"
+    },
+    {
+        "id": 29,
+        "rule": "Perfect infinitive após verbos modais"
+    },
+    {
+        "id": 30,
+        "rule": "Perfect infinitive com seem, appear e claim"
+    },
+    {
+        "id": 31,
+        "rule": "Reported speech com reporting verbs seguidos de infinitive"
+    },
+    {
+        "id": 32,
+        "rule": "Reported speech com reporting verbs seguidos de gerúndio"
+    },
+    {
+        "id": 33,
+        "rule": "No backshift quando a informação ainda é verdadeira"
+    },
+    {
+        "id": 34,
+        "rule": "It is said that e he is said to"
+    },
+    {
+        "id": 35,
+        "rule": "Cleft sentences com it is ou it was que destacam informação"
+    },
+    {
+        "id": 36,
+        "rule": "Pseudo-cleft sentences com what mais be"
+    },
+    {
+        "id": 37,
+        "rule": "So e such com result clauses"
+    },
+    {
+        "id": 38,
+        "rule": "Far, much, slightly e a bit com comparativos"
+    },
+    {
+        "id": 39,
+        "rule": "The more, the more para relações proporcionais"
+    },
+    {
+        "id": 40,
+        "rule": "Contraste com despite, in spite of e whereas"
+    },
+    {
+        "id": 41,
+        "rule": "Causa e resultado com due to, owing to, therefore e as a result"
+    },
+    {
+        "id": 42,
+        "rule": "Finalidade com so that, in order that e in order to"
+    },
+    {
+        "id": 43,
+        "rule": "As if e as though"
+    },
+    {
+        "id": 44,
+        "rule": "Whatever, whoever, whichever e however para concessão e livre escolha"
+    },
+    {
+        "id": 45,
+        "rule": "Inversão em condicionais com had, should e were"
+    },
+    {
+        "id": 46,
+        "rule": "Condicionais com provided that, providing e as long as"
+    },
+    {
+        "id": 47,
+        "rule": "Emphatic do em frases afirmativas"
+    }
+]

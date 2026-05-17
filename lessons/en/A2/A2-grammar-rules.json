@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "rule": "Verbo to be no passado em frases afirmativas"
+    },
+    {
+        "id": 2,
+        "rule": "Verbo to be no passado em frases negativas"
+    },
+    {
+        "id": 3,
+        "rule": "Perguntas com verbo to be no passado"
+    },
+    {
+        "id": 4,
+        "rule": "There was e there were em frases afirmativas"
+    },
+    {
+        "id": 5,
+        "rule": "There was e there were em frases negativas"
+    },
+    {
+        "id": 6,
+        "rule": "Perguntas com there was e there were"
+    },
+    {
+        "id": 7,
+        "rule": "Passado simples com verbos regulares em frases afirmativas"
+    },
+    {
+        "id": 8,
+        "rule": "Passado simples com verbos irregulares frequentes em frases afirmativas"
+    },
+    {
+        "id": 9,
+        "rule": "Passado simples em frases negativas com did not"
+    },
+    {
+        "id": 10,
+        "rule": "Perguntas no passado simples com did"
+    },
+    {
+        "id": 11,
+        "rule": "Respostas curtas no passado simples"
+    },
+    {
+        "id": 12,
+        "rule": "Passado contínuo em frases afirmativas"
+    },
+    {
+        "id": 13,
+        "rule": "Passado contínuo em frases negativas"
+    },
+    {
+        "id": 14,
+        "rule": "Perguntas no passado contínuo"
+    },
+    {
+        "id": 15,
+        "rule": "Contraste entre passado simples e passado contínuo"
+    },
+    {
+        "id": 16,
+        "rule": "Futuro com going to em frases afirmativas"
+    },
+    {
+        "id": 17,
+        "rule": "Futuro com going to em frases negativas"
+    },
+    {
+        "id": 18,
+        "rule": "Perguntas com going to"
+    },
+    {
+        "id": 19,
+        "rule": "Presente contínuo para planos futuros"
+    },
+    {
+        "id": 20,
+        "rule": "Futuro com will em frases afirmativas"
+    },
+    {
+        "id": 21,
+        "rule": "Futuro com will em frases negativas"
+    },
+    {
+        "id": 22,
+        "rule": "Perguntas com will"
+    },
+    {
+        "id": 23,
+        "rule": "Would like para vontades e ofertas"
+    },
+    {
+        "id": 24,
+        "rule": "Must e mustn't para obrigação e proibição"
+    },
+    {
+        "id": 25,
+        "rule": "Have to e don't have to"
+    },
+    {
+        "id": 26,
+        "rule": "Should e shouldn't para conselhos"
+    },
+    {
+        "id": 27,
+        "rule": "Could para habilidade no passado"
+    },
+    {
+        "id": 28,
+        "rule": "Could para pedidos educados"
+    },
+    {
+        "id": 29,
+        "rule": "Comparativos com adjetivos curtos"
+    },
+    {
+        "id": 30,
+        "rule": "Comparativos com more, less e than"
+    },
+    {
+        "id": 31,
+        "rule": "Superlativos com the -est e the most"
+    },
+    {
+        "id": 32,
+        "rule": "Comparações com as ... as"
+    },
+    {
+        "id": 33,
+        "rule": "Too e enough"
+    },
+    {
+        "id": 34,
+        "rule": "Pronomes possessivos"
+    },
+    {
+        "id": 35,
+        "rule": "Pronomes reflexivos"
+    },
+    {
+        "id": 36,
+        "rule": "Something, anything, nothing e everything"
+    },
+    {
+        "id": 37,
+        "rule": "Someone, anyone, no one e everyone"
+    },
+    {
+        "id": 38,
+        "rule": "Few, a few, little e a little"
+    },
+    {
+        "id": 39,
+        "rule": "All, every e both"
+    },
+    {
+        "id": 40,
+        "rule": "Preposições de movimento"
+    },
+    {
+        "id": 41,
+        "rule": "Advérbios de modo"
+    },
+    {
+        "id": 42,
+        "rule": "Adjetivos terminados em -ed e -ing"
+    },
+    {
+        "id": 43,
+        "rule": "Adjetivos com preposições frequentes"
+    },
+    {
+        "id": 44,
+        "rule": "Orações relativas com who, which e that"
+    },
+    {
+        "id": 45,
+        "rule": "Infinitivo de propósito"
+    },
+    {
+        "id": 46,
+        "rule": "Verbos seguidos de gerúndio"
+    },
+    {
+        "id": 47,
+        "rule": "Verbos seguidos de to + infinitivo"
+    },
+    {
+        "id": 48,
+        "rule": "Present perfect em frases afirmativas"
+    },
+    {
+        "id": 49,
+        "rule": "Present perfect em frases negativas e interrogativas"
+    },
+    {
+        "id": 50,
+        "rule": "Ever e never com present perfect"
+    },
+    {
+        "id": 51,
+        "rule": "Just, already e yet com present perfect"
+    }
+]

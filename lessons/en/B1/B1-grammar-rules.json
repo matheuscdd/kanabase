@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "rule": "Zero conditional para fatos e verdades gerais"
+    },
+    {
+        "id": 2,
+        "rule": "First conditional para possibilidades reais no futuro"
+    },
+    {
+        "id": 3,
+        "rule": "Unless em frases condicionais"
+    },
+    {
+        "id": 4,
+        "rule": "Orações de tempo com when, before, after e as soon as para futuro"
+    },
+    {
+        "id": 5,
+        "rule": "Used to para hábitos e estados no passado"
+    },
+    {
+        "id": 6,
+        "rule": "Present perfect para experiências de vida"
+    },
+    {
+        "id": 7,
+        "rule": "For e since com present perfect"
+    },
+    {
+        "id": 8,
+        "rule": "Diferença entre present perfect e passado simples"
+    },
+    {
+        "id": 9,
+        "rule": "Been e gone com present perfect"
+    },
+    {
+        "id": 10,
+        "rule": "Present perfect continuous em frases afirmativas"
+    },
+    {
+        "id": 11,
+        "rule": "Present perfect continuous em frases negativas"
+    },
+    {
+        "id": 12,
+        "rule": "Perguntas no present perfect continuous"
+    },
+    {
+        "id": 13,
+        "rule": "Contraste entre present perfect simple e present perfect continuous"
+    },
+    {
+        "id": 14,
+        "rule": "Past perfect em frases afirmativas"
+    },
+    {
+        "id": 15,
+        "rule": "Past perfect em frases negativas"
+    },
+    {
+        "id": 16,
+        "rule": "Perguntas no past perfect"
+    },
+    {
+        "id": 17,
+        "rule": "Uso do past perfect em sequências narrativas"
+    },
+    {
+        "id": 18,
+        "rule": "Second conditional para situações hipotéticas"
+    },
+    {
+        "id": 19,
+        "rule": "Second conditional em frases negativas e interrogativas"
+    },
+    {
+        "id": 20,
+        "rule": "If I were you para dar conselhos"
+    },
+    {
+        "id": 21,
+        "rule": "Voz passiva no presente simples em frases afirmativas"
+    },
+    {
+        "id": 22,
+        "rule": "Voz passiva no presente simples em frases negativas"
+    },
+    {
+        "id": 23,
+        "rule": "Perguntas na voz passiva no presente simples"
+    },
+    {
+        "id": 24,
+        "rule": "Voz passiva no passado simples em frases afirmativas"
+    },
+    {
+        "id": 25,
+        "rule": "Voz passiva no passado simples em frases negativas"
+    },
+    {
+        "id": 26,
+        "rule": "Perguntas na voz passiva no passado simples"
+    },
+    {
+        "id": 27,
+        "rule": "Question tags com diferentes auxiliares"
+    },
+    {
+        "id": 28,
+        "rule": "Indirect questions para perguntas educadas"
+    },
+    {
+        "id": 29,
+        "rule": "Reported speech em afirmações"
+    },
+    {
+        "id": 30,
+        "rule": "Backshift no reported speech"
+    },
+    {
+        "id": 31,
+        "rule": "Mudanças de pronomes, tempo e lugar no reported speech"
+    },
+    {
+        "id": 32,
+        "rule": "Reported speech em perguntas"
+    },
+    {
+        "id": 33,
+        "rule": "Reported speech em ordens e pedidos"
+    },
+    {
+        "id": 34,
+        "rule": "Orações relativas com whose, where e when"
+    },
+    {
+        "id": 35,
+        "rule": "Orações relativas definidoras sem pronome relativo"
+    },
+    {
+        "id": 36,
+        "rule": "Verbo mais objeto mais infinitivo"
+    },
+    {
+        "id": 37,
+        "rule": "Gerúndio após preposições"
+    },
+    {
+        "id": 38,
+        "rule": "May e might para possibilidade"
+    },
+    {
+        "id": 39,
+        "rule": "Must, can't e might para dedução no presente"
+    },
+    {
+        "id": 40,
+        "rule": "Should have e shouldn't have"
+    },
+    {
+        "id": 41,
+        "rule": "Either, neither e both"
+    },
+    {
+        "id": 42,
+        "rule": "One e ones para evitar repetição"
+    },
+    {
+        "id": 43,
+        "rule": "So e such para ênfase"
+    },
+    {
+        "id": 44,
+        "rule": "Conectores de contraste como although, though e however"
+    },
+    {
+        "id": 45,
+        "rule": "Conectores de causa e resultado"
+    },
+    {
+        "id": 46,
+        "rule": "Conectores de propósito com so that e in order to"
+    },
+    {
+        "id": 47,
+        "rule": "Advérbios de grau como quite, rather, pretty e fairly"
+    },
+    {
+        "id": 48,
+        "rule": "Pronomes reflexivos para dar ênfase"
+    }
+]

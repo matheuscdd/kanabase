@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "rule": "Ordem básica da frase afirmativa em inglês"
+    },
+    {
+        "id": 2,
+        "rule": "Pronomes pessoais do sujeito"
+    },
+    {
+        "id": 3,
+        "rule": "Verbo to be no presente em frases afirmativas"
+    },
+    {
+        "id": 4,
+        "rule": "Verbo to be no presente em frases negativas"
+    },
+    {
+        "id": 5,
+        "rule": "Perguntas com verbo to be no presente"
+    },
+    {
+        "id": 6,
+        "rule": "Respostas curtas com verbo to be no presente"
+    },
+    {
+        "id": 7,
+        "rule": "Artigos indefinidos a e an"
+    },
+    {
+        "id": 8,
+        "rule": "Artigo definido the em usos básicos"
+    },
+    {
+        "id": 9,
+        "rule": "Substantivos no singular e no plural"
+    },
+    {
+        "id": 10,
+        "rule": "Demonstrativos this, that, these e those"
+    },
+    {
+        "id": 11,
+        "rule": "Adjetivos possessivos"
+    },
+    {
+        "id": 12,
+        "rule": "Possessivo com apóstrofo s"
+    },
+    {
+        "id": 13,
+        "rule": "Adjetivos com o verbo to be"
+    },
+    {
+        "id": 14,
+        "rule": "Adjetivos antes de substantivos"
+    },
+    {
+        "id": 15,
+        "rule": "There is e there are em frases afirmativas"
+    },
+    {
+        "id": 16,
+        "rule": "There is e there are em frases negativas"
+    },
+    {
+        "id": 17,
+        "rule": "Perguntas com there is e there are"
+    },
+    {
+        "id": 18,
+        "rule": "Preposições básicas de lugar"
+    },
+    {
+        "id": 19,
+        "rule": "Verbo have got em frases afirmativas"
+    },
+    {
+        "id": 20,
+        "rule": "Verbo have got em frases negativas"
+    },
+    {
+        "id": 21,
+        "rule": "Perguntas com have got"
+    },
+    {
+        "id": 22,
+        "rule": "Presente simples para rotinas e fatos em frases afirmativas"
+    },
+    {
+        "id": 23,
+        "rule": "Terceira pessoa do singular no presente simples"
+    },
+    {
+        "id": 24,
+        "rule": "Presente simples em frases negativas com do e does"
+    },
+    {
+        "id": 25,
+        "rule": "Perguntas no presente simples com do e does"
+    },
+    {
+        "id": 26,
+        "rule": "Respostas curtas no presente simples"
+    },
+    {
+        "id": 27,
+        "rule": "Advérbios de frequência no presente simples"
+    },
+    {
+        "id": 28,
+        "rule": "Perguntas com palavras interrogativas básicas"
+    },
+    {
+        "id": 29,
+        "rule": "Pronomes objeto"
+    },
+    {
+        "id": 30,
+        "rule": "Can para habilidade em frases afirmativas"
+    },
+    {
+        "id": 31,
+        "rule": "Can em frases negativas"
+    },
+    {
+        "id": 32,
+        "rule": "Perguntas com can"
+    },
+    {
+        "id": 33,
+        "rule": "Imperativo afirmativo"
+    },
+    {
+        "id": 34,
+        "rule": "Imperativo negativo"
+    },
+    {
+        "id": 35,
+        "rule": "Substantivos contáveis e incontáveis"
+    },
+    {
+        "id": 36,
+        "rule": "Some e any"
+    },
+    {
+        "id": 37,
+        "rule": "Much, many, how much e how many"
+    },
+    {
+        "id": 38,
+        "rule": "A lot of em frases básicas"
+    },
+    {
+        "id": 39,
+        "rule": "Preposições básicas de tempo"
+    },
+    {
+        "id": 40,
+        "rule": "Conectores básicos and, but, or e because"
+    },
+    {
+        "id": 41,
+        "rule": "Gostos e preferências com like, love e hate"
+    },
+    {
+        "id": 42,
+        "rule": "Presente contínuo para ações do momento em frases afirmativas"
+    },
+    {
+        "id": 43,
+        "rule": "Presente contínuo em frases negativas"
+    },
+    {
+        "id": 44,
+        "rule": "Perguntas no presente contínuo"
+    }
+]
