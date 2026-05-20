@@ -8,6 +8,6 @@ delimiter=' '
 for file in "${chapters[@]}"; do
     chapter=$(basename "$file" .json)
     book="${chapter%"$delimiter"*}"
-    mv "$file" "$book/$chapter"
-    mv "${chapter}.txt" "$book/$chapter"
+    mv "$file" "$book"
+    mv "${chapter}.txt" "$book"
 done

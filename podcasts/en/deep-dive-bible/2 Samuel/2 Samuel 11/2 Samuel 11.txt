@@ -1,0 +1,673 @@
+Welcome back to the deep dive.
+If you are a regular listener, you know that usually when we
+open up a case file, we're looking at modern history.
+We're digging into corporate fraud or
+political scandals, maybe a cold case from the 1970s.
+You expect to see, you know, redacted
+documents and grainy photos.
+That's the standard operating procedure.
+Absolutely.
+But today
+we're doing something different.
+Yeah.
+We are going way back.
+We have a stack of sources here.
+Literary analysis, ancient history, theological commentary, and they're all pointing to a single document.
+A very old document.
+A very old document.
+And it details perhaps the most famous and certainly one of the most tragic cover-ups in the history of literature.
+It really is a story that has everything.
+I mean, if you were pitching this to a movie studio today, they would probably say it's too much.
+Too unbelievable.
+Right.
+You've got absolute power.
+You have forbidden desire.
+You have the secret code and messages, and you have a cold-blooded murder that's disguised as a casualty of war.
+And the main character isn't a typical villain, at least not at the start.
+It's King David.
+The giant slayer, the poet, the man after God's own heart.
+Which makes the collapse of his character so much harder to watch.
+It's like watching a hero turn into a monster in real time.
+It really is.
+So here's the mission for this deep dive.
+We are going to zoom in on one single chapter, 2 Samuel chapter 11.
+but we aren't just going to read it.
+We are going to dissect it.
+Right.
+And we're going to use a very specific lens today.
+We're drawing heavily on the work of Robert Alter,
+specifically his book, The Art of Biblical Narrative.
+Alter's fantastic.
+If you haven't read him, he essentially treats the Bible
+not just as, you know, a religious text,
+but as a masterpiece of sophisticated literature.
+He argues that the biblical writers were geniuses of subtlety.
+They didn't use bold fonts or exclamation points
+to tell you what to feel or think.
+They used silence.
+They used repetition.
+They used structure.
+And that is what we're looking for today.
+We want to see the art of the story and to help us strip away that, you know, Sunday school vibe.
+The stained glass window effect.
+Exactly.
+Yeah.
+Where everything sounds holy and distant.
+To do that, we are going to be referencing the text from the Bible in basic English.
+I love that choice.
+It helps, doesn't it?
+It does, because sometimes the King James Version or even the NIV, it's so poetic that it kind of hides the ugliness of what's happening.
+It softens it.
+It does.
+When you strip the vocabulary down to just the basic words, the horror of David's actions really stands out.
+It becomes raw.
+Raw is the perfect word.
+We have a lot to get through.
+We have the balcony, the cover-up, the murder, and the aftermath.
+And just a ground rule for you, the listener, we are freezing time in Chapter 11.
+We know the consequences come in chapter 12, the prophet Nathan shows up, the punishment.
+But we aren't going there today.
+We want to live in the tension of the moment, just as the writer intended.
+We are stuck in the now of the text.
+Exactly.
+So let's get into it.
+Section 1, the setup.
+Let's look at the very first sentence.
+2 Samuel 11, verse 1.
+I'm just going to read it from the basic English text.
+Now in the spring, at the time when kings go out to war, David sent Joab and his servants
+and all Israel with him.
+And they made waste the land of the children of Ammon and took up their position before
+Rabbah, shutting it in.
+But David was still at Jerusalem.
+Stopped right there.
+One sentence, Anne.
+I know, but Robert Alter points out that this single sentence is doing an incredible amount
+of heavy lifting.
+He actually calls it a transitional device.
+Okay, break that down for us.
+Transitioning from what to what?
+Well, think about what we were reading in chapter 10.
+If you look back at the previous records, it's all chronicles.
+it reads like the army went here they signed this treaty they fought this battle right it's a history
+textbook very broad national history it's factual a wide angle lens very dry exactly but this verse
+it acts like a camera zooming in it starts wide kings go out to war and then it narrows down to
+the army then to joab and then finally it lands on one man david alone in jerusalem so it's moving
+Moving from history to psychological drama.
+That's the perfect way to put it.
+And it sets up this massive contrast immediately at the time when kings go out to war.
+That's the expectation, right?
+That's the job description?
+It's the job description.
+Why spring?
+Is it just because the weather is nice?
+It's pure logistics.
+In the ancient Near East, you cannot move an army during the winter rains.
+The roads turn to mud.
+Your chariots get stuck.
+It is impossible to maneuver.
+So when the rains stop and the barley harvest is coming, the roads dry out.
+That is campaign season.
+That's go time.
+That's go time.
+If you're a king, that is where your office is.
+You are supposed to be at the head of the column.
+So the text is setting up a kind of duty roster.
+Kings are supposed to be at war, but David is at Jerusalem.
+It's the first red flag.
+And notice the scale of who's gone.
+It says he sent Joab, his servants, and all Israel.
+All Israel.
+That sounds like the whole country.
+Essentially, all the able-bodied men are gone.
+They're at the siege of Rabbah.
+Now, Rabbah is modern-day Amman, Jordan.
+It's about 40 miles away from Jerusalem.
+So his men are out there, sleeping in tents, digging siege trenches,
+probably dodging arrows from the walls.
+It's loud.
+It's dirty.
+It's dangerous work.
+And meanwhile, back in Jerusalem.
+Jerusalem is empty.
+It's quiet.
+It is a city of women, children, and old men.
+And David is in the palace.
+You know, let me play devil's advocate for a second.
+David is older now.
+He's not the young kid who fought Goliath.
+Maybe he's too old to fight.
+Maybe he stayed back to handle administration.
+That is a fair question.
+Is it really fair to say he's being lazy just from this one line?
+Well, the text doesn't explicitly say David was lazy, but it is very specific about what he does in Jerusalem.
+It doesn't show him in high level meetings.
+It doesn't show him judging cases at the city gate.
+It shows him in bed.
+Which brings us right to verse two.
+too.
+And this is where the pacing gets really interesting.
+Now, one evening, David got up from
+his bed and while he was walking on the roof of the king's house, he saw from there a woman bathing
+and the woman was very beautiful.
+And hold on.
+Got up from his bed in the evening.
+Yeah, that is not
+a translation error.
+That's what it says.
+So he was sleeping all day.
+A royal nap.
+It implies a
+siesta, but a very long one.
+A royal slumber.
+Just contrast that imagery.
+His men are likely eating
+eating stale bread, and sleeping on the hard ground at Rabbah.
+The king is waking up, probably groggy, from a nap on silk sheets as the sun goes down.
+It just paints a picture of total self-indulgence.
+It does.
+I was looking at some notes from Ellen G. White on this very chapter,
+and she makes a really pointed observation about this specific moment.
+She suggests that if David had been at the front lines, you know,
+focused on the strategy and the danger,
+there just wouldn't have been space for this temptation to take root.
+It's the vacuum, right?
+Temptation loves a vacuum.
+you exactly he's not just geographically in the wrong place he's mentally under stimulated he's
+bored and so he goes to the roof now help us visualize this why the roof is he just getting
+some fresh air in that climate the roof is the best room in the house it's flat usually catches
+a breeze it's the coolest place as the evening sets in but we have to understand the topography
+of jerusalem at the time okay the city of david is built on a ridge the palace would be at the
+highest point, the Acropolis.
+So he's physically above everyone else.
+Exactly.
+So when he walks on
+his roof, he isn't just looking across at his neighbors.
+He is looking down.
+The rest of the
+city cascades down the hill from the palace.
+So the private courtyards of the lower houses
+are completely visible from the king's balcony.
+He has a panopticon view.
+He does.
+He can see
+everything, but no one can see him.
+That is a position of ultimate power.
+He is the watcher.
+everyone else is the watched and that visual dominance is a perfect reflection of his
+political dominance so he looks down he sees a woman bathing now i have heard people try to
+blame bathsheba here like why was she bathing where the king could see her was she trying to
+get caught that's a common interpretation but honestly the text doesn't support it and neither
+does the architecture in her mind she's in the privacy of her own courtyard she's most likely
+purifying herself the ritual bath after menstruation what's called a mikvah she's doing
+exactly what the religious law requires her to do she has no way of knowing the king is well
+creeping on the roof the text just says the woman was very beautiful and that's it notice what
+doesn't happen david doesn't look away he doesn't say a prayer he doesn't go back inside he looks
+and then he acts right and this is where the speed of the story really picks up alter talks about the
+narrative velocity here i want to read verses three and four and just listen to how mechanical
+this sounds okay verse three and david sent to get knowledge who the woman was verse four
+and david sent and took her and she came to him and he took her to his bed boom boom boom it's
+incredibly fast there is no poetry here there's no courtship he doesn't write her a sonnet he
+doesn't send her flowers it feels administrative like he's ordering lunch that's a great word for
+for it.
+It is bureaucratic lust.
+And this brings us to one of Robert Alter's most famous insights
+regarding this chapter.
+He talks about the concept of the Leitwort.
+Leitwort.
+L-E-I-T.
+W-O-R-T. Leitwort.
+It's a German term.
+It means leading word.
+Alter argues that biblical writers
+use these repeated keywords to hammer home a theme.
+And in this chapter, the keyword is the
+verb to send.
+To send.
+In Hebrew, shalach.
+Okay, let's track it.
+We saw in verse one,
+David sent Joab to war right he exerts his power over the entire army by
+sending them away then in verse 3 David sent to ask about the woman in verse 4
+David sent messengers to take her later on he's gonna send for her husband Uriah
+and then he's gonna send a letter it's like he's playing a real-time strategy
+game he's just clicking on units and moving them around the map precisely the
+repetition of scent strips David of his humanity in a way he isn't connecting
+He's connecting with people.
+He's operating from a distance.
+This is action at a distance.
+He uses his authority to turn human beings into objects that can be fetched, moved and
+disposed of.
+So he sends for her.
+She comes.
+And we really have to address the nature of this encounter.
+The text says he took her.
+Yes.
+There is a lot of debate today about consent in this story.
+Does Bathsheba have a choice here?
+You have to look at the power dynamic.
+He is the king.
+In the ancient world, the king is the embodiment of God's authority on Earth.
+If the king sends his royal guard to your house and says, come, you don't really have the option to say, no, sorry, I have a headache.
+Right.
+To refuse would be an act of treason.
+Exactly.
+And the text is very careful not to give Bathsheba a voice here.
+She doesn't speak.
+She doesn't flirt.
+She doesn't protest.
+She is simply the object of the verb.
+She came.
+He took.
+This suggests that whether she wanted to or not is almost irrelevant to David.
+He wanted.
+So he took.
+It's a textbook abuse of power.
+plain and simple and let's look at who she is when david sends to ask about her in verse 3
+the messenger gives a very specific report he says is this not bathsheba the daughter of ilium and
+wife of uriah the hittite that's a very detailed answer it is and it's devastating you could argue
+the messenger is subtly trying to warn the king how so he doesn't just say oh that's bathsheba
+from down the street he lists her pedigree she is the daughter of ilium ilium was one of david's
+mighty men his elite special forces and she is the wife of uriah the hittite another one of the
+mighty men so these are just random citizens these are the daughters and wives of his most loyal
+his inner circle the very people who are currently sleeping in the mud at rabba fighting his war
+he is stealing from the very men who are sworn to protect him the betrayal is double he's betraying
+the marriage and he's betraying the brotherhood of soldiers but david doesn't care he hears that
+information and proceeds anyway he sleeps with her she goes home verse 4 ends with this almost
+clinical note she went back to her house end of scene right david probably thinks great that was
+fun back to my nap he treats it like a one night stand a royal perk but then comes verse five and
+this is the plot twist that changes the entire genre of the story what happens and the woman
+became with child and she sent word to david there's that word again sent but this time the
+The direction is reverse.
+Oh, David has been doing all the sending.
+David sends, David sends, David sends.
+He's the one pushing all the buttons.
+Suddenly someone sends back.
+The object pushes back.
+And notice, this is Bathsheba's only line of dialogue in this entire first act.
+I am with child.
+Two words in the Hebrew.
+Hara anoki.
+Pregnant.
+I.
+It is a bomb dropping on the talus floor.
+Why is this such a crisis?
+I mean, kings had illegitimate kids all the time in the ancient world.
+didn't they why the panic because of where her husband is uriah has been at the siege of rabba
+for probably weeks maybe even months everyone knows he has not been home okay if bathsheba
+shows up pregnant it is mathematically impossible for that child to be uriah's so it's undeniable
+proof of adultery and under the levitical law you can find it in leviticus 20.10 there
+the penalty for adultery specifically with the neighbor's wife is death for both parties now
+Now, would they actually execute the king?
+Probably not.
+He is the king.
+He's above the law in practice.
+Yeah.
+But the standal, it would destroy his credibility.
+It could cause a revolt among his generals.
+Remember, her father and husband are military elites.
+Right.
+If the army finds out the king is preying on their wives while they're away fighting,
+David faces a full-blown mutiny.
+So he's not just protecting his reputation here.
+He's protecting his throne, his life.
+He's in survival mode.
+And that is what moves us into section two, the cover-up.
+David needs a plan.
+And honestly, the plan he comes up with, it's actually pretty clever in a really twisted way.
+It is.
+It's logical.
+It's the path of least resistance.
+He's Uriah to come home.
+Right.
+The logic is simple.
+If Uriah comes home from the war, spends one night with his wife, and then goes back to the front,
+when the baby is born eight months later, everyone just counts on their fingers and says,
+oh, it must have been from that night he came home on leave.
+It's Uriah's baby.
+Crisis averted.
+No scandal.
+No murder.
+No mutiny.
+It's clean.
+So David hits the send button again, verse 6.
+David sent to Joab saying, send Uriah the Hittite to me.
+And Joab, being the loyal general, he just does it.
+He sends him.
+So Uriah arrives in Jerusalem.
+I just try to imagine this moment.
+Uriah is covered in the dust and grime of the campaign.
+He walks into the pristine, cool marble of the palace.
+He must be thinking, why am I here?
+Am I being promoted?
+Did I do something wrong?
+And David puts on this mask.
+Verse 7 says David asked him all these questions.
+how is joab how are the people how is the war going just casual small talk but look deeper
+alterin points out the hebrew word that's used for how are they it's the word shalom peace david
+asks about the shalom of joab the shalom of the army the shalom of the war oh that is rich it is
+profoundly ironic isn't it david has just destroyed the shalom of uriah's house he has introduced
+chaos and betrayal into this man's life and he sits there smiling asking so is
+everything peaceful out there it just shows how good of a liar David has
+become he's compartmentalizing totally and then he makes the pitch verse 8 go
+down to your house and let your feet be washed let your feet be washed we need
+to decode that is that just about hygiene it's a double entendre it's a
+euphemism on the surface yes you wash your feet after a long dusty journey but
+But feet in the Bible is often a euphemism for, well, for other parts of the body.
+Or at the very least, washing feet is the prelude to relaxing, eating a meal, and being intimate.
+He's basically winking at Uriah and saying, go home to your wife.
+Wink, wink.
+And to make sure Uriah gets the hint, the text adds that an offering from the king was sent after him.
+He sends a care package, probably some good wine choice meats from the palace kitchen.
+He's trying to cater a romantic evening for the very couple he just broke apart.
+It's so manipulative.
+It's cynical.
+He's weaponizing Uriah's marriage to hide his own sin.
+But then the plan hits a brick wall, and that brick wall is Uriah's character.
+Verse 9.
+But Uriah took his rest at the door of the king's house with all the servants of his
+lord and did not go down to his house.
+This is the moment the thriller turns.
+The variables are not behaving as expected.
+Why didn't he go home?
+Well, David asks him that exact question the next morning.
+You can imagine David's panic.
+He wakes up.
+He gets the report.
+Uriah slept at the gate.
+He calls him in and says, what are you doing?
+You just came from a long journey.
+Why didn't you go home?
+And Uriah's answer, this speech in verse 11, it's one of the most powerful, quiet rebukes in all of Scripture.
+It really is.
+I want to read the whole thing because the contrast is just blinding.
+Uriah says, Israel and Judah with the ark are living in tents.
+and my lord joab and the other servants of my lord are sleeping in the open field and am i to go to
+my house and take food and drink and go to bed with my wife by the living lord and by the life
+of your soul i will not do such a thing it gives me chills every time i read it just look at what
+uriah is focused on the ark the army his commander the ark of the covenant isn't even safe in the
+temple it's at the front lines with the soldiers which means god is at the front lines god is in
+the camp.
+Uriah is saying, God is sleeping in the dirt.
+My brothers are sleeping in the dirt.
+How
+can I possibly go home and enjoy luxury?
+He is acting more like a king than the king is.
+David
+is the one who should be saying this.
+Exactly.
+And this is where the label the Hittite becomes
+so important.
+The text keeps repeating it.
+Uriah the Hittite.
+He's an immigrant.
+He is a naturalized
+citizen.
+He comes from a pagan background originally.
+Right.
+And yet he is holding to
+the code of the God of Israel with more ferocity and loyalty than the king of Israel himself.
+self it's a total role reversal the insider has become the outsider the outsider is acting like
+the true insider now we have to pause here and ask the big question this is what alter calls
+narrative reticence the text deliberately holds back information from us okay the question is
+does uriah know that changes everything it does think about it why does he refuse to go home is
+Is it really just this pure Boy Scout loyalty?
+Or did someone whisper to him on his way in,
+Hey, you should know the king has been spending a lot of time with your wife.
+Gossip travels fast in a palace.
+The servants saw Bathsheba come and go.
+Maybe a guard at the door just gave him a knowing look.
+If Uriah knows, or even just suspects,
+then his speech isn't just a statement of loyalty.
+It's a veiled accusation.
+When he looks David in the eye and says,
+I will not do this thing,
+he might be saying,
+I will not play your game.
+I will not be your pawn.
+on.
+I know what you did and I will not help you cover it up.
+But the text doesn't tell us.
+It
+never says.
+It refuses to tell us.
+We're locked out of Uriah's head, just like we were locked
+out of Bastropa's.
+And that silence creates this unbearable tension for us as the reader.
+If he's innocent, it is a tragedy.
+If he knows, it is a duel of wits.
+And David is losing the duel
+badly.
+He is.
+So he tries one last desperate move.
+Yeah.
+Plan B.
+If he cannot convince Uriah
+to go home when he is sober maybe he can trick him when he's drunk so in verse 13 david invites
+him to dinner and the text says and david made him the worst for drink he gets him hammered it's
+pathetic isn't it the great king david the slayer of goliath pouring wine for his subordinate trying
+to get his soldier drunk so he'll stumble home and have sex with his wife to cover up an affair
+it's just so low and does it work and when evening came he went to rest on his bed with the servants
+of his lord but he did not go down to his house incredible even a drunk uriah has more integrity
+than a sober david that is the takeaway and this is where that theological point from ellen white
+lands so heavily she talks about the progression of sin it starts with the look then the act then
+the deception but when the deception fails when the cover-up doesn't work the sinner gets desperate
+david is completely backed into a corner uriah will not go home the baby is coming the secret
+The secret is about to be out.
+And so the king decides that he has to become a murderer.
+This moves us to the darkest part of the file.
+Section three, the murder.
+This is action at a distance taken to its absolute extreme.
+Verse 14.
+Yeah.
+Now in the morning, David wrote a letter to Joab and sent it by the hand of Uriah.
+Pause there.
+I want you to visualize this.
+David sits at his desk.
+He takes out a scroll.
+He writes a letter.
+The letter contains the instructions on how to kill Uriah.
+And who does he give the letter to?
+He gives it to Uriah himself.
+This is one of the most chilling details in all of literature.
+Uriah carries his own death warrant in his pocket for the entire 40-mile journey back to the front.
+It shows how callous David has become.
+But in a twisted way, it also shows how much he trusts Uriah's integrity.
+Right.
+He knows Uriah is so honorable that he will not break the king's seal.
+He won't peek at the letter.
+David exploits Uriah's virtue to kill him.
+It's sickening.
+It truly is.
+And what does the letter actually say?
+Okay.
+Verse 15.
+And in the letter he said, take care to put Uriah in the very front of the line
+where the fighting is most violent and go back from him so that he may be overcome and put to
+death.
+It's murder by proxy.
+David doesn't want to get his own hands dirty.
+He doesn't want to
+stab Uriah himself.
+He wants the Ammonites, the enemy, to do it for him.
+He wants it to look like
+a tragic casualty of war.
+So Uriah goes back to the war.
+He hands the sealed letter to his
+commander Joab.
+Now Joab's the general.
+He breaks the seal.
+He reads this letter.
+What goes through
+his mind this is a crucial moment for joab joab is a pragmatist he's ruthless but he is also a
+political animal he reads this letter and he knows the king wants this man dead he doesn't send a
+letter back saying no your majesty this is murder i won't do it why not why not stand up to him he
+has the whole army at his back because if he obeys he has leverage if joab does this dirty deed for
+david david owes him it creates a dark bond between them they are now partners in crime
+and joab can use that later but notice joab changes the plan slightly he does he's smart
+david's plan was actually kind of clumsy david said put him in front and then have everyone pull
+back that's way too obvious if the whole army retreats and leaves one guy standing there to
+get killed everyone will know it was a setup exactly joab knows that would cause a mutiny
+on the spot so joab refines the plan verse 16 says so while joab was watching the town he put
+uriah in the place where it was clear to him the best fighters were ah so he doesn't have his own
+men retreat he just puts uriah in the meat grinder puts him in a spot where the fighting is guaranteed
+to be the most intense near the wall a suicide mission but a plausible one and verse 17 says
+the men of the town came out and fought a number of david's men fell and with them uriah the hittite
+wait a number of david's men fell so other people died too it wasn't just uriah yes and this is the
+collateral damage of david's sin to kill one man and make it look like an accident joab had to
+sacrifice a whole squad of other loyal soldiers innocent men died just to cover up david's affair
+that is horrific it is and now joab has to report this back to david but he has a problem he lost a
+lot of men in a bad tactical move he knows david hates bad military tactics and will be angry so
+this leads to the messenger scene which as alter points out is what he calls a type scene right
+in the bible usually a messenger just runs up says we won or we lost and that's it it's very simple
+but here we get a rehearsal joab actually coaches the messenger on what to say look at verses 19
+through 21 joe tells the messenger go tell the king all the news of the war but there's a but
+If the king is angry and says, why did you go so near the wall?
+Who put Abimelech to death?
+Did not a woman send a great stone down on him from the wall?
+Joab is anticipating the exact argument David will make.
+He even quotes the book of Judges, the death of Abimelech.
+Any rookie commander in Israel knows the first rule of siege warfare.
+Don't get too close to the city wall.
+The archers on top will get you.
+People will drop rocks on you.
+So Joab knows David is going to say, you idiot general, why did you get your men so close to the wall?
+So Joab tells the messenger, if he starts yelling about the wall, then and only then you drop the punchline.
+Then say to him, your servant Uriah the Hittite is among the dead.
+It is the get out of jail free card.
+The news of Uriah's death is the sweetener that will calm the king's tactical anger.
+So the messenger goes, he runs the 40 miles to Jerusalem.
+Jerusalem.
+But when he actually gets to David, he doesn't follow the script exactly.
+No, he panics
+a little, doesn't he?
+In verses 23 and 24, the messenger just blurts it all out at once.
+He
+tells a whole story.
+He admits they got too close to the wall.
+He admits men died.
+And then he
+immediately adds, and among them is your servant, Uriah the Hittite.
+He doesn't wait for David to
+get angry.
+He just dumps the whole bucket of news at once, probably to protect himself.
+Exactly.
+Exactly.
+And now look at David's reaction.
+Verse 25.
+This is the absolute height of hypocrisy.
+Then David said to the man, go and say to Joab, do not let this be a grief to you.
+For one man may come to his death by the sword like another put up an even stronger fight.
+Do not let this be a grief to you.
+In the Hebrew, the phrase is literally let this thing not be evil in your eyes.
+Let not this thing be evil.
+But the whole thing is evil.
+That's the point.
+And then he says, the sword devours one as well as another.
+It's a philosophical platitude.
+Hey, that's war for you.
+People die.
+It happens.
+He's using a cliche about the randomness of war to cover up a specific targeted assassination.
+He is lying to the messenger.
+He is lying to Joab and he is lying to himself.
+He's hardened his heart.
+All he feels is relief.
+The problem is gone.
+Uriah is dead.
+And this moves us to the final section of the chapter, section four, the aftermath.
+The news has to reach Bathsheba.
+Verse 26.
+And when the wife of Uriah had news that her husband was dead,
+she gave herself up to weeping for him.
+Notice how the text calls her the wife of Uriah again.
+It refuses to let us forget whose wife she really is.
+Even in death, she belongs to Uriah.
+That's her identity.
+She weeps.
+Do you think she's really sad?
+Or is it a show for the public?
+Again, the narrative is reticent.
+It's silent.
+It doesn't say she pretended to weep.
+It just says she wept.
+Maybe she loved Uriah.
+Maybe she felt guilty.
+Maybe she's just terrified of the whole situation and what's going to happen to her.
+We don't know.
+But she observes the formal mourning period, usually about seven days.
+And the moment that mourning period is over, verse 27.
+And when the days of weeping were past, David sent for her and took her into his house,
+and she became his wife and gave him a son.
+He sent and took the exact same verbs from the very beginning.
+He collects her like a prize he's won.
+And from the outside, to the people of Jerusalem who don't know the backstory, this looks like a happy ending.
+Right.
+I mean, think about the PR spin.
+Oh, poor Uriah, our brave hero, died in battle.
+And look at our benevolent King David.
+He has taken the poor widow into the palace to care for her and her unborn child.
+What a generous, wonderful king.
+And the baby.
+Oh, must have been a premature birth, perhaps.
+Or a miracle from their one night together.
+The plan worked.
+The cover-up succeeded.
+seated there are no witnesses left uriah is dead joab is bought and paid for bathsheba is now the
+queen from a human perspective david has won but but there's one last sentence in the chapter the
+most important sentence in the whole chapter verse 27b but the lord was not pleased with the thing
+david had done or in the more literal hebrew but the thing that david had done was evil in the eyes
+of the lord remember what david told joab through the messenger let not this thing be evil in your
+your eyes yes well it was evil in the eyes of yahweh this is a huge narrative shift isn't it
+for 27 verses we have been stuck down on the ground in the human perspective we've seen what
+david sees what joab sees what the messenger sees we have been trapped inside the cover-up
+and then suddenly the camera pulls back way way back up to the heavens and we are reminded that
+there has been another observer this whole time an observer who saw the balcony who saw the letter
+being written who saw the battlefield the perfect crime was not perfect because god was watching the
+whole time it just shatters the success of the plan instantly it does it tells the listener and
+it tells david you can fool the army you can fool the people you can even fool yourself but you
+cannot fool god god looks at the heart and that is where chapter 11 ends it ends on that ominous note
+the storm is coming it leaves us in a state of terrible suspension we know david thinks he is
+safe but because of that last line we know he is in more danger than he has ever been in his life
+so let's try to wrap this up as we look back on this deep dive into the text what are the key
+takeaways for you well first just the sheer literary art of it all the way the writer uses
+keywords like sent to show david's abuse of power the way he uses the word peace or shalom to
+highlight david's hypocrisy second the character study the contrast is just so stark we have david
+the king the israelite the supposed hero acting lazy deceitful and ultimately murderous and then
+you have uriah the hittite the foreigner the outsider acting with more loyalty more piety
+and more discipline than anywhere it's a total reversal of what you'd expect the outsider acts
+like the insider the insider acts like a pagan king exactly and third i think is the power of
+silence what alter calls narrative reticence we don't know what bathsheba really felt we don't
+know for sure what Uriah knew.
+And that silence forces us, the readers, to lean in and ask hard
+questions.
+It makes the story more real because in real life, we can't read minds either.
+Absolutely.
+And as we close, I want to leave you, our listeners, with one last thought,
+a provocative thought to mull over.
+Go for it.
+We talked about God's perspective coming in at the very end, but notice God was silent for the
+whole rest of the chapter.
+That's true.
+God didn't send a lightning bolt when David looked at the
+woman from the roof god didn't jam the door when david sent for her god didn't cause the arrow that
+killed uriah to mess he allowed it all to happen he allowed it to happen why why let it go this far
+yeah maybe and this is just a thought maybe it's to show us the terrifying reality of free will
+that even a man like david a man described as being after god's own heart is capable of total
+moral collapse if he steps away from his duty.
+God let David reveal who he truly was in that
+moment.
+And perhaps that is the scariest part of this story.
+The capacity for this kind of evil
+isn't just in monsters out there somewhere.
+It was in David.
+Which means?
+It might be in us too,
+if we stay comfortable in the palace when we should be out fighting our battle.
+Exactly.
+Thank you for joining us on this deep dive into 2 Samuel chapter 11.
+It's a heavy chapter,
+but an absolutely essential one I would really encourage you to open your Bible
+or look it up online and read the chapter again for yourself look for
+those cents look for the silences it reads so differently once you know what
+to look for we will see you next time stay curious

@@ -1,0 +1,848 @@
+Usually when you talk about getting a medical diagnosis, there is a pretty clear expectation of precision.
+Right.
+Yeah.
+Like engineering.
+Exactly.
+It's like engineering.
+You break your arm, you go to the hospital and they take an X-ray and the image shows this jagged white line on a black background.
+And the doctor just points at it and says, there it is.
+The bone is broken.
+It's completely binary.
+It's broken or it's not broken.
+You can just see it with your own eyes.
+we really like things to be visible and you know easy to categorize like that we
+do but then imagine you step into the world of say brain development or trying
+to diagnose deep emotional trauma oh wow yeah that's a whole different ballgame
+right suddenly that simple x-ray machine is just useless hmm you are looking at a
+landscape that is murky it's confusing and it's full of shadows you definitely
+can't just point to a picture and say oh there is the exact problem no you can't
+you have to look at behaviors, you have to listen to words, and maybe more importantly,
+you have to pay attention to what is not being said.
+You really have to read between the lines.
+Exactly.
+And I was thinking about that exact feeling, you know, that search for clarity
+in a really complex landscape when I started reading the source material for today's deep
+dive.
+Because that's exactly what we're trying to do today.
+It is.
+Today, we are turning our
+attention to something that millions of people read every single day.
+But very few people actually
+see the hidden machinery working behind it we are exploring the literary
+architecture of the Hebrew Bible yes and specifically we are looking at how these
+ancient writers used very subtle really complex tools to tell their stories it's
+a text that people have debated and analyzed for thousands of years right
+yeah but so often modern readers treat it like it's just a simple history book
+or a rule book yeah they just read it for the facts exactly they look right
+right past the actual artistic construction of the stories.
+And that is exactly what we want to fix today.
+So for you listening right now,
+whether you grew up reading these stories every week
+or you have never opened this book in your life,
+our goal is to look beyond the surface.
+We really want to discover how these ancient authors
+used highly sophisticated storytelling techniques
+because they used them to show us deep, deep truths about human nature.
+And we have a really interesting set of tools to help us do this today.
+We have a great toolkit.
+We do.
+We are going to look at excerpts from a very unique translation.
+It's called The Bible in Basic English.
+Which is fascinating in itself.
+It really is.
+We're also going to use the insights of a famous literary scholar named Robert Alter.
+We're pulling from his incredible book, The Art of Biblical Narrative.
+We're not stopping there.
+No.
+Plus, we will bring in ideas from the Logos Adventus Bible Commentary and the writings
+of Ellen G. White to really help us understand the bigger theological picture here.
+It is a fantastic lineup of sources.
+But, you know, I think we need to start by addressing a major problem.
+Okay, let's unpack this.
+What kind of problem?
+Well, it's a problem with how we read today.
+Our modern reading habits actually blind us to the genius of these ancient texts.
+Wait, what do you mean they blind us?
+How does reading a lot make us worse at reading this specific text?
+Think about the novels you read today.
+Modern books tell you absolutely everything.
+Oh, I see what you mean.
+Right.
+They describe what the characters are wearing in great detail.
+They describe the exact color of the sky.
+Yeah, they give you like three pages of inner thoughts
+explaining exactly why a character is sad because of something that happened to them in childhood.
+Exactly.
+If a character is angry, the modern author just tells you
+John was furious, his heart beating fast as he remembered the insult.
+Right.
+It's all spelled out for you.
+Modern readers expect the writer to do all the heavy lifting.
+But the Hebrew Bible does not do that.
+The authors chose narrative fiction and poetry as their primary way to deliver these deep theological messages.
+But they wrote with a completely different set of rules, didn't they?
+They did.
+They were not writing science manuals.
+They weren't writing modern psychology books.
+They were writing highly stylized, very careful narratives.
+And when modern readers don't get those long descriptions, they get confused.
+Yeah, they often just assume the ancient writing is primitive.
+Right.
+Or simple.
+Or just uneducated.
+Okay, I see.
+We think it is simple just because it doesn't sound like a modern best-selling novel.
+Exactly.
+So to really understand this, we need to strip away our modern expectations.
+And that brings us to our first major tool for today, which is the Bible in basic English.
+We'll just call it the BBE for short.
+It's a really unique project.
+It is, but I have to admit, when I first saw that we were using this translation, I was a bit confused.
+Like, why use a basic translation to study complex literature?
+I know, it sounds like a total contradiction.
+But the BBE is actually the perfect metaphor for how ancient Hebrew narrative works.
+Okay, how so?
+Let me give you some background on this translation.
+It was produced by a man named C.K.
+Ogden at the Orthological Institute in England.
+And it was overseen by experts at Cambridge University.
+Okay, so it has serious academic backing.
+Very serious.
+But what makes it completely unique is that it uses a strict vocabulary of only 1,000 words.
+Wait, let me stop you right there.
+1,000 words.
+Total.
+To translate the entire Bible.
+That sounds impossible.
+I mean, the Bible covers wars, the creation of the universe, complex laws, deep poetry.
+How can you possibly capture all of that with the vocabulary of a primary school student?
+It's a shocking constraint, isn't it?
+It really is.
+Doesn't that just ruin the book?
+To be precise, the BBE uses exactly 850 basic, everyday English words, plus an additional
+150 special terms specifically for biblical concepts, like priest or altar.
+Still, that is a tiny number of words.
+It is.
+But to answer your question, no, it doesn't ruin it.
+It actually forces a completely different kind of reading.
+How does it change the reading?
+Think about a very famous translation like the King James Version.
+It is known for its incredible power, its poetry, and its musical flow.
+The language is grand and beautiful.
+Right, like, the Lord is my shepherd, I shall not want.
+It sounds like Shakespeare.
+It's majestic.
+It is majestic, but sometimes that beautiful music can actually distract you from what the text is practically saying.
+Oh, because you get lost in the beautiful sounds.
+Exactly.
+C.K.
+Ogden and the Cambridge experts wanted to remove that distraction.
+When you only have 1,000 words to use, you cannot hide behind fancy vocabulary.
+vocabulary.
+You have to get straight to the point.
+Right.
+You have to focus purely on the sense,
+the logic, and the precise action of the text.
+I think I get it.
+It is like taking a giant
+colorful oil painting and turning it into a really simple black and white sketch.
+Yes.
+You lose the
+color, sure, but suddenly you notice the exact shape of the lines and the structure of the
+drawing much more clearly.
+That is a wonderful way to picture it.
+And this stripped down black
+black and white approach mirrors exactly what Robert Alter points out about the original Hebrew
+prose.
+What does Alter say about it?
+Alter calls the biblical style laconic.
+Laconic, meaning they
+use very few words.
+They are brief, almost to the point of seeming rude.
+Yes.
+The original writers
+operated with a deliberate scarcity of descriptive language.
+They give us virtually no physical
+descriptions of people.
+Wait, none at all.
+But we know David was handsome and Goliath was a giant.
+We only get physical descriptions when they are strictly necessary for the plot.
+Oh, I see.
+The text only tells us Goliath is tall because he is a giant that David needs to fight.
+It only tells us someone is beautiful if that beauty is going to cause a major problem later in the story.
+Like with Bathsheba or Rachel.
+Exactly.
+Otherwise, we do not know what anyone looks like.
+We do not know hair color, eye color, or clothing styles.
+There are no detailed descriptions of landscapes or sunsets.
+That's so different from how we write today.
+And most importantly, there are no deep psychological monologues.
+Reading this must be like watching a minimalist stage play.
+How do you mean?
+Well, imagine you go to a theater.
+There are no props.
+There is no painted background of a forest.
+It is just a black, empty stage, a single spotlight, and two actors.
+Okay, I can picture that.
+Because there is absolutely nothing else to look at,
+You are forced to pay maximum attention to every single word
+Those actors say and every single step they take because there's nothing to distract you, right?
+If one of the actors brings an apple onto that empty stage
+You know for a fact that someone is going to eat it or throw it or use it
+Nothing is there by accident.
+That is exactly how Robert Alter wants us to read the Hebrew Bible every single word on the stage matters
+But we have to ask a deeper question here.
+What's the question?
+Why why do these ancient authors?
+treat language with such intense concentrated reverence why be so brief
+is it just because writing materials like parchment were super expensive back
+then that is a practical factor yes but the main reason is deeply theological
+let's break that down into simple terms what was their theological view of words
+in the ancient biblical worldview language is not just a tool you use to
+describe things that already exist language is the actual mechanism of
+creation ah okay let's look at the bbe translation of genesis 1. it says and god said let there be
+light and there was light notice how direct that is it is entirely causal it is not god building
+a light bulb with his hands god speaks and reality simply happens precisely the spoken word is the
+supreme power in the universe therefore human speech in the bible is presented as the ultimate
+expression of humanity being made in the image of god wow so words aren't just air no words have
+have physical weight in this culture they create realities they bind people into covenants they
+bless and they curse a word spoken cannot simply be taken back it goes out into the world and does
+work this connects perfectly to the commentary we have from ellen g white we are looking at her
+writings regarding the books of proverbs and songs what exactly does she say about it she places a
+massive emphasis on the absolute power of the tongue she writes about how words can literally
+kindle fires that destroy lives or they can act as a medicine that heals the soul it's a very
+literal view of language it really is she is drawing on the wisdom of proverbs like proverbs
+18.21 which says in the bbe death and life are in the power of the tongue that's a very stark
+warning she notes that the words we choose to use reflect either the divine nature of god
+or a darker demonic nature it is not just about being polite it is an actual spiritual battleground
+And because of that theological reality, because words are fire and life, the biblical narrators place an almost unprecedented weight on dialogue.
+So because language is the fabric of reality, the most important parts of the story cannot just be summarized by a narrator.
+The characters themselves have to speak.
+Exactly.
+And this brings us to a really fascinating observation by Robert Alter regarding dialogue versus narration.
+What does Alter notice?
+He points out that the biblical narrators are completely omniscient.
+Omniscient, meaning they know absolutely everything.
+They have a God's eye view of the story.
+Yes.
+The narrator knows what God is thinking.
+The narrator knows what the people are thinking behind closed doors.
+The narrator knows exactly how the universe was assembled.
+Yeah.
+Yet, despite knowing everything, they are incredibly reticent.
+Reticent.
+They hold back.
+They keep quiet.
+They almost never intervene to explain a character's motives to the reader.
+narrator in a modern book the narrator acts like a tour guide constantly explaining why people are
+doing things john did this because he was sad right but the biblical narrator steps back and
+lets the character speak in fact you can tell when an event in the bible is truly important
+because the tempo of the story changes the tempo like the speed of the music yes often the bible
+will summarize decades or even centuries in a single sentence like and so-and-so lived for 40
+years and died very fast pacing but when a crucial moral moment arrives the rapid summary halts
+completely time slows down and the characters just start talking to each other in real time
+okay let's test this let's look at one of the most famous stories in the world the story of
+adam and eve in the garden of eden specifically the genesis 3 account of the fall that's a perfect
+example now if i were a modern novelist writing this scene right after they eat the fruit i would
+write paragraphs describing adam's inner guilt you'd want to set the mood right i would talk
+about the psychological dread settling into his stomach i would describe the cold sweat on his
+forehead his racing heartbeat the way he looks at eve with blame that is exactly what a modern
+reader expects but the biblical narrator does none of that none of it instead the narrator just tells
+us god is walking in the garden and god asks a very simple direct question where are you and
+how does adam answer listen to how adam replies in the bbe translation adam says hearing your
+voice in the garden i was full of fear because i was without clothing and i kept myself from
+your eyes notice what is happening here the dialogue itself is the psychological revelation
+the narrator doesn't step in at all the narrator does not need to tell you the reader that adam
+feels guilty and exposed the narrator does not need to explain that adam's relationship with god
+is broken adam's own words do all the heavy lifting it is brilliant honestly his excuse
+about his lack of clothing reveals his internal state perfectly he says he is hiding because he
+is naked but we know he is hiding because he feels moral shame his words show his fear let's look at
+another example to really drive this home turn to genesis 4 the story of cain and abel okay cain has
+just killed his brother.
+Again, the narrator could spend a page explaining Cain's jealousy,
+his anger, and the cold reality of the murder.
+But instead, the narrator just gives us a
+conversation.
+God asks Cain, where is your brother Abel?
+And Cain responds with one of the most
+famous lines in history.
+In the BBE, he says, I have no idea.
+Am I my brother's keeper?
+Look at
+the raw human deflection in that sentence.
+It is so defensive.
+It is like a child who has
+chocolate all over his face and when the parent asks who ate the cake the child
+says what cake is it my job to guard the cake that's a great comparison it is a
+psychological defense mechanism he is trying to evade responsibility and we
+see it entirely through this brief aggressive exchange but let me ask you
+something as the reader does it bother you that the narrator does not just
+explain it to you directly well yes honestly I want to push back on this a
+little bit if the narrator is truly omniscient and the narrator knows
+knows exactly how deeply jealous cain was why make it a puzzle why not just say cain felt a deep
+burning envy that consumed his reason it feels like they're holding out on us yeah why leave us
+guessing about the precise mechanics of cain's dark thoughts or adam's exact shame it seems
+stubborn why be so reticent that is the core question of biblical literature and robert alter
+argues that this is not the author being stubborn or lacking skill what is it then it is a profound
+philosophical choice.
+By withholding the inner monologue, the biblical author is
+making a massive statement about human nature.
+What kind of statement?
+The text
+treats human consciousness as a deep, sometimes impenetrable, mystery.
+A
+character in these stories is not a simple math equation that the narrator
+can try to solve for you.
+They aren't flat.
+No.
+A character is an independent
+free agent.
+They have free will.
+And because of that free will, their depths
+can only be glimpsed through what they choose to do and what they choose to say.
+Oh, wow.
+So telling us what Cain is thinking would almost be treating Cain like a robot programmed by his jealousy.
+Exactly.
+But by only showing us his actions and his lying words, the text respects his complex freedom to choose evil.
+It honors the complexity of free will.
+And it also profoundly respects you, the reader.
+It demands your active participation.
+Because I have to figure it out.
+You cannot just sit back and let the narrator feed you the answers.
+You have to judge Cain based on his words.
+You become part of the moral evaluation.
+That is a highly sophisticated way of writing, but it brings up a major logistical issue for me.
+What is that?
+We are sitting here today talking about Robert Alter, dissecting the text, and analyzing the psychology of dialogue.
+But this text was written thousands of years ago for a culture of shepherds, farmers, and ancient people.
+Right, they weren't sitting at a university seminar.
+Exactly.
+Exactly.
+If the Bible relies so heavily on sparse details and hidden meanings, how did the original everyday ancient audience know what was going on?
+Did they just miss the point?
+Not at all.
+They understood it perfectly, perhaps even better than we do.
+How?
+Because they relied on a shared cultural vocabulary.
+They did not need a professor because they had what Alter calls type scenes.
+A type scene.
+Okay, I need a really simple explanation of what that means in plain English.
+A type scene is a fixed sequence of narrative motifs.
+It is a conventional pattern that the ancient audience inherently expected.
+Like a trope.
+Yes.
+When a specific type of story began, the audience already knew the checklist of things that were supposed to happen.
+Let me see if I can translate this into a modern analogy.
+I'm a big fan of movies.
+If I am watching a romantic comedy, there is a very specific formula.
+Oh, definitely.
+Usually in the first 20 minutes, you have what we call the meet-cute.
+The man and the woman are walking down the street, maybe looking at their phones, and they bump into each other.
+Right, the classic collision.
+Someone drops their books or spills a cup of coffee.
+They bend down to pick it up.
+Their hands touch.
+Their eyes meet.
+And they realize they are attracted to each other.
+Exactly.
+You know the formula.
+You expect it.
+Or imagine someone a thousand years from now watching an old Western movie.
+If they do not know the cultural rules of a Western, they might be incredibly confused.
+They'd wonder why everyone is wearing those hats.
+Right.
+Right.
+They would watch the movie and ask, why does the town sheriff always wait until exactly high noon to fight the bad guy?
+And why do they stand in the middle of a dusty street staring at each other for five minutes before shooting?
+It makes no logical sense in the real world.
+It doesn't.
+But for us, we know it is a type scene.
+It is the classic shootout.
+That is a perfect modern comparison.
+Now, in the ancient Near East, they had their own type scenes.
+scenes an altar points out a major one the betrothal type scene a betrothal so an engagement
+yes there was a specific expected formula for how a hero finds a wife okay let's break this down
+what is the ancient formula for finding a wife it goes like this first the future bridegroom
+or sometimes a surrogate serving as his representative journeys to a foreign land
+okay step one travel step two he comes to a well he encounters a young woman at the well
+well.
+The well is like the ancient coffee shop.
+Exactly.
+Then someone draws water from the well.
+The girl then runs home to tell her family about the stranger.
+A meal is shared and finally a
+betrothal is concluded.
+The marriage is agreed upon.
+Wow.
+So anytime an ancient listener heard
+a storyteller say, and the man traveled to a foreign land and sat down by a well,
+the listener immediately thought, aha, he is about to get married.
+Precisely.
+They mentally
+mentally lean forward.
+They knew a betrothal was coming.
+But here is where the true artistry that
+the Bible comes in.
+Where is the art if it's just a formula?
+Because the art of the story
+is not in repeating the formula perfectly.
+Any bad writer can repeat a formula.
+The art is in
+how the author breaks, subverts, or alters the formula to tell you something unique about these
+specific characters.
+Oh, I get it.
+If you watch 10 romantic comedies, the best one is the one
+that takes the spilled coffee scene and does something completely unexpected with it.
+Exactly.
+That variation is what makes the character special.
+So when the ancient audience heard a well-seen starting,
+they paid extremely close attention to how it would unfold.
+Because they knew the checklist.
+So they watched for what was missing or changed.
+Like what?
+For example, does the woman draw the water or does the man draw the water?
+When she runs home, does she run to her mother's tent or her father's house?
+Every small change means something.
+Can you give me an example from the actual text?
+Let's look at Moses.
+Moses.
+When Moses flees from Egypt, he goes to Midian and sits by a well.
+He meets the seven
+daughters of a priest.
+Okay, so the formula is starting.
+He's at a well.
+He meets a woman.
+But the formula is broken immediately.
+Instead of a peaceful meeting, bad shepherds arrive
+and try to drive the women away.
+Moses has to physically fight off the shepherds to protect
+the women, and then Moses draws the water for them.
+Oh, so the listener expects a romantic
+meeting, but instead they get an action sequence, a fight scene.
+Yes.
+What does that tell the
+ancient listener?
+It tells them immediately that Moses's life and his future marriage
+will be defined by conflict, by rescuing the oppressed, and fighting against unjust authorities.
+Wow, that's so clever.
+The subtle shift in the expected pattern communicates volumes about his
+character without the narrator ever saying Moses was a man who fought for justice.
+That is
+incredibly subtle but it makes so much sense if you know the rules you notice
+when the rules are broken but if you do not know the rules it just looks like a
+bunch of random stories about wells and sadly that is exactly what happened in
+modern times a lot of modern scholars specifically a group known as form
+critics looked at these recurring scenes and completely misunderstood them
+explain to me simply what a form critic is foreign criticism was a popular
+academic movement that tried to understand the Bible by breaking it down
+into its original oral traditions so they were looking for the original
+sources right and when these critics saw the story of Isaac getting a wife at a
+well and then Jacob getting a wife at a well and then Moses at a well they
+concluded that the Bible was poorly edited wait they thought it was a
+mistake they thought it was just a glitch in the oral tradition they
+assumed the ancient people only had one story about a well and they accidentally
+just attached it to different heroes because they forgot the real history so they looked at a
+brilliant deliberate literary technique and called it sloppy editing they thought the ancient writers
+were just dumb exactly but alter proves that this is deliberate high-level artistry the author is
+actively playing a highly sophisticated literary game with the audience's expectations that
+completely changes how i view these texts it really opens them up and speaking of sophisticated
+games we need to look at another tool these authors used beyond plot
+structures like type scenes they used literal verbatim repetition as a
+commentary tool this is a really important one and I have to be honest as
+a modern English speaker this technique drives me crazy you are not alone it can
+feel incredibly clunky to our modern ears in modern Western literature we are
+taught to use it thesaurus if you use the word happy in one sentence your
+teacher will tell you to use the word joyful in the next sentence and delighted
+in the third.
+We value variety.
+We hate repeating ourselves, but Hebrew narrative does the exact
+opposite, right?
+The exact opposite.
+Two famous scholars, Martin Buber and Franz Rosenzweig,
+identified this specific technique.
+They gave it a German name, Leitwurzstil.
+Leitwurzstil.
+What
+does that mean in simple English?
+Let's break that down for the listeners.
+It translates roughly to
+leading word style.
+Instead of using synonyms, the Hebrew text will repeat the exact same word
+or the exact same root of a word over and over again in a single story to highlight a central
+theme.
+Like a hammer.
+Yes.
+They use repetition like a hammer, hitting the same nail repeatedly
+so you cannot ignore it.
+Give me an example.
+How does this work in the actual text?
+Alders points
+to a fascinating story in the book of Numbers chapters 22 through 24.
+It is the story of Balaam
+and Balak.
+It is an absolute masterpiece of this leading word technique.
+Let's set the scene for
+for the listener.
+Who are Balaam and Balak?
+Well, the Israelites are wandering in the desert
+and they are a massive group of people.
+Balak is a pagan king, the king of Moab.
+He looks out,
+sees this massive camp of Israelites, and he is terrified.
+He thinks they're going to invade.
+He thinks they're going to destroy his country.
+So he decides he needs supernatural help.
+He hires a famous prophet, a man named Balaam, to come put a dark curse on the Israelites.
+So it is a pagan king trying to hire a wizard to grace God's people.
+Exactly.
+And Balak takes Balaam up to a high mountain to look down at the camp,
+and they begin an elaborate mechanical preparation for the curse.
+What do they do?
+Balak says, build me seven altars here and prepare seven oxen and seven sheep.
+So they do it.
+They offer the sacrifices.
+Balaam opens his mouth to curse the Israelites,
+but instead the Spirit of God takes over his mouth and he blesses them instead.
+dead.
+Which makes Balak furious, I imagine.
+He is incredibly angry.
+He says, what are you doing?
+I
+paid you to curse them.
+So what does Balak do?
+He says, let's go to a different mountain.
+A change
+of scenery will fix it.
+Right.
+They go to a new spot.
+And he does the exact same thing again.
+He
+says, build me seven altars and prepare seven oxen and seven sheep.
+They do it.
+Balaam opens his
+mouth.
+And again, he blesses the Israelites.
+So that is twice.
+It does not stop there.
+Balak is
+is desperate he takes balaam to a third location and literally for the third time the text repeats
+the exact same instructions seven altars seven oxen seven sheep and for the third time balaam
+blesses israel the repetition is wild it is the exact same setup three times and here is where
+it gets really interesting to me because there is actually a very dark comedy happening here
+when you read it it is almost like a trope from a modern television sitcom a sitcom yeah you have
+the foolish villain doing the exact same elaborate ridiculous setup over and over again fully
+expecting a different result it is like watching a cartoon character oh like wiley coyote exactly
+like wiley coyote building the exact same trap for the roadrunner three times in a row and the
+trap blowing up in his face every single time it is funny you start laughing at bailak's frustration
+every time he builds the seven alters you as the reader are just waiting for it to fail again
+That comedy is completely intentional.
+And if we connect this to the bigger picture, the theological payload behind that humor is massive.
+What does Balak's repetition actually represent?
+The repetitive pagan rituals.
+The obsession with exactly seven altars, exactly seven oxen, exactly seven sheep represent a mechanistic worldview.
+A mechanistic worldview.
+Yes.
+It is the core of pagan magic.
+It is the belief that humans can control and manipulate
+divine powers if they just find the right magical formula.
+If you say the right words and kill the
+right number of animals, the gods are forced to do what you want.
+It is like entering a cheat code
+in a video game.
+If I press up, down, left, right, the game gives me infinite lives.
+Balak thinks if
+he presses the seven altars button, the universe will give him a curse.
+That is a brilliant way
+to understand it but the repetition perfectly contrasts that mechanistic magical view with
+the biblical view of reality because the god of the bible doesn't work like that not at all
+the god of the bible is omnipotent he is completely sovereign he cannot be manipulated
+by human mechanics cheat codes or magical repetitions he's not a vending machine exactly
+by making us read the boring repetitive actions of balak three times and watching it fail three
+times the author uses the leading word style to mock the pagan worldview that's amazing the comedy
+of bailax repetitive failure drives home a profound theological truth god cannot be bought
+or controlled that completely changes how i will read those repetitive passages in the future
+they aren't boring they are making a point exactly so we have seen how these authors use dialogue to
+show psychology we've seen how they use type scenes to play with expectations and how they
+They use leading words to build comedic and theological complexity.
+They're using a lot of tools.
+They really are.
+But we have to address a massive elephant in the room.
+This is something that confuses almost everyone who tries to read this text seriously.
+I think I know where you are going with this.
+What happens when the biblical texts seem to flat out contradict themselves?
+Because if you read Genesis chapter 1 and then you immediately turn the page and read
+Genesis chapter 2, they do not line up.
+The timelines are very different.
+They are.
+and Alta argues that this contradiction is actually a feature of the writing not
+a bug or a mistake it is perhaps the most striking feature of the entire text
+the Bible frequently places two entirely different seemingly opposing versions of
+the same event right next to each other let's look at the actual text from the
+BBE so you listening can hear the problem clearly first let's look at
+Genesis 1.27 it says and God made man in his image in the image of God he made
+him male and female he made them note the sequence there the creation of male
+and female is simultaneous they happen at the exact same time they are created
+together at the exact same moment both carrying the divine image with equal
+Dominion over the earth right it sounds very equal and simultaneous but then you
+turn the page to Genesis chapter 2 and we get a completely different sequence
+of events very different in chapter 2 the man is made first out of the dust of
+the ground then god makes the garden then god makes the animals and the man names the animals
+right and finally because the man is lonely and cannot find a partner among the animals
+god puts him to sleep takes a bone from his side and makes woman as a help to him so in chapter one
+they are made at the same time in chapter two the man is made then a lot of time passes with plants
+and animals and then the woman is made last out of the man it is a massive contradiction how do
+scholars explain this well historically a vast amount of historical critical scholarship has
+simply written this off as what they call a doublet give me the simple explanation what is
+a doublet and who are these historical critics historical critics are scholars who try to figure
+out the history of how the bible was written often trying to find the original sources behind the
+text like trying to find the rough drafts exactly when they look at genesis 1 and 2 they argue that
+that these were originally two completely separate, independent, historical source documents
+written by different people in different centuries.
+Oh, okay.
+That makes sense.
+And they believe that much later, an editor simply pasted the two documents together into one scroll.
+Okay, but if an editor pasted them together, didn't the editor notice that they contradict each other?
+That is the assumption of the critics.
+They assumed the final editor was either clumsy, lazy, or just too respectful of both traditions to change them.
+Though he just jammed them together without smoothing out the contradiction.
+Right.
+They view it as a messy, cut-and-paste job.
+But Robert Alter completely disagrees with that assessment, doesn't he?
+He completely rejects it.
+Alter calls this technique composite artistry.
+He believes the final editors, often called redactors, were not sloppy at all.
+They were brilliant literary artists.
+I love the analogy Alter uses to explain this.
+He compares this ancient writing technique to post-Cubist painting.
+specifically the work of Pablo Picasso explain how that works for us if you
+look at a classic realistic portrait painting from the Renaissance it looks
+like a photograph you see a face from one single angle it is very neat and
+logically correct right it looks like real life but if you look at a cubist
+painting of a face by Picasso it looks strange you see the face and profile
+from the side but you also see the eye looking straight at you at the exact
+exact same time it violates all the rules of simple realism it does but Picasso did this
+deliberately because combining those different angles actually gives you a truer deeper
+three-dimensional understanding of the person than a flat realistic image ever could that is
+a profound comparison and it perfectly explains what the biblical editors were doing they
+deliberately juxtaposed these two very different accounts of creation to hold two profound
+found competing truths in tension.
+They wanted a cubist picture of humanity.
+Yes.
+What are those two competing truths?
+Let's break it down.
+On one hand, Genesis 1 presents the high, ideal theological reality.
+Woman as man's absolute equal, created at the same time,
+sharing the divine image and sharing the divine dominion over the earth.
+It is the perfect spiritual ideal.
+That's the ideal.
+And what about Genesis 2?
+Genesis 2 presents the grounded sociological reality.
+Woman created after man, presented as a subservient helpmate, deeply embedded in the complicated patriarchal social realities of the ancient world.
+So they're showing two sides of the same coin.
+Exactly.
+Genesis 1 is the ideal picture of how God views humanity.
+Genesis 2 is the messy reality of how humans actually experience life and social hierarchy in a fallen world.
+So instead of choosing just one, the author says you need both stories to understand the complete truth about what it means to be human.
+Exactly.
+The biblical writers were not afraid of that friction.
+They embraced what Alter calls the ineradicable untidiness of human existence.
+Ineradicable untidiness.
+I love that.
+They knew the human life is messy, it's full of contradictions, and it's rarely simple.
+And they deliberately arranged their texts to reflect that complex reality.
+I love that phrase so much because that embrace of human messiness brings us
+perfectly to our final and perhaps most fascinating topic.
+Where are we going next?
+We are going to look at one of the most complex, contradictory figures in the entire Bible, King Solomon.
+And we have a really special focus for this part of our deep dive.
+We are going to look exclusively at his writings in chapter four of the book of Ecclesiastes.
+Just chapter four?
+Yes.
+We are going to ignore the rest of the book of Ecclesiastes entirely and focus purely on the events and meanings of this one specific chapter.
+chapter.
+And we'll use simple everyday English so we can really grasp the weight of what he is
+saying.
+I think focusing exclusively on chapter four is a brilliant way to see Solomon's cubist
+mind at work.
+By using the Logos Adventist Bible commentary and Ellen G. White's writings,
+we can examine Solomon's life as the ultimate portrait of human contradiction.
+Let's give the
+listeners some background on Solomon first.
+Solomon is the ultimate paradox.
+He literally
+had everything a human being could possibly want.
+He really did.
+The commentary describes
+describes his life in vivid detail he was the king of israel at its absolute peak of power
+he sat on an ivory throne flanked by solid gold lions the wealth was just unimaginable he built
+exotic gardens filled with rare animals designed to mimic the garden of eden itself he had unmatched
+intellectual wisdom he was the peak of human achievement yet despite having all that wisdom
+and wealth he engaged in years of total dissipation luxury and idol worship he completely
+lost his way.
+And the book of Ecclesiastes serves as his mournful, deeply sad autobiography
+written late in his life.
+Very heavy book.
+It is.
+So let's dive right into chapter four.
+I'm going to read verse one from the BBE.
+Solomon writes, then I came back and saw all the cruel
+things which are done under the sun.
+And I saw the weeping of those who have no power
+and they had no comforter.
+Think about who was writing this.
+This is the kink.
+He has absolute
+power.
+Yet he is looking around his own kingdom.
+And instead of seeing glory, he sees oppression
+and weeping.
+He's the one in charge.
+The Logos commentary points out that this is a moment of
+profound cynicism and despair.
+He is recognizing that all his wealth and kingdom building did not
+fix the basic cruelty of human society.
+It gets darker.
+In verses two and three, he essentially
+says that the dead are happier than the living, and the person who was never born is the luckiest
+of all because they never have to see the evil work done under the sun.
+That is an incredibly
+incredibly depressive, dark thought to find in a holy book.
+It is.
+He then moves on to human
+motivation.
+In verse four, he says, and I saw that all the trouble of man and all his hard work is
+only because he is envious of his neighbor.
+Envy.
+He is saying that the only reason people work hard
+to build businesses or buy nice houses or achieve success is just because they want to be better
+than the person living next to them.
+He calls it chasing the wind.
+The Logos commentary notes that
+Solomon is tearing down the illusions of human ambition.
+He is exposing the selfish root of hard
+work.
+But then he presents another contradiction.
+In verse five, he talks about a fool who folds
+his hands and does no work, essentially destroying himself.
+So working hard out of envy is bad,
+but being lazy is also bad.
+Right.
+And he concludes in verse six, better is one handful with quiet
+than two handfuls with hard work and chasing after the wind.
+He is searching for balance in a world
+that feels meaningless right but notice how lonely he sounds this brings us to a very famous part of
+chapter 4 starting in verse 9. he talks about how two are better than one yes people use this verse
+at weddings all the time two are better than one because they have a good reward for their work
+it sounds very romantic but if we look at the context of chapter 4 it is not romantic at all
+it is about cold harsh survival wait really survival yes he says in verse 10 that if one
+One falls, the other will lift him up, but pity the man who falls and has no one to help him.
+In verse 11, he says two lying together can keep warm, but how can one be warm alone?
+That sounds pretty desperate.
+And in verse 12, he says a person standing alone can be attacked and defeated,
+but two can stand back to back and fight.
+Oh, wow.
+So when people quote this at weddings, they're taking it completely out of context.
+Solomon isn't talking about romance.
+He is talking about the brutal reality of living in a cold, dangerous world.
+Great.
+He is a king surrounded by thousands of servants and wives, yet he writes about the terrifying vulnerability of being alone.
+That is the tragic paradox of Solomon.
+He finishes chapter four with a story about a poor but wise youth who comes out of prison to become king,
+replacing an old, foolish king who no longer knows how to take advice.
+That sounds like he is writing about himself.
+He was the wise youth, but now he has become the old, foolish king.
+Exactly.
+Exactly.
+He realizes that even fame and political power are temporary.
+The crowd will eventually forget the old king and follow the new young leader.
+And then they will eventually forget him, too.
+It is all chasing the wind.
+But this raises a huge theological problem for me.
+What is that?
+If the Bible is supposed to teach us how to live a good, godly life,
+why include an entire chapter written by a depressed, cynical old man who says life is basically pointless?
+How is a reader supposed to handle a holy text that contains the depressive ramblings of a fallen king?
+This is where Ellen G. White's commentary is incredibly illuminating.
+She makes a fascinating point about this.
+What does she say?
+She emphasizes that Solomon's cynical thoughts during his years of apostasy, these dark thoughts we read in chapter 4, were recorded by divine inspiration, not as a model for Christians to follow.
+Ah, so we are not supposed to read Ecclesiastes 4 as an instruction manual for how to view the world.
+No.
+Instead, it is recorded as a brutal, intensely honest warning.
+It shows the perversion of the human mind when it separates from its creator.
+That makes so much sense.
+When Solomon stopped trusting God, his massive intellect turned inward.
+It became cynical, dark, and hopeless.
+The text is showing us the disease so we can recognize the symptoms.
+Which is incredibly bold for a sacred text.
+Most religions would hide the fact that their greatest king became a miserable
+cynic.
+They would only publish his happy, faithful writings.
+But it ties everything
+back to our core theme today.
+The Hebrew Bible does not flatten its heroes.
+It
+does not present one-dimensional saints.
+It uses composite artistry.
+It shows the
+good and the bad.
+Ecclesiastes represents a crucial transition for the people of
+Israel.
+It shows the move from carnal political ambitions of empire building,
+building, which Solomon achieved, to the realization that you need a deeper spiritual
+reliance on God.
+In chapter 4 is the pivot point.
+By presenting Solomon's raw, unfiltered
+disillusionment exclusively here in chapter 4, the narrative forces the reader to confront a harsh
+truth.
+What truth?
+That earthly wealth, political power, and even human wisdom divorced from a
+relationship with God truly are vanity.
+They lead only to the tears of the oppressed and the cold
+loneliness we saw in the text.
+It's a stark reality check.
+The Bible trusts the reader to
+read chapter four recognize the despair of the old king and discern the warning embedded in his life
+it trusts the reader that is such a powerful thought and it really brings our entire journey
+today full circle we have covered so much incredible ground in this deep dive we really have
+we started by looking at the incredible sparse constraints of the 1000 word bible in basic
+english we realized how that stripped down language mirrors the ancient hebrew text where
+where words are treated like the literal fire of creation.
+And we explored Robert Alter's literary theories.
+Yes, how the reticence of the narrator,
+the refusal to tell us what characters are thinking,
+forces us to listen closely to their dialogue to find their psychology.
+We saw how expected cultural formulas, like the betrothal-type scenes,
+were deliberately subverted to show character traits.
+We laughed at the dark comedy of Lightwort Still,
+where repetitive leading words showed the foolishness of pagan magic
+trying to control a sovereign God.
+We looked at composite artistry.
+Giving us a 3D, cubist view of creation and Genesis.
+And finally, we looked exclusively at chapter 4 of Ecclesiastes,
+seeing how the text presents the messy, cynical reality
+of Solomon's fallen mine as a stark warning to the reader.
+We have seen that the Hebrew Bible is a masterpiece of human storytelling.
+It absolutely refuses to give us easy, flat answers.
+It is an invitation to engage, to wrestle with the text, rather than just passively consume it like a modern novel.
+Exactly.
+And that brings me to a final thought I want to leave you with.
+You, listening right now, think about all those intentional gaps in the biblical text we discussed today.
+The silences.
+Think about the silences.
+Those moments where the omniscient narrator absolutely refuses to tell us what a character is feeling.
+Or why two creation stories sit awkwardly side by side.
+What if those silences aren't just missing information?
+Right.
+What if they are deliberately left empty by the brilliant ancient author so that you,
+the reader, are forced to step into the story?
+What if those gaps exist so that you have to examine your own heart, your own motives,
+your own envy and loneliness?
+And grapple with the exact same moral choices the characters are facing.
+In the diagnostic muddy waters of human existence, the ancient text acts as a mirror.
+Exactly.
+It does not just tell you a story about the past.
+It asks you a question about yourself.
+So the next time you open these ancient texts, do not just read them as dry history or ancient law.
+Read them as the ultimate mirror of a human soul.
+Thank you for joining us on this deep dive.
