@@ -1,1 +1,1 @@
-{"PIB": {"id": "07c5de32-e2ba-45ea-820e-b51eebc74378", "word": "PIB", "trans": [{"lang_code": "en", "lang": "Inglês", "word": "GDP"}], "pos": "abbrev", "tags": ["abbreviation"], "senses": [{"glosses": ["produto interno bruto"]}], "related": [], "synonyms": []}}
+{"pib":{"id":"07c5de32-e2ba-45ea-820e-b51eebc74378","word":"PIB","trans":[{"lang_code":"en","lang":"Inglês","word":"GDP"}],"pos":"abbrev","tags":["abbreviation"],"senses":[{"glosses":["produto interno bruto"]}],"related":[],"synonyms":[]}}
