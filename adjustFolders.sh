@@ -1,18 +1,7 @@
 #!/bin/bash
 
-cd 'podcasts/en/deep-dive-bible' || exit
-mapfile -t books < <(ls)
-
-delimiter='.webm'
-
-for book in "${books[@]}"; do
-    mapfile -t chapters < <(ls "$book")
-
-    for chapter in "${chapters[@]}"; do
-        name=${chapter%%"$delimiter"*}
-        mkdir "$book/$name"
-        mv "$book/$chapter" "$book/$name"
-    done
+for file in *.webm; do
+    folder="${file% *.*}"
+    mkdir -p "$folder"
+    mv "$file" "${file%.webm}.metadata.json" "${file%.webm}.wav" "$folder/"
 done
-
-
