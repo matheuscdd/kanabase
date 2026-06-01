@@ -1,13 +1,13 @@
 #!/bin/bash
 
-cd 'podcasts/en/deep-dive-bible' || exit
+cd 'podcasts/pt/mergulho-profundo-bíblia' || exit
 
-mapfile -t chapters < <(ls *.json) 
+mapfile -t chapters < <(ls *.transcription.json) 
 delimiter=' '
 
 for file in "${chapters[@]}"; do
-    chapter=$(basename "$file" .json)
+    chapter=$(basename "$file" .transcription.json)
     book="${chapter%"$delimiter"*}"
-    mv "$file" "$book"
-    mv "${chapter}.txt" "$book"
+    mv "$file" "$book/$chapter"
+    mv "${chapter}.txt" "$book/$chapter"
 done
