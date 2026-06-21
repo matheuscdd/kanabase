@@ -12,7 +12,7 @@ if (!inputDir) {
   process.exit(1);
 }
 
-const BITRATE = "24k";
+const BITRATE = "64k";
 const CHANNELS = 1;
 const EXTENSIONS = [".m4a", ".mp3", ".wav"];
 
@@ -50,6 +50,8 @@ function runQueue() {
     .audioCodec("libopus")
     .audioBitrate(BITRATE)
     .audioChannels(CHANNELS)
+    .audioFrequency(48000)
+    .audioFilters('pan=mono|c0=0.5*c0+0.5*c1')
     .format("webm")
     .on("progress", p => {
       if (p.percent) {

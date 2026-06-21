@@ -10,3 +10,12 @@ for file in *.webm; do
     mv "$file" "$book/$chapter"
 done
 
+
+find . -type f -name "*.webm" -print0 | while IFS= read -r -d '' file; do
+    echo "$file"
+    git add "$file"
+
+    if ! git diff --cached --quiet -- "$file"; then
+        git commit -m "Adiciona $(basename "$file")" && git push origin main
+    fi
+done
