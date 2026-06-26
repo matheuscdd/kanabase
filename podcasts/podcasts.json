@@ -2,7 +2,7 @@
     {
         "id": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "completed": true,
-        "name": "Deep Dive - Bible",
+        "name": "Deep Dive: Bible - God",
         "color": "#00fafa",
         "path": "deep-dive-bible",
         "language": "en",
@@ -11,11 +11,119 @@
     {
         "id": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "completed": true,
-        "name": "Mergulho Profundo - Bíblia",
+        "name": "Mergulho Profundo: Bíblia - Deus",
         "color": "#00fafa",
         "path": "mergulho-profundo-bíblia",
         "language": "pt",
         "ref": "deedc0de-dead-4eed-8bad-feedbeefcafe"
+    },
+    {
+        "id": "777ffa4e-5f66-4754-a416-c2edc741136a",
+        "completed": true,
+        "name": "Parábolas de Jesus - White",
+        "color": "#ad0a0a",
+        "path": "parabolas-jesus",
+        "language": "pt",
+        "ref": "01fdb176-c097-4378-93e4-7742ddc2cad2"
+    },
+    {
+        "id": "857e961b-f480-4116-b323-6248288acb55",
+        "completed": true,
+        "name": "Caminho a Cristo - White",
+        "color": "#ad0a94",
+        "path": "caminho-cristo",
+        "language": "pt",
+        "ref": "8950bf68-1be3-4782-8a97-2bde31f4a2de"
+    },
+    {
+        "id": "fb6de810-e34c-463e-a2c8-44243d457d2b",
+        "completed": true,
+        "name": "Amor e Lucro - Chapman",
+        "color": "#297d11",
+        "path": "amor-lucro",
+        "language": "pt",
+        "ref": "8d595232-13b5-44ca-aa76-3d4efda96491"
+    },
+    {
+        "id": "ccc43c42-f91d-4736-a831-ebbef8dd19d7",
+        "completed": true,
+        "name": "As 5 Linguagens do Amor - Chapman",
+        "color": "#9362ff",
+        "path": "cinco-linguagens-amor",
+        "language": "pt",
+        "ref": "e555889d-0c95-4e09-b0cf-2c7a0fc02873"
+    },
+    {
+        "id": "0ee4470b-ce5d-453e-959e-031d892fa508",
+        "completed": true,
+        "name": "O que não me contaram sobre o casamento mas você precisa saber - Chapman",
+        "color": "#156333",
+        "path": "nao-contaram-casamento",
+        "language": "pt",
+        "ref": "0713ef6c-43d8-460f-a299-fc70b8515c60"
+    },
+    {
+        "id": "44f86617-71ce-428c-a96d-92fefd05d72e",
+        "completed": true,
+        "name": "Aquela Sexta-Feira no Éden - Mazat",
+        "color": "#1aaa45",
+        "path": "sexta-feira-eden",
+        "language": "pt",
+        "ref": "dc1bbb24-e220-4641-a334-4071e2ec88ad"
+    },
+    {
+        "id": "2e64ca9b-991c-4fc9-8279-94c81836085a",
+        "completed": true,
+        "name": "Rumo à Masculinidade - Medinger",
+        "color": "#ffcb00",
+        "path": "restaurando-a-identidade",
+        "language": "pt",
+        "ref": "747f8078-0eaa-48b7-a26a-85e6756a2aef"
+    },
+    {
+        "id": "cebee102-4d4f-40d2-8e19-7c137dd0fd1c",
+        "completed": true,
+        "name": "A Atração por Pessoas do Mesmo Sexo e a Igreja - Shaw",
+        "color": "#454545",
+        "path": "atracao-mesmo-sexo",
+        "language": "pt",
+        "ref": "a68e6fe4-8d18-4b45-9173-92d9666a3557"
+    },
+    {
+        "id": "898a5618-3548-41c4-a859-84c3bd475f1d",
+        "completed": true,
+        "name": "The Skepticism of Faith - Rodrigo Silva",
+        "color": "#454545",
+        "path": "skepticism-faith",
+        "language": "en",
+        "ref": "37729e56-52ae-4a5f-9fc0-65294d31a585"
+    },
+    {
+        "id": "6072de08-4e59-484b-b86c-5f40b58b5349",
+        "completed": true,
+        "name": "Aconselhando Cristãos na Luta com a Homossexualidade - Cunha",
+        "color": "#d87070",
+        "path": "aconselhando-homossexualidade",
+        "language": "pt",
+        "ref": "64795ff5-d472-49a1-b878-fba8c3edd68e"
+    },
+    {
+        "id": "9ca27739-fc69-4f75-8e11-8ad487072499",
+        "completed": true,
+        "name": "Cristão Homoafetivo? - Moura",
+        "color": "#d3d3d3",
+        "path": "cristao-homoafetivo",
+        "language": "pt",
+        "ref": "91318016-dc76-482c-991c-09a2e6706ea5"
+    },
+    {
+        "id": "98ecf4a0-9974-4a88-9398-3a8ebd5b4607",
+        "completed": true,
+        "name": "Deus é Contra os Homossexuais? - Allberry",
+        "color": "#db78ff",
+        "path": "deus-contra-homossexuais",
+        "language": "pt",
+        "ref": "361d544f-823f-4021-8837-50c83f6fff57"
     },
     {
         "id": "452b4e32-823a-4f84-bbfd-6d7def617a04",
@@ -27,12 +135,48 @@
         "ref": "04aeae25-aabc-4bac-a6e9-32a886fb9ce6"
     },
     {
-        "id": "2e64ca9b-991c-4fc9-8279-94c81836085a",
+        "id": "5bc21ad3-04e4-415e-b0c7-a491cdfcccab",
         "completed": true,
-        "name": "Rumo à Masculinidade - Medinger",
-        "color": "#ffcb00",
-        "path": "restaurando-a-identidade",
+        "name": "O Cristão Confronta a Homossexualidade - Berthoud",
+        "color": "#382483",
+        "path": "cristao-confronta-homossexualidade",
         "language": "pt",
-        "ref": "747f8078-0eaa-48b7-a26a-85e6756a2aef"
+        "ref": "b331ae09-6504-47d4-acad-a53f24a965db"
+    },
+    {
+        "id": "160e484c-09f3-43ab-865b-09ae1a98c104",
+        "completed": true,
+        "name": "O Limite do Prazer - Springett",
+        "color": "#7ca3ff",
+        "path": "limite-prazer",
+        "language": "pt",
+        "ref": "743310eb-02bb-41c1-9228-8caf15b0d473"
+    },
+    {
+        "id": "42c64355-5d21-4df7-8180-9e5de73f9727",
+        "completed": true,
+        "name": "Homossexualidade: Guia de Orientação aos Pais para a Formação da Criança - Nicolosi",
+        "color": "#7cff8a",
+        "path": "homossexualidade-guia-pais",
+        "language": "pt",
+        "ref": "68302c9e-abf5-4091-9e35-f675c3f431b2"
+    },
+    {
+        "id": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
+        "completed": true,
+        "name": "Nonviolent Communication - Rosenberg",
+        "color": "#80e1ff",
+        "path": "nonviolent-communication",
+        "language": "en",
+        "ref": "d1a2a835-228f-4505-b18e-c406c00e3f13"
+    },
+    {
+        "id": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
+        "completed": true,
+        "name": "Toxic Positivity - Goodman",
+        "color": "#7ff68c",
+        "path": "toxic-positivity",
+        "language": "en",
+        "ref": "0c8bdb97-0521-452e-afb8-e3d34f1632f2"
     }
 ]
