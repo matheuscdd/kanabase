@@ -303,7 +303,7 @@
     {
         "id": "ff51869d-0320-4f6e-af88-13957f220d01",
         "name": "Acts",
-        "color": "#EB00FF",
+        "color": "#b232db",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 44
     },
@@ -401,7 +401,7 @@
     {
         "id": "a732d9a8-ae8a-4ca7-8bef-5ae3924ed3ef",
         "name": "Hebrews",
-        "color": "#B11616",
+        "color": "#362499",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 58
     },
@@ -765,7 +765,7 @@
     {
         "id": "04dc1a0c-2786-4238-84ec-a56d3588b6bf",
         "name": "Atos",
-        "color": "#EB00FF",
+        "color": "#b232db",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 44
     },
@@ -863,7 +863,7 @@
     {
         "id": "1abf96a9-916b-4c55-b5e0-a18f48a4fc71",
         "name": "Hebreus",
-        "color": "#B11616",
+        "color": "#362499",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 58
     },
@@ -992,5 +992,425 @@
         "color": "#717171",
         "podcastId": "452b4e32-823a-4f84-bbfd-6d7def617a04",
         "order": 5
+    },
+    {
+        "id": "f77dbfad-528c-4a9d-9472-04931f5dc730",
+        "name": "1 - Principles",
+        "color": "#717171",
+        "podcastId": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
+        "order": 1
+    },
+    {
+        "id": "8bd7e26b-fb27-44cd-b19b-f4b2bc67367d",
+        "name": "2 - The Four Components",
+        "color": "#717171",
+        "podcastId": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
+        "order": 2
+    },
+    {
+        "id": "245ec795-7ad7-4411-b7f2-10446e8b328f",
+        "name": "3 - Deepening Practice and Empathy",
+        "color": "#717171",
+        "podcastId": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
+        "order": 3
+    },
+     {
+        "id": "78b014cb-6744-4776-b61a-12dec81a2463",
+        "name": "4 - Applications in Complex Situations and Conclusion",
+        "color": "#717171",
+        "podcastId": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
+        "order": 4
+    },
+    {
+        "id": "b27e7178-fb55-43d2-99cc-f270f355fa1e",
+        "name": "1 - Contexto",
+        "color": "#717171",
+        "podcastId": "5bc21ad3-04e4-415e-b0c7-a491cdfcccab",
+        "order": 1
+    },
+    {
+        "id": "b27e7178-fb55-43d2-99cc-f270f355fa1e",
+        "name": "2 - Interpretações",
+        "color": "#717171",
+        "podcastId": "5bc21ad3-04e4-415e-b0c7-a491cdfcccab",
+        "order": 2
+    },
+    {
+        "id": "1d7f80b5-d01c-4ad5-917c-567172b44b9e",
+        "name": "3 - Encerramento",
+        "color": "#717171",
+        "podcastId": "5bc21ad3-04e4-415e-b0c7-a491cdfcccab",
+        "order": 3
+    },
+    {
+        "id": "12727c86-6fa7-4d01-8734-75bde27b217e",
+        "name": "1 - Introdução",
+        "color": "#717171",
+        "podcastId": "98ecf4a0-9974-4a88-9398-3a8ebd5b4607",
+        "order": 1
+    },
+    {
+        "id": "f6e0db02-8a67-4332-946f-8780ba565ac3",
+        "name": "2 - Aplicação Prática",
+        "color": "#717171",
+        "podcastId": "98ecf4a0-9974-4a88-9398-3a8ebd5b4607",
+        "order": 2
+    },
+    {
+        "id": "56e8290d-bf10-442f-9570-19f44d9e8446",
+        "name": "3 - Síntese",
+        "color": "#717171",
+        "podcastId": "98ecf4a0-9974-4a88-9398-3a8ebd5b4607",
+        "order": 3
+    },
+    {
+        "id": "c9ff17b7-a23f-4147-8aaf-aa9061dfc753",
+        "name": "1 - Contexto",
+        "color": "#717171",
+        "podcastId": "cebee102-4d4f-40d2-8e19-7c137dd0fd1c",
+        "order": 1
+    },
+    {
+        "id": "fe02986f-e34a-4e01-b0f0-aa5adf16f4ab",
+        "name": "2 - Os 9 Equívocos",
+        "color": "#717171",
+        "podcastId": "cebee102-4d4f-40d2-8e19-7c137dd0fd1c",
+        "order": 2
+    },
+    {
+        "id": "7d4384bf-eb64-4314-b28f-8b6c6583416d",
+        "name": "3 - Desfecho",
+        "color": "#717171",
+        "podcastId": "cebee102-4d4f-40d2-8e19-7c137dd0fd1c",
+        "order": 3
+    },
+    {
+        "id": "a7b99d10-c4af-467c-9a0d-42f874f36ae2",
+        "name": "1 - A Dinâmica do Reino e a Semeadura",
+        "color": "#717171",
+        "podcastId": "777ffa4e-5f66-4754-a416-c2edc741136a",
+        "order": 1
+    },
+    {
+        "id": "eb44ee30-a732-4a3b-aeb1-c5dbbed31863",
+        "name": "2 - O Inestimável Valor do Reino e a Verdade",
+        "color": "#717171",
+        "podcastId": "777ffa4e-5f66-4754-a416-c2edc741136a",
+        "order": 2
+    },
+    {
+        "id": "4bdea633-7715-47b2-9854-9c82bf720e0b",
+        "name": "3 - Fé, Oração e Dependência",
+        "color": "#717171",
+        "podcastId": "777ffa4e-5f66-4754-a416-c2edc741136a",
+        "order": 3
+    },
+    {
+        "id": "40756a3f-bc78-4dd6-8757-65e338c520c6",
+        "name": "4 - Graça, Resgate e o Convite Divino",
+        "color": "#717171",
+        "podcastId": "777ffa4e-5f66-4754-a416-c2edc741136a",
+        "order": 4
+    },
+    {
+        "id": "b3e028e1-1339-44c7-b50e-0323456f1450",
+        "name": "5 - Vigilância, Responsabilidade e Julgamento",
+        "color": "#717171",
+        "podcastId": "777ffa4e-5f66-4754-a416-c2edc741136a",
+        "order": 5
+    },
+    {
+        "id": "bcf5efc6-5c07-484b-a3be-863602b5ebb0",
+        "name": "1 - Cenário",
+        "color": "#717171",
+        "podcastId": "160e484c-09f3-43ab-865b-09ae1a98c104",
+        "order": 1
+    },
+    {
+        "id": "08acf893-250f-4969-bb44-9fae68b9cdef",
+        "name": "2 - O Antigo Testamento",
+        "color": "#717171",
+        "podcastId": "160e484c-09f3-43ab-865b-09ae1a98c104",
+        "order": 2
+    },
+    {
+        "id": "8848137d-834f-4b91-9646-efc0298b0e6c",
+        "name": "3 - O Novo Testamento",
+        "color": "#717171",
+        "podcastId": "160e484c-09f3-43ab-865b-09ae1a98c104",
+        "order": 3
+    },
+    {
+        "id": "ba297d64-d00b-4276-9097-2ddc8bddbe3a",
+        "name": "4 - Considerações Finais",
+        "color": "#717171",
+        "podcastId": "160e484c-09f3-43ab-865b-09ae1a98c104",
+        "order": 4
+    },
+    {
+        "id": "83ac6937-79e0-4e20-b914-942f037c3aca",
+        "name": "1 - A Realidade do Amor e a Herança Familiar",
+        "color": "#717171",
+        "podcastId": "0ee4470b-ce5d-453e-959e-031d892fa508",
+        "order": 1
+    },
+    {
+        "id": "284e8e39-b067-4b49-98a3-1abb4f060ad8",
+        "name": "2 - Resolução de Conflitos e Restauração",
+        "color": "#717171",
+        "podcastId": "0ee4470b-ce5d-453e-959e-031d892fa508",
+        "order": 2
+    },
+    {
+        "id": "7881fd85-e8b2-4c21-a1bf-39a2d28206b1",
+        "name": "3 - O Cotidiano Prático: Rotina e Gestão",
+        "color": "#717171",
+        "podcastId": "0ee4470b-ce5d-453e-959e-031d892fa508",
+        "order": 3
+    },
+    {
+        "id": "d9fb1fcc-e432-4671-999a-11c2c086e93a",
+        "name": "4 - Dimensões de Intimidade e Relacionamento",
+        "color": "#717171",
+        "podcastId": "0ee4470b-ce5d-453e-959e-031d892fa508",
+        "order": 4
+    },
+    {
+        "id": "3c8ce501-d817-4be4-a09f-0fe5d7f68d04",
+        "name": "1 - Fundamentos: Atitude, Trabalho e Fé",
+        "color": "#717171",
+        "podcastId": "fb6de810-e34c-463e-a2c8-44243d457d2b",
+        "order": 1
+    },
+    {
+        "id": "c4df8b0d-b93e-48ff-93df-1f87d0bca9b1",
+        "name": "2 - Princípios de Gestão: Generosidade e Prudência",
+        "color": "#717171",
+        "podcastId": "fb6de810-e34c-463e-a2c8-44243d457d2b",
+        "order": 2
+    },
+    {
+        "id": "a166e328-b249-4b4c-bd5f-2f8e41c4c585",
+        "name": "3 - Prática Conjugal: Dinâmica e Administração",
+        "color": "#717171",
+        "podcastId": "fb6de810-e34c-463e-a2c8-44243d457d2b",
+        "order": 3
+    },
+    {
+        "id": "51b2bbeb-29c9-48a5-ab56-91d6f564b33c",
+        "name": "1 - Fundamentos, Contexto e Influências",
+        "color": "#717171",
+        "podcastId": "6072de08-4e59-484b-b86c-5f40b58b5349",
+        "order": 1
+    },
+    {
+        "id": "d347619a-cb61-45aa-bb21-e8d55ab49ed7",
+        "name": "2 - A Dinâmica e a Prática do Aconselhamento",
+        "color": "#717171",
+        "podcastId": "6072de08-4e59-484b-b86c-5f40b58b5349",
+        "order": 2
+    },
+    {
+        "id": "7c614f78-078e-4d82-962f-6fa66a3caef8",
+        "name": "3 - O Conselheiro e o Encerramento",
+        "color": "#717171",
+        "podcastId": "6072de08-4e59-484b-b86c-5f40b58b5349",
+        "order": 3
+    },
+    {
+        "id": "acdae53c-a1d6-4766-bb40-e34c9ede4dc3",
+        "name": "1 - Understanding Toxic Positivity",
+        "color": "#717171",
+        "podcastId": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
+        "order": 1
+    },
+    {
+        "id": "6e46ba15-1125-4004-9c51-b4213346f3fe",
+        "name": "2 - Internal Processing and Validation",
+        "color": "#717171",
+        "podcastId": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
+        "order": 2
+    },
+    {
+        "id": "56debd96-b4f6-453b-8815-ee19a7a9eef4",
+        "name": "3 - Interpersonal Relationships and the Outside World",
+        "color": "#717171",
+        "podcastId": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
+        "order": 3
+    },
+    {
+        "id": "c472d5dd-5d6f-43d0-8d84-02e15ec7b8ba",
+        "name": "4 - Perspective and Acceptance",
+        "color": "#717171",
+        "podcastId": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
+        "order": 4
+    },
+    {
+        "id": "bdfc00ab-e1c3-4a38-a6b8-1bdd444b8a68",
+        "name": "1 - A Dinâmica do Amor e do Relacionamento",
+        "color": "#717171",
+        "podcastId": "ccc43c42-f91d-4736-a831-ebbef8dd19d7",
+        "order": 1
+    },
+    {
+        "id": "69295c80-7a18-4019-948a-b53c9ae3e22d",
+        "name": "2 - As Cinco Linguagens do Amor",
+        "color": "#717171",
+        "podcastId": "ccc43c42-f91d-4736-a831-ebbef8dd19d7",
+        "order": 2
+    },
+    {
+        "id": "301f675d-995b-4a3e-86d9-517d05a02a8c",
+        "name": "3 - Aplicação Prática, Escolha e Desafios",
+        "color": "#717171",
+        "podcastId": "ccc43c42-f91d-4736-a831-ebbef8dd19d7",
+        "order": 3
+    },
+    {
+        "id": "6ca8816b-fd57-4b25-b918-7dcf80373c79",
+        "name": "4 - Expansão e Considerações Finais",
+        "color": "#717171",
+        "podcastId": "ccc43c42-f91d-4736-a831-ebbef8dd19d7",
+        "order": 4
+    },
+    {
+        "id": "415e9e25-d999-4573-8e07-602e4d562884",
+        "name": "1 - Origens e Contexto Espiritual",
+        "color": "#717171",
+        "podcastId": "44f86617-71ce-428c-a96d-92fefd05d72e",
+        "order": 1
+    },
+    {
+        "id": "415e9e25-d999-4573-8e07-602e4d562884",
+        "name": "2 - Biologia, Desenvolvimento e Gênero",
+        "color": "#717171",
+        "podcastId": "44f86617-71ce-428c-a96d-92fefd05d72e",
+        "order": 2
+    },
+    {
+        "id": "f0b56a37-0935-4545-bd5d-bdd41a45a25c",
+        "name": "3 - Parâmetros e Ética Conjugal",
+        "color": "#717171",
+        "podcastId": "44f86617-71ce-428c-a96d-92fefd05d72e",
+        "order": 3
+    },
+    {
+        "id": "e4029dc5-e517-4da2-b0f7-c093677f914c",
+        "name": "4 - A Sexualidade nas Dinâmicas Familiares",
+        "color": "#717171",
+        "podcastId": "44f86617-71ce-428c-a96d-92fefd05d72e",
+        "order": 4
+    },
+    {
+        "id": "fef9285e-5fbe-4715-a843-8eac40d9bd41",
+        "name": "1 - Fundamento",
+        "color": "#717171",
+        "podcastId": "857e961b-f480-4116-b323-6248288acb55",
+        "order": 1
+    },
+    {
+        "id": "be5258ff-c1f3-4c30-b3b4-665c00ac5572",
+        "name": "2 - Conversão",
+        "color": "#717171",
+        "podcastId": "857e961b-f480-4116-b323-6248288acb55",
+        "order": 2
+    },
+    {
+        "id": "0bc7e606-fb92-4233-8204-6764844c4590",
+        "name": "3 - Crescimento",
+        "color": "#717171",
+        "podcastId": "857e961b-f480-4116-b323-6248288acb55",
+        "order": 3
+    },
+    {
+        "id": "4cd6ad42-8c5e-46fe-b47c-92c8e104629a",
+        "name": "4 - Plenitude",
+        "color": "#717171",
+        "podcastId": "857e961b-f480-4116-b323-6248288acb55",
+        "order": 4
+    },
+    {
+        "id": "4e8d3b10-5959-4dac-b43b-5af318468aa2",
+        "name": "1 - The Nature of Doubt and the Formation of Worldview",
+        "color": "#717171",
+        "podcastId": "898a5618-3548-41c4-a859-84c3bd475f1d",
+        "order": 1
+    },
+    {
+        "id": "73b7ba7b-b7a7-405a-93f7-6826ec94de8e",
+        "name": "2 - History and Contradictions of Religion and Atheism",
+        "color": "#717171",
+        "podcastId": "898a5618-3548-41c4-a859-84c3bd475f1d",
+        "order": 2
+    },
+    {
+        "id": "dbdf70a7-b64d-49ed-a9e4-73aae70fbfac",
+        "name": "3 - Existentialism, Science, and the Search for Meaning",
+        "color": "#717171",
+        "podcastId": "898a5618-3548-41c4-a859-84c3bd475f1d",
+        "order": 3
+    },
+    {
+        "id": "13bd5749-d073-4a18-a85f-a49474e7ed2a",
+        "name": "4 - The Existence of God and the Foundation of Morality",
+        "color": "#717171",
+        "podcastId": "898a5618-3548-41c4-a859-84c3bd475f1d",
+        "order": 4
+    },
+    {
+        "id": "a5571075-c895-43a7-a530-5a37098bd7e3",
+        "name": "5 - The Singularity of Christianity, the Church, and the Bible",
+        "color": "#717171",
+        "podcastId": "898a5618-3548-41c4-a859-84c3bd475f1d",
+        "order": 5
+    },
+    {
+        "id": "79dd02ba-ec55-4903-a028-8646e4b43b4b",
+        "name": "6 - The Dilemma of Evil, Violence, and Suffering",
+        "color": "#717171",
+        "podcastId": "898a5618-3548-41c4-a859-84c3bd475f1d",
+        "order": 6
+    },
+    {
+        "id": "143f037b-ac4a-4447-9427-d2b1e9559cb7",
+        "name": "1 - Fundamentos, Desenvolvimento e Prevenção",
+        "color": "#717171",
+        "podcastId": "6072de08-4e59-484b-b86c-5f40b58b5349",
+        "order": 1
+    },
+    {
+        "id": "ebd5b226-0dea-4a6d-ab58-8da913d727f8",
+        "name": "2 - Dinâmicas Familiares, Sociais e Adolescência",
+        "color": "#717171",
+        "podcastId": "6072de08-4e59-484b-b86c-5f40b58b5349",
+        "order": 2
+    },
+    {
+        "id": "56c867f9-86fb-421e-9cf6-d5fff0c0be3b",
+        "name": "3 - Intervenção, Tratamento e Relatos",
+        "color": "#717171",
+        "podcastId": "6072de08-4e59-484b-b86c-5f40b58b5349",
+        "order": 3
+    },
+    {
+        "id": "fe2a94c0-d75b-4970-960d-f03711ce451a",
+        "name": "1 - Fundamentos Teológicos e Bíblicos",
+        "color": "#717171",
+        "podcastId": "9ca27739-fc69-4f75-8e11-8ad487072499",
+        "order": 1
+    },
+    {
+        "id": "c088b88e-6774-43e9-af59-2fcef8d308d5",
+        "name": "2 - O Exemplo de Cristo e a Jornada Pessoal",
+        "color": "#717171",
+        "podcastId": "9ca27739-fc69-4f75-8e11-8ad487072499",
+        "order": 2
+    },
+    {
+        "id": "0d23df15-bcc5-43f6-a50e-22cab4ec99e2",
+        "name": "3 - O Papel da Família e da Comunidade de Fé",
+        "color": "#717171",
+        "podcastId": "9ca27739-fc69-4f75-8e11-8ad487072499",
+        "order": 3
     }
 ]
