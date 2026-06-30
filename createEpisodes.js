@@ -1,4 +1,35 @@
-[
+const fs = require('node:fs');
+
+const podcastId = process.argv[2];
+if (!podcastId) {
+    throw new Error("PodcastId não informado");
+}
+
+const podcast = JSON.parse(fs.readFileSync("./podcasts/podcasts.json", "utf-8"))
+    .find(x => x.id === podcastId);
+if (!podcast) {
+    throw new Error("PodcastId não encontrado");
+}
+const sections = JSON.parse(fs.readFileSync("./podcasts/sections.json", "utf-8"))
+    .filter(x => x.podcastId === podcastId)
+    .map(x => ({...x, chapters: []}));
+
+if (!sections.length) {
+    throw new Error("Podcast sem seções");
+}
+
+const rawDurations = JSON.parse(fs.readFileSync("./podcasts/duration.json", "utf-8"))
+    .filter(x => x.file.includes(podcast.path));
+
+const durations = {};
+const paths = {}
+rawDurations.forEach(x => {
+    const index = x.file.split('/').at(-1).split(' -')[0];
+    durations[index] = x.duration
+    paths[index] = x.file.slice(2);
+});
+
+const titles = [
     "1 - Deus conosco",
     "2 - O povo escolhido",
     "3 - A plenitude dos tempos",
@@ -38,13 +69,11 @@
     "37 - Os primeiros evangelistas",
     "38 - Vinde e repousai um pouco",
     "39 - Dai-lhes vós de comer",
-    "40 -  Uma noite no lago",
-    "40 -  Uma noite no lago",
-    "41 - A crise na Galiléia",
+    "40 - Uma noite no lago",
     "41 - A crise na Galiléia",
     "42 - Tradição",
     "43 - Barreiras derrubadas",
-    "44 -  O verdadeiro sinal",
+    "44 - O verdadeiro sinal",
     "45 - A previsão da cruz",
     "46 - A transfiguração",
     "47 - Nada vos será impossível",
@@ -54,32 +83,28 @@
     "51 - A luz da vida",
     "52 - O divino pastor",
     "53 - A última jornada da Galiléia",
-    "54 -  O bom samaritano",
+    "54 - O bom samaritano",
     "55 - Não com aparência exterior",
     "56 - Deixai vir a mim os pequeninos",
     "57 - Uma coisa te falta",
     "58 - Lázaro, sai para fora",
     "59 - Os sacerdotes tramam",
     "60 - A lei do novo reino",
-    "61 -  Zaqueu",
-    "62 -  O banquete em casa de Simão",
+    "61 - Zaqueu",
+    "62 - O banquete em casa de Simão",
     "63 - Eis que o teu rei virá",
-    "64 -  Um povo condenado",
+    "64 - Um povo condenado",
     "65 - O templo novamente purificado",
     "66 - Conflito",
-    "67 -  Ais sobre os fariseus",
-    "68 -  No pátio",
+    "67 - Ais sobre os fariseus",
+    "68 - No pátio",
     "69 - O Monte das Oliveiras",
     "70 - Um destes meus pequeninos irmãos",
-    "70 - Um destes meus pequeninos irmãos",
-    "71 - Servo dos servos",
     "71 - Servo dos servos",
     "72 - Em memória de mim",
-    "72 - Em memória de mim",
     "73 - Não se turbe o vosso coração",
-    "73 - Não se turbe o vosso coração",
-    "74 -  Getsêmani",
-    "75 -  Perante Anás e o tribunal de Caifás",
+    "74 - Getsêmani",
+    "75 - Perante Anás e o tribunal de Caifás",
     "76 - Judas",
     "77 - Na sala de julgamento de Pilatos",
     "78 - O Calvário",
@@ -93,3 +118,31 @@
     "86 - Ide, ensinai a todas as nações",
     "87 - Para meu Pai e vosso Pai"
 ]
+
+const results = []
+titles.forEach(x => {
+    const index = Number(x.split('-')[0].trim())
+    const section = sections.find(x => index <= x.last);
+    section.chapters.push(index);
+    const order = section.chapters.indexOf(index) + 1;
+    const id = crypto.randomUUID();
+    const duration = durations[index];
+
+    const result = {
+        id,
+        order,
+        name: x,
+        duration,
+        sectionId: section.id,
+        sectionName: section.name,
+        podcastId: podcast.id,
+        podcastName: podcast.name,
+        audio: encodeURI(paths[index]),
+        transcription: "",
+        color: "#196c31"
+    }
+
+    results.push(result);
+});
+
+fs.writeFileSync(`${crypto.randomUUID()}.json`, JSON.stringify(results));

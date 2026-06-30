@@ -1276,28 +1276,28 @@
     {
         "id": "a80ad263-66d2-4607-af42-8e63ef35fada",
         "name": "1 - Origens e Contexto Espiritual",
-        "color": "#717171",
+        "color": "#509dff",
         "podcastId": "44f86617-71ce-428c-a96d-92fefd05d72e",
         "order": 1
     },
     {
         "id": "415e9e25-d999-4573-8e07-602e4d562884",
         "name": "2 - Biologia, Desenvolvimento e Gênero",
-        "color": "#717171",
+        "color": "#8b3bff",
         "podcastId": "44f86617-71ce-428c-a96d-92fefd05d72e",
         "order": 2
     },
     {
         "id": "f0b56a37-0935-4545-bd5d-bdd41a45a25c",
         "name": "3 - Parâmetros e Ética Conjugal",
-        "color": "#717171",
+        "color": "#c89efa",
         "podcastId": "44f86617-71ce-428c-a96d-92fefd05d72e",
         "order": 3
     },
     {
         "id": "e4029dc5-e517-4da2-b0f7-c093677f914c",
         "name": "4 - A Sexualidade nas Dinâmicas Familiares",
-        "color": "#717171",
+        "color": "#1a6976",
         "podcastId": "44f86617-71ce-428c-a96d-92fefd05d72e",
         "order": 4
     },
@@ -1458,44 +1458,50 @@
     {
         "id": "b239a713-5173-4c15-8a07-b501ee1c20ef",
         "name": "1 - O Advento e a Infância",
-        "color": "#717171",
+        "color": "#cb6eff",
         "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
-        "order": 1
+        "order": 1,
+        "last": 9
     },
     {
         "id": "f54b8f53-aadf-40bf-98e9-98e05cfa4530",
         "name": "2 - O Início do Ministério",
-        "color": "#717171",
+        "color": "#38a2ff",
         "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
-        "order": 2
+        "order": 2,
+        "last": 24
     },
     {
         "id": "fe929626-e07a-43f0-b4d0-430f4f75b0df",
         "name": "3 - O Grande Ministério na Galileia",
-        "color": "#717171",
+        "color": "#149784",
         "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
-        "order": 3
+        "order": 3,
+        "last": 45
     },
     {
         "id": "13fbf947-04a5-4ec3-9d52-1753baf000aa",
         "name": "4 - O Ministério Posterior e a Jornada para Jerusalém",
-        "color": "#717171",
+        "color": "#ffd559",
         "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
-        "order": 4
+        "order": 4,
+        "last": 62
     },
     {
         "id": "cfecc33b-e11b-4fc0-9e7c-2b108057b962",
         "name": "5 - A Semana da Paixão",
-        "color": "#717171",
+        "color": "#d2ffbd",
         "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
-        "order": 5
+        "order": 5,
+        "last": 73
     },
     {
         "id": "12518975-675a-4133-9bc2-cf60a3c4e0eb",
         "name": "6 - Traição, Julgamento, Morte e Ressurreição",
-        "color": "#717171",
+        "color": "#fc7373",
         "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
-        "order": 6
+        "order": 6,
+        "last": 87
     },
     {
         "id": "6531ad9a-b697-47c7-af77-b4d9518d86d6",

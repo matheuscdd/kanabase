@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "[" > output.json
+echo "[" > duration.json
 count=0
 total=$(find . -type f -name "*.webm" | wc -l)
 
@@ -15,6 +15,6 @@ find . -type f -name "*.webm" -print0 | while IFS= read -r -d '' file; do
   printf "\r[%s] %d%% (%d/%d)" "$bar" "$percent" "$count" "$total"
 done
 
-sed -i '$ s/},/}/' output.json  # Linux
-echo "]" >> output.json
+sed -i '$ s/},/}/' duration.json  # Linux
+echo "]" >> duration.json
 echo -e "\nConcluído!"

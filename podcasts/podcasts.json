@@ -64,7 +64,7 @@
     },
     {
         "id": "44f86617-71ce-428c-a96d-92fefd05d72e",
-        "completed": false,
+        "completed": true,
         "name": "Aquela Sexta-Feira no Éden - Mazat",
         "color": "#1aaa45",
         "path": "sexta-feira-eden",
@@ -199,9 +199,9 @@
     },
     {
         "id": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
-        "completed": false,
+        "completed": true,
         "name": "O Desejado de Todas as Nações - White",
-        "color": "#7ff68c",
+        "color": "#6e45ff",
         "path": "desejado-todas-nacoes",
         "language": "pt",
         "ref": "4dfaebad-1fde-4c39-886a-b31a713ddf32"
