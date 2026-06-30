@@ -19,7 +19,7 @@
     },
     {
         "id": "777ffa4e-5f66-4754-a416-c2edc741136a",
-        "completed": true,
+        "completed": false,
         "name": "Parábolas de Jesus - White",
         "color": "#ad0a0a",
         "path": "parabolas-jesus",
@@ -28,7 +28,7 @@
     },
     {
         "id": "857e961b-f480-4116-b323-6248288acb55",
-        "completed": true,
+        "completed": false,
         "name": "Caminho a Cristo - White",
         "color": "#ad0a94",
         "path": "caminho-cristo",
@@ -37,7 +37,7 @@
     },
     {
         "id": "fb6de810-e34c-463e-a2c8-44243d457d2b",
-        "completed": true,
+        "completed": false,
         "name": "Amor e Lucro - Chapman",
         "color": "#297d11",
         "path": "amor-lucro",
@@ -46,7 +46,7 @@
     },
     {
         "id": "ccc43c42-f91d-4736-a831-ebbef8dd19d7",
-        "completed": true,
+        "completed": false,
         "name": "As Cinco Linguagens do Amor - Chapman",
         "color": "#9362ff",
         "path": "cinco-linguagens-amor",
@@ -55,7 +55,7 @@
     },
     {
         "id": "0ee4470b-ce5d-453e-959e-031d892fa508",
-        "completed": true,
+        "completed": false,
         "name": "O que não me contaram sobre o casamento mas você precisa saber - Chapman",
         "color": "#156333",
         "path": "nao-contaram-casamento",
@@ -64,7 +64,7 @@
     },
     {
         "id": "44f86617-71ce-428c-a96d-92fefd05d72e",
-        "completed": true,
+        "completed": false,
         "name": "Aquela Sexta-Feira no Éden - Mazat",
         "color": "#1aaa45",
         "path": "sexta-feira-eden",
@@ -82,7 +82,7 @@
     },
     {
         "id": "cebee102-4d4f-40d2-8e19-7c137dd0fd1c",
-        "completed": true,
+        "completed": false,
         "name": "A Atração por Pessoas do Mesmo Sexo e a Igreja - Shaw",
         "color": "#454545",
         "path": "atracao-mesmo-sexo",
@@ -91,7 +91,7 @@
     },
     {
         "id": "898a5618-3548-41c4-a859-84c3bd475f1d",
-        "completed": true,
+        "completed": false,
         "name": "The Skepticism of Faith - Rodrigo Silva",
         "color": "#454545",
         "path": "skepticism-faith",
@@ -100,7 +100,7 @@
     },
     {
         "id": "6072de08-4e59-484b-b86c-5f40b58b5349",
-        "completed": true,
+        "completed": false,
         "name": "Aconselhando Cristãos na Luta com a Homossexualidade - Cunha",
         "color": "#d87070",
         "path": "aconselhando-homossexualidade",
@@ -109,7 +109,7 @@
     },
     {
         "id": "9ca27739-fc69-4f75-8e11-8ad487072499",
-        "completed": true,
+        "completed": false,
         "name": "Cristão Homoafetivo? - Moura",
         "color": "#d3d3d3",
         "path": "cristao-homoafetivo",
@@ -118,7 +118,7 @@
     },
     {
         "id": "98ecf4a0-9974-4a88-9398-3a8ebd5b4607",
-        "completed": true,
+        "completed": false,
         "name": "Deus é Contra os Homossexuais? - Allberry",
         "color": "#db78ff",
         "path": "deus-contra-homossexuais",
@@ -136,7 +136,7 @@
     },
     {
         "id": "5bc21ad3-04e4-415e-b0c7-a491cdfcccab",
-        "completed": true,
+        "completed": false,
         "name": "O Cristão Confronta a Homossexualidade - Berthoud",
         "color": "#382483",
         "path": "cristao-confronta-homossexualidade",
@@ -145,7 +145,7 @@
     },
     {
         "id": "160e484c-09f3-43ab-865b-09ae1a98c104",
-        "completed": true,
+        "completed": false,
         "name": "O Limite do Prazer - Springett",
         "color": "#7ca3ff",
         "path": "limite-prazer",
@@ -154,7 +154,7 @@
     },
     {
         "id": "42c64355-5d21-4df7-8180-9e5de73f9727",
-        "completed": true,
+        "completed": false,
         "name": "Homossexualidade: Guia de Orientação aos Pais para a Formação da Criança - Nicolosi",
         "color": "#7cff8a",
         "path": "homossexualidade-guia-pais",
@@ -163,7 +163,7 @@
     },
     {
         "id": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
-        "completed": true,
+        "completed": false,
         "name": "Nonviolent Communication - Rosenberg",
         "color": "#80e1ff",
         "path": "nonviolent-communication",
@@ -172,11 +172,56 @@
     },
     {
         "id": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
-        "completed": true,
+        "completed": false,
         "name": "Toxic Positivity - Goodman",
         "color": "#7ff68c",
         "path": "toxic-positivity",
         "language": "en",
         "ref": "0c8bdb97-0521-452e-afb8-e3d34f1632f2"
+    },
+    {
+        "id": "1322065d-fd33-41ff-a752-a899cdfdbd82",
+        "completed": false,
+        "name": "Eu Vou Bem Sem Você - Rentzel",
+        "color": "#7ff68c",
+        "path": "eu-vou-bem-sem-voce",
+        "language": "pt",
+        "ref": "6b65e2f5-f57a-4567-aa2b-425f42866b0e"
+    },
+    {
+        "id": "a2f3f215-5d6f-4fea-9971-0bbbe6df798e",
+        "completed": false,
+        "name": "Terapia Reparativa para Homossexualidade Masculina - Nicolosi",
+        "color": "#7ff68c",
+        "path": "terapia-reparativa-homossexualidade-masculina",
+        "language": "pt",
+        "ref": "e084e1e2-4623-42bf-a3aa-0d8eb01fda1b"
+    },
+    {
+        "id": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
+        "completed": false,
+        "name": "O Desejado de Todas as Nações - White",
+        "color": "#7ff68c",
+        "path": "desejado-todas-nacoes",
+        "language": "pt",
+        "ref": "4dfaebad-1fde-4c39-886a-b31a713ddf32"
+    },
+    {
+        "id": "8b69fdf5-140d-4c31-a8a9-d53196277d2e",
+        "completed": false,
+        "name": "The Art of War - Sun Tzu",
+        "color": "#7ff68c",
+        "path": "art-war",
+        "language": "en",
+        "ref": "1ef74974-4450-46ee-afb5-4cfc4c2d0322"
+    },
+    {
+        "id": "544d512a-68d4-4651-87f9-86f5af9dfc0c",
+        "completed": false,
+        "name": "A Arte da Guerra - Sun Tzu",
+        "color": "#7ff68c",
+        "path": "arte-guerra",
+        "language": "pt",
+        "ref": "1ef74974-4450-46ee-afb5-4cfc4c2d0322"
     }
 ]

@@ -1014,7 +1014,7 @@
         "podcastId": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
         "order": 3
     },
-     {
+    {
         "id": "78b014cb-6744-4776-b61a-12dec81a2463",
         "name": "4 - Applications in Complex Situations and Conclusion",
         "color": "#717171",
@@ -1274,7 +1274,7 @@
         "order": 4
     },
     {
-        "id": "415e9e25-d999-4573-8e07-602e4d562884",
+        "id": "a80ad263-66d2-4607-af42-8e63ef35fada",
         "name": "1 - Origens e Contexto Espiritual",
         "color": "#717171",
         "podcastId": "44f86617-71ce-428c-a96d-92fefd05d72e",
@@ -1412,5 +1412,159 @@
         "color": "#717171",
         "podcastId": "9ca27739-fc69-4f75-8e11-8ad487072499",
         "order": 3
+    },
+    {
+        "id": "56a8e283-1802-4294-8252-16f3aef16eaf",
+        "name": "1 - Compreendendo a Dependência",
+        "color": "#717171",
+        "podcastId": "1322065d-fd33-41ff-a752-a899cdfdbd82",
+        "order": 1
+    },
+    {
+        "id": "281e766b-2977-4d40-bfdc-3fa68e209fc7",
+        "name": "2 - A Dinâmica e os Desafios",
+        "color": "#717171",
+        "podcastId": "1322065d-fd33-41ff-a752-a899cdfdbd82",
+        "order": 2
+    },
+    {
+        "id": "3ddfcb22-f65a-4f05-949b-863a221ebe3b",
+        "name": "3 - Recuperação e Superação",
+        "color": "#717171",
+        "podcastId": "1322065d-fd33-41ff-a752-a899cdfdbd82",
+        "order": 3
+    },
+    {
+        "id": "43cbe139-d9b4-4e25-903b-8764be79ffe4",
+        "name": "1 - Esforço da Identificação do Sexo",
+        "color": "#717171",
+        "podcastId": "a2f3f215-5d6f-4fea-9971-0bbbe6df798e",
+        "order": 1
+    },
+    {
+        "id": "42a9d358-5ac0-466f-85c6-62934373912b",
+        "name": "2 - Problemas Relacionados",
+        "color": "#717171",
+        "podcastId": "a2f3f215-5d6f-4fea-9971-0bbbe6df798e",
+        "order": 2
+    },
+    {
+        "id": "3839973c-e970-42bc-9fa8-7281cff2f214",
+        "name": "3 - Psicoterapia",
+        "color": "#717171",
+        "podcastId": "a2f3f215-5d6f-4fea-9971-0bbbe6df798e",
+        "order": 3
+    },
+    {
+        "id": "b239a713-5173-4c15-8a07-b501ee1c20ef",
+        "name": "1 - O Advento e a Infância",
+        "color": "#717171",
+        "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
+        "order": 1
+    },
+    {
+        "id": "f54b8f53-aadf-40bf-98e9-98e05cfa4530",
+        "name": "2 - O Início do Ministério",
+        "color": "#717171",
+        "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
+        "order": 2
+    },
+    {
+        "id": "fe929626-e07a-43f0-b4d0-430f4f75b0df",
+        "name": "3 - O Grande Ministério na Galileia",
+        "color": "#717171",
+        "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
+        "order": 3
+    },
+    {
+        "id": "13fbf947-04a5-4ec3-9d52-1753baf000aa",
+        "name": "4 - O Ministério Posterior e a Jornada para Jerusalém",
+        "color": "#717171",
+        "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
+        "order": 4
+    },
+    {
+        "id": "cfecc33b-e11b-4fc0-9e7c-2b108057b962",
+        "name": "5 - A Semana da Paixão",
+        "color": "#717171",
+        "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
+        "order": 5
+    },
+    {
+        "id": "12518975-675a-4133-9bc2-cf60a3c4e0eb",
+        "name": "6 - Traição, Julgamento, Morte e Ressurreição",
+        "color": "#717171",
+        "podcastId": "c3ac1194-8cad-4f48-8016-7828f41fe7f6",
+        "order": 6
+    },
+    {
+        "id": "6531ad9a-b697-47c7-af77-b4d9518d86d6",
+        "name": "1 - Strategic Planning",
+        "color": "#717171",
+        "podcastId": "8b69fdf5-140d-4c31-a8a9-d53196277d2e",
+        "order": 1
+    },
+    {
+        "id": "20d092e3-106d-47de-be01-a478aa04c2ba",
+        "name": "2 - Preparation and Positioning",
+        "color": "#717171",
+        "podcastId": "8b69fdf5-140d-4c31-a8a9-d53196277d2e",
+        "order": 2
+    },
+    {
+        "id": "5071f4de-5422-49a8-a479-b05152b14ff0",
+        "name": "3 - Campaign Execution",
+        "color": "#717171",
+        "podcastId": "8b69fdf5-140d-4c31-a8a9-d53196277d2e",
+        "order": 3
+    },
+    {
+        "id": "983dfd33-559f-43ce-8fea-94661355c57c",
+        "name": "4 - Terrain and Combat",
+        "color": "#717171",
+        "podcastId": "8b69fdf5-140d-4c31-a8a9-d53196277d2e",
+        "order": 4
+    },
+    {
+        "id": "e60a016b-ebe8-49b0-816b-4f676828afbe",
+        "name": "5 - Intelligence and Victory",
+        "color": "#717171",
+        "podcastId": "8b69fdf5-140d-4c31-a8a9-d53196277d2e",
+        "order": 5
+    },
+    {
+        "id": "d999a224-5ecf-416e-ab4d-fce15a702b6d",
+        "name": "1 - Planejamento Estratégico",
+        "color": "#717171",
+        "podcastId": "544d512a-68d4-4651-87f9-86f5af9dfc0c",
+        "order": 1
+    },
+    {
+        "id": "802d0dcd-e4b0-4ffb-a563-67eceacded3e",
+        "name": "2 - Preparação e Posicionamento",
+        "color": "#717171",
+        "podcastId": "544d512a-68d4-4651-87f9-86f5af9dfc0c",
+        "order": 2
+    },
+    {
+        "id": "68e39bcb-4280-4347-98dc-73ee53821ae4",
+        "name": "3 - Condução da Campanha",
+        "color": "#717171",
+        "podcastId": "544d512a-68d4-4651-87f9-86f5af9dfc0c",
+        "order": 3
+    },
+    {
+        "id": "cc760008-4713-4bb6-97e3-02fdd69fbf8e",
+        "name": "4 - Terreno e Combate",
+        "color": "#717171",
+        "podcastId": "544d512a-68d4-4651-87f9-86f5af9dfc0c",
+        "order": 4
+    },
+    {
+        "id": "99449007-371d-4e3c-a158-fab31eec8ed7",
+        "name": "5 - Inteligência e Vitória",
+        "color": "#717171",
+        "podcastId": "544d512a-68d4-4651-87f9-86f5af9dfc0c",
+        "order": 5
     }
 ]
