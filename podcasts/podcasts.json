@@ -180,6 +180,24 @@
         "ref": "0c8bdb97-0521-452e-afb8-e3d34f1632f2"
     },
     {
+        "id": "87322a9a-00d2-42a4-b930-267e292662f1",
+        "completed": false,
+        "name": "Comunicação Não Violenta - Rosenberg",
+        "color": "#80e1ff",
+        "path": "comunicacao-nao-violenta",
+        "language": "pt",
+        "ref": "d1a2a835-228f-4505-b18e-c406c00e3f13"
+    },
+    {
+        "id": "1a5d75b2-c822-4753-af2e-fa118c1354f1",
+        "completed": false,
+        "name": "Positividade Tóxica - Goodman",
+        "color": "#7ff68c",
+        "path": "positividade-toxica",
+        "language": "pt",
+        "ref": "0c8bdb97-0521-452e-afb8-e3d34f1632f2"
+    },
+    {
         "id": "1322065d-fd33-41ff-a752-a899cdfdbd82",
         "completed": false,
         "name": "Eu Vou Bem Sem Você - Rentzel",
@@ -208,18 +226,18 @@
     },
     {
         "id": "8b69fdf5-140d-4c31-a8a9-d53196277d2e",
-        "completed": false,
+        "completed": true,
         "name": "The Art of War - Sun Tzu",
-        "color": "#7ff68c",
+        "color": "#e35959",
         "path": "art-war",
         "language": "en",
         "ref": "1ef74974-4450-46ee-afb5-4cfc4c2d0322"
     },
     {
         "id": "544d512a-68d4-4651-87f9-86f5af9dfc0c",
-        "completed": false,
+        "completed": true,
         "name": "A Arte da Guerra - Sun Tzu",
-        "color": "#7ff68c",
+        "color": "#e35959",
         "path": "arte-guerra",
         "language": "pt",
         "ref": "1ef74974-4450-46ee-afb5-4cfc4c2d0322"
