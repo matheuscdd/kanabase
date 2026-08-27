@@ -86,7 +86,7 @@
     {
         "id": "eaeb9354-a97c-4d28-a6ca-0b6c0c8febe6",
         "name": "1 Chronicles",
-        "color": "#FFE300",
+        "color": "#ff7299",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 13
     },
@@ -387,7 +387,7 @@
     {
         "id": "77edfbf1-78fa-47e4-8677-70d37b9a9601",
         "name": "Titus",
-        "color": "#C700FF",
+        "color": "#caff90",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 56
     },
@@ -548,7 +548,7 @@
     {
         "id": "d7a2c784-f888-4f86-b6a0-eab3353a9c53",
         "name": "1 Crônicas",
-        "color": "#FFE300",
+        "color": "#ff7299",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 13
     },
@@ -849,7 +849,7 @@
     {
         "id": "228c9462-5265-4ffb-aeb8-233ee5921597",
         "name": "Tito",
-        "color": "#C700FF",
+        "color": "#caff90",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 56
     },
