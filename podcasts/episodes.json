@@ -37684,5 +37684,96 @@
         "audio": "en/skepticism-faith/6%20-%20The%20Dilemma%20of%20Evil,%20Violence,%20and%20Suffering/Conclusion%20%E2%80%93%20Finally%20home/Conclusion%20%E2%80%93%20Finally%20home.webm",
         "transcription": "",
         "color": "#196c31"
-    }
+    },
+    {
+    "id": "4355ee48-bb0f-4be6-8e5f-3ed3aa11c81f",
+    "order": 1,
+    "name": "1 - Você é aquilo que ama: adorar é humano",
+    "duration": 1576,
+    "sectionId": "ef51d71e-f7f0-4c65-8457-b2608d1d9dd0",
+    "sectionName": "1 - O Coração e as Liturgias Culturais",
+    "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+    "podcastName": "Você é aquilo que ama - J. Smith",
+    "audio": "pt/voce-adora/1/aot-001-001-001/aot-001-001-001.webm",
+    "transcription": "",
+    "color": "#196c31"
+  },
+  {
+    "id": "bce625ad-306f-4db7-87c4-0195721f0fec",
+    "order": 2,
+    "name": "2 - Você pode não amar aquilo que acredita amar: aprendendo a ler as liturgias \"seculares\"",
+    "duration": 1772,
+    "sectionId": "ef51d71e-f7f0-4c65-8457-b2608d1d9dd0",
+    "sectionName": "1 - O Coração e as Liturgias Culturais",
+    "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+    "podcastName": "Você é aquilo que ama - J. Smith",
+    "audio": "pt/voce-adora/1/aot-001-002-002/aot-001-002-002.webm",
+    "transcription": "",
+    "color": "#196c31"
+  },
+  {
+    "id": "7d72c67e-055f-410c-8b83-92f4c1cb5ca8",
+    "order": 3,
+    "name": "3 - O espírito o encontra onde você estiver: adoração histórica para uma era pós-moderna",
+    "duration": 1484,
+    "sectionId": "0a68f5ee-3bb7-4309-92c9-5ed807ba78a7",
+    "sectionName": "2 - A Igreja e a Formação Espiritual",
+    "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+    "podcastName": "Você é aquilo que ama - J. Smith",
+    "audio": "pt/voce-adora/2/aot-002-001-003/aot-002-001-003.webm",
+    "transcription": "",
+    "color": "#196c31"
+  },
+  {
+    "id": "d1188241-df40-48da-be3e-844997471d39",
+    "order": 4,
+    "name": "4 - Em que história você está inserido? O arco narrativo da adoração cristã formadora",
+    "duration": 1386,
+    "sectionId": "0a68f5ee-3bb7-4309-92c9-5ed807ba78a7",
+    "sectionName": "2 - A Igreja e a Formação Espiritual",
+    "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+    "podcastName": "Você é aquilo que ama - J. Smith",
+    "audio": "pt/voce-adora/2/aot-002-002-004/aot-002-002-004.webm",
+    "transcription": "",
+    "color": "#196c31"
+  },
+  {
+    "id": "3cd9cd63-b39c-480c-b02f-25a9d6325878",
+    "order": 5,
+    "name": "5 - Guarde seu coração: as liturgias do lar",
+    "duration": 1186,
+    "sectionId": "5632a43d-d54c-4fb3-9599-019569b4c6e3",
+    "sectionName": "3 - A Vida Cotidiana e o Lar",
+    "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+    "podcastName": "Você é aquilo que ama - J. Smith",
+    "audio": "pt/voce-adora/3/aot-003-001-005/aot-003-001-005.webm",
+    "transcription": "",
+    "color": "#196c31"
+  },
+  {
+    "id": "7b50162e-b40e-409c-a0ed-92899cdc35b0",
+    "order": 6,
+    "name": "6 - Ensine bem seus filhos: aprendendo de cor",
+    "duration": 796,
+    "sectionId": "5632a43d-d54c-4fb3-9599-019569b4c6e3",
+    "sectionName": "3 - A Vida Cotidiana e o Lar",
+    "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+    "podcastName": "Você é aquilo que ama - J. Smith",
+    "audio": "pt/voce-adora/3/aot-003-002-006/aot-003-002-006.webm",
+    "transcription": "",
+    "color": "#196c31"
+  },
+  {
+    "id": "54266197-29b1-4ece-91a4-5bd083f2584d",
+    "order": 7,
+    "name": "7 - Você faz o que deseja: liturgias",
+    "duration": 1392,
+    "sectionId": "5632a43d-d54c-4fb3-9599-019569b4c6e3",
+    "sectionName": "3 - A Vida Cotidiana e o Lar",
+    "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+    "podcastName": "Você é aquilo que ama - J. Smith",
+    "audio": "pt/voce-adora/3/aot-003-003-007/aot-003-003-007.webm",
+    "transcription": "",
+    "color": "#196c31"
+  }
 ]

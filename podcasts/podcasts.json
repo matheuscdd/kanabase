@@ -241,5 +241,14 @@
         "path": "arte-guerra",
         "language": "pt",
         "ref": "1ef74974-4450-46ee-afb5-4cfc4c2d0322"
+    },
+    {
+        "id": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+        "completed": true,
+        "name": "Você é aquilo que ama - J. Smith",
+        "color": "#e35959",
+        "path": "voce-adora",
+        "language": "pt",
+        "ref": "ee44d0eb-1e58-423d-b96b-befa27a136a5"
     }
 ]

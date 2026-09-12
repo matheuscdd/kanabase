@@ -1722,5 +1722,26 @@
         "podcastId": "544d512a-68d4-4651-87f9-86f5af9dfc0c",
         "order": 5,
         "last": 13
+    },
+    {
+        "id": "ef51d71e-f7f0-4c65-8457-b2608d1d9dd0",
+        "name": "1 - O Coração e as Liturgias Culturais",
+        "color": "#a81d72",
+        "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+        "order": 1
+    },
+    {
+        "id": "0a68f5ee-3bb7-4309-92c9-5ed807ba78a7",
+        "name": "2 - A Igreja e a Formação Espiritual",
+        "color": "#1e5dad",
+        "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+        "order": 2
+    },
+    {
+        "id": "5632a43d-d54c-4fb3-9599-019569b4c6e3",
+        "name": "3 - A Vida Cotidiana e o Lar",
+        "color": "#8928ff",
+        "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
+        "order": 3
     }
 ]
