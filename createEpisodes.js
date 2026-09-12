@@ -121,9 +121,10 @@ const results = chapterEntries
     })
     .map(entry => {
         const section = sections.find(x => Number(x.order) === entry.sectionIndex) || sections[0];
+
         const result = {
             id: crypto.randomUUID(),
-            order: entry.chapter,
+            order: entry.internalSectionIndex ,
             name: `${entry.chapter} - ${entry.title}`.trim(),
             duration: durations[entry.chapterKey],
             sectionId: section.id,
@@ -135,7 +136,6 @@ const results = chapterEntries
             color: "#196c31"
         };
 
-        section.chapters.push(entry.chapter);
         return result;
     });
 
