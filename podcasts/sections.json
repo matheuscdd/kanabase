@@ -100,7 +100,7 @@
     {
         "id": "e9d44837-2769-4839-ac0b-78eb28134b47",
         "name": "Ezra",
-        "color": "#A600C9",
+        "color": "#FFF890",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 15
     },
@@ -562,7 +562,7 @@
     {
         "id": "4375bbd0-3366-4145-8c86-c625b6d784ba",
         "name": "Esdras",
-        "color": "#A600C9",
+        "color": "#FFF890",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 15
     },
