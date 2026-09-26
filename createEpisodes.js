@@ -5,13 +5,14 @@ const crypto = require('node:crypto');
 // Formato esperado: 'aot-001-001-001. Você é aquilo que ama: adorar é humano'
 // Ou deixe vazio para usar a leitura automática do nome dos arquivos.
 const manualChapterList = [
-    'aot-001-001-001. Você é aquilo que ama: adorar é humano',
-    'aot-001-002-002. Você pode não amar aquilo que acredita amar: aprendendo a ler as liturgias "seculares"',
-    'aot-002-001-003. O espírito o encontra onde você estiver: adoração histórica para uma era pós-moderna',
-    'aot-002-002-004. Em que história você está inserido? O arco narrativo da adoração cristã formadora',
-    'aot-003-001-005. Guarde seu coração: as liturgias do lar',
-    'aot-003-002-006. Ensine bem seus filhos: aprendendo de cor',
-    'aot-003-003-007. Você faz o que deseja: liturgias',
+    'gen-001-001-001. Introdução',
+    'gen-001-002-002. Identidade de gênero, disforia de gênero e a valorização da complexidade',
+    'gen-001-003-003. Uma perspectiva cristã sobre a disforia de gênero',
+    'gen-002-001-004. O que causa a disforia de gênero?',
+    'gen-002-002-005. Fenomenologia e prevalência',
+    'gen-002-003-006. Prevenção e tratamento da disforia de gênero',
+    'gen-003-001-007. Rumo a uma resposta cristã: no nível individual',
+    'gen-003-002-008. Rumo a uma resposta cristã: no nível institucional'
 ];
 
 const podcastId = process.argv[2]?.trim();
@@ -44,7 +45,7 @@ const chapterEntries = [];
 const addChapterFromFile = (x) => {
     const fileName = x.file.split('/').at(-1);
     const normalizedName = fileName.replace(/\.[^/.]+$/, '');
-    const match = normalizedName.match(/^aot-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
+    const match = normalizedName.match(/^gen-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
 
     if (!match) {
         return;
@@ -68,7 +69,7 @@ const addChapterFromFile = (x) => {
 
 if (manualChapterList.length) {
     manualChapterList.forEach(item => {
-        const match = item.match(/^aot-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
+        const match = item.match(/^gen-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
 
         if (!match) {
             throw new Error(`Capítulo inválido na lista manual: ${item}`);
@@ -78,8 +79,9 @@ if (manualChapterList.length) {
         const chapterKey = `${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         const duration = rawDurations.find(x => {
             const fileName = x.file.split('/').at(-1).replace(/\.[^/.]+$/, '');
-            return fileName === `aot-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
+            return fileName === `gen-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         })?.duration;
+        console.log(duration)
 
         chapterEntries.push({
             chapterKey,
@@ -96,7 +98,7 @@ if (manualChapterList.length) {
 
         const matchingPath = rawDurations.find(x => {
             const fileName = x.file.split('/').at(-1).replace(/\.[^/.]+$/, '');
-            return fileName === `aot-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
+            return fileName === `gen-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         })?.file;
 
         if (matchingPath) {

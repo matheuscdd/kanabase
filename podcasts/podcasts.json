@@ -250,5 +250,14 @@
         "path": "voce-adora",
         "language": "pt",
         "ref": "ee44d0eb-1e58-423d-b96b-befa27a136a5"
+    },
+    {
+        "id": "e4cbce66-0c61-4fd8-b1ce-2df734cb1171",
+        "completed": true,
+        "name": "Entendendo a Disforia de Gênero - M. Yarhouse",
+        "color": "#5a7cff",
+        "path": "entendendo-genero",
+        "language": "pt",
+        "ref": "3c0b106c-2320-470d-82fd-12cb90f3a0a2"
     }
 ]

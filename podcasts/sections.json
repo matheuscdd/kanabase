@@ -1743,5 +1743,26 @@
         "color": "#aae069",
         "podcastId": "d712f8d7-d606-4b0d-980c-0d83350e6ce8",
         "order": 3
+    },
+    {
+        "id": "cdfbca53-8a07-4d68-882b-2b1c6ee47010",
+        "name": "1 - Fundamentos e Perspetivas",
+        "color": "#a2a2a2",
+        "podcastId": "e4cbce66-0c61-4fd8-b1ce-2df734cb1171",
+        "order": 1
+    },
+    {
+        "id": "97a2cd87-255d-4007-a226-6a72168ec931",
+        "name": "2 - Aspetos Clínicos e Científicos",
+        "color": "#1e5dad",
+        "podcastId": "e4cbce66-0c61-4fd8-b1ce-2df734cb1171",
+        "order": 2
+    },
+    {
+        "id": "aabcbe1a-db23-4cce-9c74-d8b8e2709ed2",
+        "name": "3 - Aplicação Prática e Resposta Cristã",
+        "color": "#aae069",
+        "podcastId": "e4cbce66-0c61-4fd8-b1ce-2df734cb1171",
+        "order": 3
     }
 ]
