@@ -205,7 +205,7 @@
     {
         "id": "237d7d78-17af-44b6-a18f-d3e3b9e0e152",
         "name": "Amos",
-        "color": "#00d9f0",
+        "color": "#c0ff00",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 30
     },
@@ -275,7 +275,7 @@
     {
         "id": "e2c88d35-b844-416f-bf1f-2f2f5ab1e5c9",
         "name": "Matthew",
-        "color": "#00B52D",
+        "color": "#00ffd0",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 40
     },
@@ -331,7 +331,7 @@
     {
         "id": "7c45553a-dfb7-4d7c-8cd7-71f60bd836ae",
         "name": "Galatians",
-        "color": "#17b500",
+        "color": "#9784ff",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 48
     },
@@ -408,7 +408,7 @@
     {
         "id": "42e687c0-67c6-4984-ba76-ff03c652629f",
         "name": "James",
-        "color": "#14D7C0",
+        "color": "#b3b3b3",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 59
     },
@@ -429,7 +429,7 @@
     {
         "id": "ab356fc6-561b-4891-970c-db9390ad37ff",
         "name": "1 John",
-        "color": "#656565",
+        "color": "#ff7070",
         "podcastId": "f8c87db0-fb42-463d-a5dd-f8f3921746c5",
         "order": 62
     },
@@ -667,7 +667,7 @@
     {
         "id": "fa84c520-b968-44ce-a03b-9dba4ae63457",
         "name": "Amós",
-        "color": "#00d9f0",
+        "color": "#c0ff00",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 30
     },
@@ -737,7 +737,7 @@
     {
         "id": "01ebb8b6-48f6-4b94-bbfc-5b4f4ef9c434",
         "name": "Mateus",
-        "color": "#00B52D",
+        "color": "#00ffd0",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 40
     },
@@ -793,7 +793,7 @@
     {
         "id": "038cb7b7-1bec-4f06-be3b-382074be29bb",
         "name": "Gálatas",
-        "color": "#17b500",
+        "color": "#9784ff",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 48
     },
@@ -870,7 +870,7 @@
     {
         "id": "60d6e15a-94fb-4ac7-9e64-f4ec60c7d260",
         "name": "Tiago",
-        "color": "#14D7C0",
+        "color": "#b3b3b3",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 59
     },
@@ -891,7 +891,7 @@
     {
         "id": "cc974f55-0d36-4af2-a829-62d35368c2d4",
         "name": "1 João",
-        "color": "#656565",
+        "color": "#ff7070",
         "podcastId": "bb6d5b68-7b64-40d7-842d-1e50251bf4e1",
         "order": 62
     },
