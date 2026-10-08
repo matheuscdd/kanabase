@@ -260,4 +260,14 @@
         "language": "pt",
         "ref": "3c0b106c-2320-470d-82fd-12cb90f3a0a2"
     }
+    ,
+    {
+        "id": "0b8a2abe-0298-45c9-b861-481c27069c74",
+        "completed": true,
+        "name": "Heróis da Fé - O. Boyer",
+        "color": "#5a7cff",
+        "path": "herois-fe",
+        "language": "pt",
+        "ref": "03c1be3d-5f13-4100-9356-aeeb52a823d1"
+    }
 ]

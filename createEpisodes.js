@@ -5,14 +5,29 @@ const crypto = require('node:crypto');
 // Formato esperado: 'aot-001-001-001. Você é aquilo que ama: adorar é humano'
 // Ou deixe vazio para usar a leitura automática do nome dos arquivos.
 const manualChapterList = [
-    'gen-001-001-001. Introdução',
-    'gen-001-002-002. Identidade de gênero, disforia de gênero e a valorização da complexidade',
-    'gen-001-003-003. Uma perspectiva cristã sobre a disforia de gênero',
-    'gen-002-001-004. O que causa a disforia de gênero?',
-    'gen-002-002-005. Fenomenologia e prevalência',
-    'gen-002-003-006. Prevenção e tratamento da disforia de gênero',
-    'gen-003-001-007. Rumo a uma resposta cristã: no nível individual',
-    'gen-003-002-008. Rumo a uma resposta cristã: no nível institucional'
+    "hvj-001-001-001. O Mistério dos Heróis da Fé",
+    "hvj-001-002-002. Jeronimo Savonarola (Precursor da Grande Reforma)",
+    "hvj-001-003-003. Martinho Lutero (O Grande Reformador)",
+    "hvj-001-004-004. João Bunyan (Sonhador Imortal)",
+    "hvj-001-005-005. Jônatas Edwards (Grande despertador)",
+    "hvj-001-006-006. João Wesley (Tocha Tirada do Fogo)",
+    "hvj-001-007-007. Jorge Whitefield (Pregador ao Ar Livre)",
+    "hvj-001-008-008. Daví Brainerd (Arauto aos Peles Vermelhas)",
+    "hvj-001-009-009. Guilherme Carey (Pai das Missões Modernas)",
+    "hvj-001-010-010. Christmas Evans (O \"João Bunyan de Gales\")",
+    "hvj-001-011-011. Henrique Martin (Luz inteiramente Gasta por Deus)",
+    "hvj-001-012-012. Adoniram Judson (Missionário, Pioneiro à Birmânia)",
+    "hvj-001-013-013. Carlos Finney (Apóstolo de Avivamentos)",
+    "hvj-001-014-014. O Salvador Espera e o Mundo Carece",
+    "hvj-002-001-015. O Soluço de um Bilhão de Almas",
+    "hvj-002-002-016. Jorge Muler (Apóstolo da Fé)",
+    "hvj-002-003-017. Daví Livingstone (Célebre Missionário e Explorador)",
+    "hvj-002-004-018. João Paton (Missionário aos Antropófagos)",
+    "hvj-002-005-019. Hudson Taylor (O Pai da Missão do Interior da China)",
+    "hvj-002-006-020. Carlos Spurgeon (O Príncipe dos Pregadores)",
+    "hvj-002-007-021. Pastor Hsi (Amado Líder Chinês)",
+    "hvj-002-008-022. Dwight Lyman Moody (Célebre Ganhador de Almas)",
+    "hvj-002-009-023. Jônatas Goforth (\"Por Meu Espírito\")",
 ];
 
 const podcastId = process.argv[2]?.trim();
@@ -45,7 +60,7 @@ const chapterEntries = [];
 const addChapterFromFile = (x) => {
     const fileName = x.file.split('/').at(-1);
     const normalizedName = fileName.replace(/\.[^/.]+$/, '');
-    const match = normalizedName.match(/^gen-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
+    const match = normalizedName.match(/^hvj-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
 
     if (!match) {
         return;
@@ -69,7 +84,7 @@ const addChapterFromFile = (x) => {
 
 if (manualChapterList.length) {
     manualChapterList.forEach(item => {
-        const match = item.match(/^gen-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
+        const match = item.match(/^hvj-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
 
         if (!match) {
             throw new Error(`Capítulo inválido na lista manual: ${item}`);
@@ -79,9 +94,8 @@ if (manualChapterList.length) {
         const chapterKey = `${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         const duration = rawDurations.find(x => {
             const fileName = x.file.split('/').at(-1).replace(/\.[^/.]+$/, '');
-            return fileName === `gen-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
+            return fileName === `hvj-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         })?.duration;
-        console.log(duration)
 
         chapterEntries.push({
             chapterKey,
@@ -98,7 +112,7 @@ if (manualChapterList.length) {
 
         const matchingPath = rawDurations.find(x => {
             const fileName = x.file.split('/').at(-1).replace(/\.[^/.]+$/, '');
-            return fileName === `gen-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
+            return fileName === `hvj-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         })?.file;
 
         if (matchingPath) {
@@ -126,7 +140,7 @@ const results = chapterEntries
 
         const result = {
             id: crypto.randomUUID(),
-            order: entry.internalSectionIndex ,
+            order: entry.internalSectionIndex,
             name: `${entry.chapter} - ${entry.title}`.trim(),
             duration: durations[entry.chapterKey],
             sectionId: section.id,
