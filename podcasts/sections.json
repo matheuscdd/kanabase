@@ -1782,35 +1782,35 @@
     {
         "id": "31bbfc57-599c-4edc-808a-3d4c962f0c58",
         "name": "1 - Fundamentos Espirituais e Práticos",
-        "color": "#ebff00",
+        "color": "#00ff70",
         "podcastId": "421927b4-8823-4b40-a4cc-e62f92333b8b",
         "order": 1
     },
     {
         "id": "0dec6e5f-f3a7-4d04-ba26-11ea4fc5297a",
         "name": "2 - Entendendo a Natureza Humana e a Mente",
-        "color": "#ebff00",
+        "color": "#df85ff",
         "podcastId": "421927b4-8823-4b40-a4cc-e62f92333b8b",
         "order": 2
     },
     {
         "id": "e279ee20-03cf-4bed-8315-3852e06b5f3f",
         "name": "3 - A Batalha Espiritual e Emocional",
-        "color": "#ebff00",
+        "color": "#434343",
         "podcastId": "421927b4-8823-4b40-a4cc-e62f92333b8b",
         "order": 3
     },
     {
         "id": "1e682225-661d-4ecb-aea4-6751c950e558",
         "name": "4 - Aplicação Prática por Etapas de Vida",
-        "color": "#ebff00",
+        "color": "#00b7ff",
         "podcastId": "421927b4-8823-4b40-a4cc-e62f92333b8b",
         "order": 4
     },
     {
         "id": "0dd12d04-d867-47bc-94a6-cc06f3072d9f",
         "name": "5 - Considerações Finais",
-        "color": "#ebff00",
+        "color": "#2c00ff",
         "podcastId": "421927b4-8823-4b40-a4cc-e62f92333b8b",
         "order": 5
     }
