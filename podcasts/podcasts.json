@@ -259,8 +259,7 @@
         "path": "entendendo-genero",
         "language": "pt",
         "ref": "3c0b106c-2320-470d-82fd-12cb90f3a0a2"
-    }
-    ,
+    },
     {
         "id": "0b8a2abe-0298-45c9-b861-481c27069c74",
         "completed": true,
@@ -269,5 +268,14 @@
         "path": "herois-fe",
         "language": "pt",
         "ref": "03c1be3d-5f13-4100-9356-aeeb52a823d1"
+    },
+    {
+        "id": "421927b4-8823-4b40-a4cc-e62f92333b8b",
+        "completed": true,
+        "name": "Mais que Uma Batalha - J. Rigney",
+        "color": "#fff286",
+        "path": "mais-batalha",
+        "language": "pt",
+        "ref": "9e24758c-d6a1-4bc8-bda3-8f423e47b181"
     }
 ]

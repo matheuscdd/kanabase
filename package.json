@@ -6,7 +6,8 @@
   "scripts": {
     "concat:mp3": "node concatMp3.js",
     "compress:audio": "node compressAudio.js .",
-    "compress:json": "bash ./compressJson.sh ."
+    "compress:json": "bash ./compressJson.sh .",
+    "fix:line-endings": "node fix-carriage-returns.js ."
   },
   "keywords": [],
   "author": "",
