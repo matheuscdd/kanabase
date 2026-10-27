@@ -9,13 +9,13 @@ if [[ ! -d "$DIRECTORY" ]]; then
     exit 1
 fi
 
-find "$DIRECTORY" -maxdepth 1 -type f -name '*.m4a' -print0 |
+find "$DIRECTORY" -maxdepth 1 -type f -name '*.webm' -print0 |
 while IFS= read -r -d '' file_path; do
     file_name="$(basename "$file_path")"
 
-    if [[ "$file_name" =~ ^[[:alpha:]]+-([0-9]+)-[0-9]+-[0-9]+\.m4a$ ]]; then
+    if [[ "$file_name" =~ ^[[:alpha:]]+-([0-9]+)-[0-9]+-[0-9]+\.webm$ ]]; then
         section=$((10#${BASH_REMATCH[1]}))
-        base_name="${file_name%.m4a}"
+        base_name="${file_name%.webm}"
 
         destination_directory="$DIRECTORY/$section/$base_name"
 
