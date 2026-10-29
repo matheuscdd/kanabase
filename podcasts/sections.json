@@ -1834,5 +1834,33 @@
         "color": "#73deff",
         "podcastId": "5e5ca5b0-7899-4b88-9f3d-7e55ab39eee5",
         "order": 3
+    },
+    {
+        "id": "7a6a1d79-fc40-4cb3-b45d-91237aa7bcb1",
+        "name": "1 - Origem e Formação (1839-1888)",
+        "color": "#00ff70",
+        "podcastId": "f8fe4d9f-054e-4440-afdd-f31b0dd2a786",
+        "order": 1
+    },
+    {
+        "id": "06ecbcc7-4f53-40ad-b7a8-892094cf5ccd",
+        "name": "2 - Anos de Crescimento e Reorganização (1888-1945)",
+        "color": "#df85ff",
+        "podcastId": "f8fe4d9f-054e-4440-afdd-f31b0dd2a786",
+        "order": 2
+    },
+    {
+        "id": "0b003053-fdfa-4958-ac35-95f3c6e3b2b0",
+        "name": "3 - A Globalização da Igreja (1945-2000)",
+        "color": "#434343",
+        "podcastId": "f8fe4d9f-054e-4440-afdd-f31b0dd2a786",
+        "order": 3
+    },
+    {
+        "id": "cc289881-cb1f-415d-a058-e10b99478911",
+        "name": "4 - Mantendo a Mensagem Bíblica",
+        "color": "#00b7ff",
+        "podcastId": "f8fe4d9f-054e-4440-afdd-f31b0dd2a786",
+        "order": 4
     }
 ]
