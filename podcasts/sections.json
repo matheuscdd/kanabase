@@ -1862,5 +1862,33 @@
         "color": "#ffd700",
         "podcastId": "f8fe4d9f-054e-4440-afdd-f31b0dd2a786",
         "order": 4
+    },
+    {
+        "id": "44239df7-22ae-4e81-89d7-ea439b82d579",
+        "name": "1 - Panorama geral",
+        "color": "#a094f5",
+        "podcastId": "5f5e9ab2-625b-4857-866f-9d25cecbda45",
+        "order": 1
+    },
+    {
+        "id": "dd1c8e73-c484-4403-b036-f8ce0570fa62",
+        "name": "2 - Juízo e Conflitos Históricos",
+        "color": "#ff7df7",
+        "podcastId": "5f5e9ab2-625b-4857-866f-9d25cecbda45",
+        "order": 2
+    },
+    {
+        "id": "ac5df607-ec34-495f-973c-7827caa87220",
+        "name": "3 - Conflitos Proféticos e Ameaças",
+        "color": "#64fde0",
+        "podcastId": "5f5e9ab2-625b-4857-866f-9d25cecbda45",
+        "order": 3
+    },
+    {
+        "id": "0b14833e-6b8c-4f57-b57c-fb595f0fa044",
+        "name": "4 - Desfecho e Redenção",
+        "color": "#ffd700",
+        "podcastId": "5f5e9ab2-625b-4857-866f-9d25cecbda45",
+        "order": 4
     }
 ]

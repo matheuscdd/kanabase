@@ -295,5 +295,14 @@
         "path": "portadores-luz",
         "language": "pt",
         "ref": "bc61681d-6b19-4566-8597-0dcf3c298e2a"
+    },
+    {
+        "id": "5f5e9ab2-625b-4857-866f-9d25cecbda45",
+        "completed": true,
+        "name": "Contagem Regressiva - A. Bullón",
+        "color": "#ff8181",
+        "path": "contagem-regressiva",
+        "language": "pt",
+        "ref": "66207078-c275-436b-8b30-c4a4463b0c95"
     }
 ]
