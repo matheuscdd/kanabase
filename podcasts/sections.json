@@ -1006,7 +1006,7 @@
     {
         "id": "f77dbfad-528c-4a9d-9472-04931f5dc730",
         "name": "1 - Principles",
-        "color": "#717171",
+        "color": "#ff2093",
         "podcastId": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
         "order": 1,
         "last": 2
@@ -1022,7 +1022,7 @@
     {
         "id": "245ec795-7ad7-4411-b7f2-10446e8b328f",
         "name": "3 - Deepening Practice and Empathy",
-        "color": "#717171",
+        "color": "#28b337",
         "podcastId": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
         "order": 3,
         "last": 9
@@ -1030,7 +1030,7 @@
     {
         "id": "78b014cb-6744-4776-b61a-12dec81a2463",
         "name": "4 - Applications in Complex Situations and Conclusion",
-        "color": "#717171",
+        "color": "#b447ff",
         "podcastId": "38315c63-5bfa-4450-b73d-8fdbfa4f9d57",
         "order": 4,
         "last": 13
@@ -1038,7 +1038,7 @@
     {
         "id": "28dbebd8-ca2a-4a7b-bedf-622676713ec6",
         "name": "1 - Princípios",
-        "color": "#717171",
+        "color": "#ff2093",
         "podcastId": "87322a9a-00d2-42a4-b930-267e292662f1",
         "order": 1,
         "last": 2
@@ -1054,7 +1054,7 @@
     {
         "id": "84b30f8d-13e0-456c-b55b-effc58658f67",
         "name": "3 - Aprofundando a Prática e a Empatia",
-        "color": "#717171",
+        "color": "#28b337",
         "podcastId": "87322a9a-00d2-42a4-b930-267e292662f1",
         "order": 3,
         "last": 9
@@ -1062,7 +1062,7 @@
     {
         "id": "177dcb3c-eeab-48cf-bfdc-95b3c46368c6",
         "name": "4 - Aplicações em Situações Complexas e Conclusão",
-        "color": "#717171",
+        "color": "#b447ff",
         "podcastId": "87322a9a-00d2-42a4-b930-267e292662f1",
         "order": 4,
         "last": 13
@@ -1294,7 +1294,7 @@
     {
         "id": "acdae53c-a1d6-4766-bb40-e34c9ede4dc3",
         "name": "1 - Understanding Toxic Positivity",
-        "color": "#717171",
+        "color": "#4fff7b",
         "podcastId": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
         "order": 1,
         "last": 3
@@ -1302,7 +1302,7 @@
     {
         "id": "6e46ba15-1125-4004-9c51-b4213346f3fe",
         "name": "2 - Internal Processing and Validation",
-        "color": "#717171",
+        "color": "#ff64ee",
         "podcastId": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
         "order": 2,
         "last": 6
@@ -1310,7 +1310,7 @@
     {
         "id": "56debd96-b4f6-453b-8815-ee19a7a9eef4",
         "name": "3 - Interpersonal Relationships and the Outside World",
-        "color": "#717171",
+        "color": "#70c3ff",
         "podcastId": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
         "order": 3,
         "last": 8
@@ -1318,7 +1318,7 @@
     {
         "id": "c472d5dd-5d6f-43d0-8d84-02e15ec7b8ba",
         "name": "4 - Perspective and Acceptance",
-        "color": "#717171",
+        "color": "#e93e3e",
         "podcastId": "4e5d3995-465e-420b-8fdc-bc10a577fbbd",
         "order": 4,
         "last": 9
@@ -1326,7 +1326,7 @@
     {
         "id": "6dea1c1e-2f4f-4e07-b99c-20d890ee6a2e",
         "name": "1 - Entendendo a Positividade Tóxica",
-        "color": "#717171",
+        "color": "#4fff7b",
         "podcastId": "1a5d75b2-c822-4753-af2e-fa118c1354f1",
         "order": 1,
         "last": 3
@@ -1334,7 +1334,7 @@
     {
         "id": "1ba36fbf-5275-419a-8aaa-729c23d6c1c1",
         "name": "2 - Processo Interno e Validação",
-        "color": "#717171",
+        "color": "#ff64ee",
         "podcastId": "1a5d75b2-c822-4753-af2e-fa118c1354f1",
         "order": 2,
         "last": 6
@@ -1342,7 +1342,7 @@
     {
         "id": "707707cc-0317-42c9-b8b6-984cef28139f",
         "name": "3 - Relacionamentos Interpessoais e o Mundo Exterior",
-        "color": "#717171",
+        "color": "#70c3ff",
         "podcastId": "1a5d75b2-c822-4753-af2e-fa118c1354f1",
         "order": 3,
         "last": 8
@@ -1350,7 +1350,7 @@
     {
         "id": "00436f4a-0957-4b1e-af32-dd256de8ed82",
         "name": "4 - Perspectiva e Aceitação",
-        "color": "#717171",
+        "color": "#e93e3e",
         "podcastId": "1a5d75b2-c822-4753-af2e-fa118c1354f1",
         "order": 4,
         "last": 9
@@ -1502,7 +1502,7 @@
     {
         "id": "143f037b-ac4a-4447-9427-d2b1e9559cb7",
         "name": "1 - Fundamentos, Desenvolvimento e Prevenção",
-        "color": "#717171",
+        "color": "#f5aeff",
         "podcastId": "42c64355-5d21-4df7-8180-9e5de73f9727",
         "order": 1,
         "last": 3
@@ -1510,7 +1510,7 @@
     {
         "id": "ebd5b226-0dea-4a6d-ab58-8da913d727f8",
         "name": "2 - Dinâmicas Familiares, Sociais e Adolescência",
-        "color": "#717171",
+        "color": "#9d71ff",
         "podcastId": "42c64355-5d21-4df7-8180-9e5de73f9727",
         "order": 2,
         "last": 7
@@ -1518,7 +1518,7 @@
     {
         "id": "56c867f9-86fb-421e-9cf6-d5fff0c0be3b",
         "name": "3 - Intervenção, Tratamento e Relatos",
-        "color": "#717171",
+        "color": "#18a8ff",
         "podcastId": "42c64355-5d21-4df7-8180-9e5de73f9727",
         "order": 3,
         "last": 10
@@ -1550,7 +1550,7 @@
     {
         "id": "56a8e283-1802-4294-8252-16f3aef16eaf",
         "name": "1 - Compreendendo a Dependência",
-        "color": "#717171",
+        "color": "#ff7171",
         "podcastId": "1322065d-fd33-41ff-a752-a899cdfdbd82",
         "order": 1,
         "last": 2
@@ -1558,7 +1558,7 @@
     {
         "id": "281e766b-2977-4d40-bfdc-3fa68e209fc7",
         "name": "2 - A Dinâmica e os Desafios",
-        "color": "#717171",
+        "color": "#177d27",
         "podcastId": "1322065d-fd33-41ff-a752-a899cdfdbd82",
         "order": 2,
         "last": 4
@@ -1566,7 +1566,7 @@
     {
         "id": "3ddfcb22-f65a-4f05-949b-863a221ebe3b",
         "name": "3 - Recuperação e Superação",
-        "color": "#717171",
+        "color": "#bb58ff",
         "podcastId": "1322065d-fd33-41ff-a752-a899cdfdbd82",
         "order": 3,
         "last": 6
@@ -1574,7 +1574,7 @@
     {
         "id": "43cbe139-d9b4-4e25-903b-8764be79ffe4",
         "name": "1 - Esforço da Identificação do Sexo",
-        "color": "#717171",
+        "color": "#ad75ff",
         "podcastId": "a2f3f215-5d6f-4fea-9971-0bbbe6df798e",
         "order": 1,
         "last": 6
@@ -1582,7 +1582,7 @@
     {
         "id": "42a9d358-5ac0-466f-85c6-62934373912b",
         "name": "2 - Problemas Relacionados",
-        "color": "#717171",
+        "color": "#007cff",
         "podcastId": "a2f3f215-5d6f-4fea-9971-0bbbe6df798e",
         "order": 2,
         "last": 13
@@ -1590,7 +1590,7 @@
     {
         "id": "3839973c-e970-42bc-9fa8-7281cff2f214",
         "name": "3 - Psicoterapia",
-        "color": "#717171",
+        "color": "#ff4e4e",
         "podcastId": "a2f3f215-5d6f-4fea-9971-0bbbe6df798e",
         "order": 3,
         "last": 20
@@ -1873,21 +1873,21 @@
     {
         "id": "dd1c8e73-c484-4403-b036-f8ce0570fa62",
         "name": "2 - Juízo e Conflitos Históricos",
-        "color": "#ff7df7",
+        "color": "#3f3f3f",
         "podcastId": "5f5e9ab2-625b-4857-866f-9d25cecbda45",
         "order": 2
     },
     {
         "id": "ac5df607-ec34-495f-973c-7827caa87220",
         "name": "3 - Conflitos Proféticos e Ameaças",
-        "color": "#64fde0",
+        "color": "#ff9ff0",
         "podcastId": "5f5e9ab2-625b-4857-866f-9d25cecbda45",
         "order": 3
     },
     {
         "id": "0b14833e-6b8c-4f57-b57c-fb595f0fa044",
         "name": "4 - Desfecho e Redenção",
-        "color": "#ffd700",
+        "color": "#4ed5ff",
         "podcastId": "5f5e9ab2-625b-4857-866f-9d25cecbda45",
         "order": 4
     }
