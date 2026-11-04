@@ -1890,5 +1890,26 @@
         "color": "#4ed5ff",
         "podcastId": "5f5e9ab2-625b-4857-866f-9d25cecbda45",
         "order": 4
+    },
+    {
+        "id": "ed1af45f-6397-47fc-b6e9-332c6f18c82e",
+        "name": "1 - Compreendendo",
+        "color": "#a094f5",
+        "podcastId": "583251e9-d324-4fda-89a8-3679389f7fa9",
+        "order": 1
+    },
+    {
+        "id": "48c71915-12bd-46e5-ac98-dcace92dd7b1",
+        "name": "2 - Curando",
+        "color": "#8be4ff",
+        "podcastId": "583251e9-d324-4fda-89a8-3679389f7fa9",
+        "order": 2
+    },
+    {
+        "id": "07dabd8b-9a76-4511-aa47-a8177f6efedd",
+        "name": "3 - Compaixão",
+        "color": "#2d8e33",
+        "podcastId": "583251e9-d324-4fda-89a8-3679389f7fa9",
+        "order": 3
     }
 ]

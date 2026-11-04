@@ -5,19 +5,22 @@ const crypto = require('node:crypto');
 // Formato esperado: 'aot-001-001-001. Você é aquilo que ama: adorar é humano'
 // Ou deixe vazio para usar a leitura automática do nome dos arquivos.
 const manualChapterList = [
-  "con-001-001-001. Introdução",
-  "con-001-002-002. Uma mancha no universo",
-  "con-002-001-003. A hora do juízo",
-  "con-002-002-004. Os quatro cavaleiros",
-  "con-002-003-005. Por que sofremos?",
-  "con-003-001-006. A mulher perseguida",
-  "con-003-002-007. Feras insaciáveis",
-  "con-003-003-008. O selo e a marca",
-  "con-004-001-009. As sete pragas",
-  "con-004-002-010. A batalha do Armagedom",
-  "con-004-003-011. Sublime esperança",
-  "con-004-004-012. O milênio e a vida eterna",
-  "con-004-005-013. O chamado final"
+  "arm-001-001-001. Minha história: saindo do armário como heterossexual",
+  "arm-001-002-002. Definições e causas das atrações pelo mesmo sexo",
+  "arm-001-003-003. Steve",
+  "arm-002-001-004. Processo de cura: quatro estágios de recuperação",
+  "arm-002-002-005. Christian",
+  "arm-002-003-006. Ferramentas e técnicas terapêuticas",
+  "arm-002-004-007. Mark",
+  "arm-002-005-008. Raiva: acessando o poder pessoal",
+  "arm-002-006-009. Joseph",
+  "arm-002-007-010. Toque: a necessidade de vínculo e apego",
+  "arm-002-008-011. Bonnie",
+  "arm-002-009-012. Mentoria: restaurando o amor",
+  "arm-002-010-013. Slade",
+  "arm-003-001-014. Curando a homofobia: uma resposta positiva",
+  "arm-003-002-015. Orientação para família e amigos",
+  "arm-003-003-016. Um pensamento final"
 ]
 
 const podcastId = process.argv[2]?.trim();
@@ -50,7 +53,7 @@ const chapterEntries = [];
 const addChapterFromFile = (x) => {
     const fileName = x.file.split('/').at(-1);
     const normalizedName = fileName.replace(/\.[^/.]+$/, '');
-    const match = normalizedName.match(/^con-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
+    const match = normalizedName.match(/^arm-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
 
     if (!match) {
         return;
@@ -74,7 +77,7 @@ const addChapterFromFile = (x) => {
 
 if (manualChapterList.length) {
     manualChapterList.forEach(item => {
-        const match = item.match(/^con-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
+        const match = item.match(/^arm-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
 
         if (!match) {
             throw new Error(`Capítulo inválido na lista manual: ${item}`);
@@ -84,7 +87,7 @@ if (manualChapterList.length) {
         const chapterKey = `${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         const duration = rawDurations.find(x => {
             const fileName = x.file.split('/').at(-1).replace(/\.[^/.]+$/, '');
-            return fileName === `con-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
+            return fileName === `arm-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         })?.duration;
 
         chapterEntries.push({
@@ -102,7 +105,7 @@ if (manualChapterList.length) {
 
         const matchingPath = rawDurations.find(x => {
             const fileName = x.file.split('/').at(-1).replace(/\.[^/.]+$/, '');
-            return fileName === `con-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
+            return fileName === `arm-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         })?.file;
 
         if (matchingPath) {

@@ -304,5 +304,14 @@
         "path": "contagem-regressiva",
         "language": "pt",
         "ref": "66207078-c275-436b-8b30-c4a4463b0c95"
+    },
+    {
+        "id": "583251e9-d324-4fda-89a8-3679389f7fa9",
+        "completed": true,
+        "name": "Saindo do Armário - R. Cohen",
+        "color": "#979797",
+        "path": "saindo-armario",
+        "language": "pt",
+        "ref": "a5e2bbb5-9793-4e87-834f-25d03085d044"
     }
 ]
