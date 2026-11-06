@@ -1911,5 +1911,40 @@
         "color": "#2d8e33",
         "podcastId": "583251e9-d324-4fda-89a8-3679389f7fa9",
         "order": 3
+    },
+    {
+        "id": "e7b17e07-e744-4efa-b092-0905b865ff5b",
+        "name": "1 - Compreendendo a Dinâmica do Casamento",
+        "color": "#a094f5",
+        "podcastId": "b56f9f42-cf15-4c6b-a49b-c5ce978fc814",
+        "order": 1
+    },
+    {
+        "id": "0bf6e7b0-a138-4e42-bc37-a9b675a16050",
+        "name": "2 - Os Princípios Fundamentais para Fortalecer a Relação",
+        "color": "#ff8b8b",
+        "podcastId": "b56f9f42-cf15-4c6b-a49b-c5ce978fc814",
+        "order": 2
+    },
+    {
+        "id": "01caab75-9f91-410e-b777-e7a40e8263f0",
+        "name": "3 - Gestão e Resolução de Conflitos",
+        "color": "#2d8e33",
+        "podcastId": "b56f9f42-cf15-4c6b-a49b-c5ce978fc814",
+        "order": 3
+    },
+    {
+        "id": "b6a6a06c-be45-4b84-8e3e-c90a751f4dbc",
+        "name": "4 - Superação de Impasses e Construção de Propósito",
+        "color": "#8be4ff",
+        "podcastId": "b56f9f42-cf15-4c6b-a49b-c5ce978fc814",
+        "order": 4
+    },
+    {
+        "id": "3a14d25c-5b70-4719-854e-b4d2fff9e784",
+        "name": "5 - Considerações Finais",
+        "color": "#c300de",
+        "podcastId": "b56f9f42-cf15-4c6b-a49b-c5ce978fc814",
+        "order": 5
     }
 ]

@@ -313,5 +313,14 @@
         "path": "saindo-armario",
         "language": "pt",
         "ref": "a5e2bbb5-9793-4e87-834f-25d03085d044"
+    },
+    {
+        "id": "b56f9f42-cf15-4c6b-a49b-c5ce978fc814",
+        "completed": true,
+        "name": "7 Princípios para fazer o casamento funcionar - J. Gottman",
+        "color": "#fef1df",
+        "path": "7-principios-casamento",
+        "language": "pt",
+        "ref": "b4d1e7e3-dd45-4e55-85a2-a5b4307ca970"
     }
 ]

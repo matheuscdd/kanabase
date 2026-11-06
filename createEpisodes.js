@@ -5,22 +5,18 @@ const crypto = require('node:crypto');
 // Formato esperado: 'aot-001-001-001. Você é aquilo que ama: adorar é humano'
 // Ou deixe vazio para usar a leitura automática do nome dos arquivos.
 const manualChapterList = [
-  "arm-001-001-001. Minha história: saindo do armário como heterossexual",
-  "arm-001-002-002. Definições e causas das atrações pelo mesmo sexo",
-  "arm-001-003-003. Steve",
-  "arm-002-001-004. Processo de cura: quatro estágios de recuperação",
-  "arm-002-002-005. Christian",
-  "arm-002-003-006. Ferramentas e técnicas terapêuticas",
-  "arm-002-004-007. Mark",
-  "arm-002-005-008. Raiva: acessando o poder pessoal",
-  "arm-002-006-009. Joseph",
-  "arm-002-007-010. Toque: a necessidade de vínculo e apego",
-  "arm-002-008-011. Bonnie",
-  "arm-002-009-012. Mentoria: restaurando o amor",
-  "arm-002-010-013. Slade",
-  "arm-003-001-014. Curando a homofobia: uma resposta positiva",
-  "arm-003-002-015. Orientação para família e amigos",
-  "arm-003-003-016. Um pensamento final"
+  "wor-001-001-001. Dentro do laboratório do amor de seattle: a verdade sobre casamentos felizes",
+  "wor-001-002-002. Como Eu Prevejo o Divórcio",
+  "wor-002-001-003. Princípio 1: Aprimore Seus Mapas do Amor",
+  "wor-002-002-004. Princípio 2: Cultive o Carinho e a Admiração",
+  "wor-002-003-005. Princípio 3: Volte-se para o Outro em Vez de se Afastar",
+  "wor-002-004-006. Princípio 4: Deixe Seu Parceiro Influenciá-lo",
+  "wor-003-001-007. Os Dois Tipos de Conflito Conjugal",
+  "wor-003-002-008. Princípio 5: Resolva Seus Problemas Solucionáveis",
+  "wor-003-003-009. Lidando com Problemas Solucionáveis Típicos",
+  "wor-004-001-010. Princípio 6: Supere o Impasse",
+  "wor-004-002-011. Princípio 7: Crie Significado Compartilhado",
+  "wor-005-001-012. Posfácio: E Agora?"
 ]
 
 const podcastId = process.argv[2]?.trim();
@@ -53,7 +49,7 @@ const chapterEntries = [];
 const addChapterFromFile = (x) => {
     const fileName = x.file.split('/').at(-1);
     const normalizedName = fileName.replace(/\.[^/.]+$/, '');
-    const match = normalizedName.match(/^arm-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
+    const match = normalizedName.match(/^wor-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
 
     if (!match) {
         return;
@@ -77,7 +73,7 @@ const addChapterFromFile = (x) => {
 
 if (manualChapterList.length) {
     manualChapterList.forEach(item => {
-        const match = item.match(/^arm-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
+        const match = item.match(/^wor-(\d+)-(\d+)-(\d+)(?:\.\s*(.*))?$/i);
 
         if (!match) {
             throw new Error(`Capítulo inválido na lista manual: ${item}`);
@@ -87,7 +83,7 @@ if (manualChapterList.length) {
         const chapterKey = `${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         const duration = rawDurations.find(x => {
             const fileName = x.file.split('/').at(-1).replace(/\.[^/.]+$/, '');
-            return fileName === `arm-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
+            return fileName === `wor-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         })?.duration;
 
         chapterEntries.push({
@@ -105,7 +101,7 @@ if (manualChapterList.length) {
 
         const matchingPath = rawDurations.find(x => {
             const fileName = x.file.split('/').at(-1).replace(/\.[^/.]+$/, '');
-            return fileName === `arm-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
+            return fileName === `wor-${sectionIndex}-${internalSectionIndex}-${chapterNumber}`;
         })?.file;
 
         if (matchingPath) {
